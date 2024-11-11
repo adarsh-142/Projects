@@ -1,0 +1,1001 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,Address Line 1,City,Country,Postcode,Loyalty Card,Product ID,Coffee Type,Roast Type,Quantity,Size,Unit Price,Price per 100g,Profit,Sales
+QEV-37451-860,05-09-2019,17670-51384-MA,Aloisia Allner,57999 Pepper Wood Alley,Paterson,United States,7505,Yes,R-M-1,Robust,Medium,2,1,9.95,0.995,0.597,19.9
+QEV-37451-860,05-09-2019,17670-51384-MA,Aloisia Allner,57999 Pepper Wood Alley,Paterson,United States,7505,Yes,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+FAA-43335-268,17-06-2021,21125-22134-PX,Jami Redholes,5214 Bartillon Park,San Antonio,United States,78205,Yes,A-L-1,Arabica,Light,1,1,12.95,1.295,1.1655,12.95
+KAC-83089-793,15-07-2021,23806-46781-OU,Christoffer O' Shea,38980 Manitowish Junction,Cill Airne,Ireland,N41,No,E-M-1,Excelsa,Medium,2,1,13.75,1.375,1.5125,27.5
+KAC-83089-793,15-07-2021,23806-46781-OU,Christoffer O' Shea,38980 Manitowish Junction,Cill Airne,Ireland,N41,No,R-L-2.5,Robust,Light,2,2.5,27.485,1.0994,1.6491,54.97
+CVP-18956-553,04-08-2021,86561-91660-RB,Beryle Cottier,2651 Stoughton Place,Scranton,United States,18505,No,L-D-1,Liberica,Dark,3,1,12.95,1.295,1.6835,38.85
+IPP-31994-879,21-01-2022,65223-29612-CB,Shaylynn Lobe,7005 Mariners Cove Place,Dayton,United States,45440,Yes,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+SNZ-65340-705,20-05-2022,21134-81676-FR,Melvin Wharfe,7 Straubel Road,Kill,Ireland,P24,Yes,L-L-0.2,Liberica,Light,1,0.2,4.755,2.3775,0.61815,4.755
+EZT-46571-659,02-01-2019,03396-68805-ZC,Guthrey Petracci,949 Paget Parkway,Los Angeles,United States,90045,No,R-M-0.5,Robust,Medium,3,0.5,5.97,1.194,0.3582,17.91
+NWQ-70061-912,05-09-2019,61021-27840-ZN,Rodger Raven,1 Reinke Avenue,Los Angeles,United States,90065,No,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+BKK-47233-845,08-03-2021,76239-90137-UQ,Ferrell Ferber,68 High Crossing Court,San Jose,United States,95160,No,A-D-1,Arabica,Dark,4,1,9.95,0.995,0.8955,39.8
+VQR-01002-970,28-10-2020,49315-21985-BB,Duky Phizackerly,28643 Bluejay Crossing,San Jose,United States,95194,Yes,E-L-2.5,Excelsa,Light,5,2.5,34.155,1.3662,3.75705,170.775
+SZW-48378-399,02-07-2022,34136-36674-OM,Rosaleen Scholar,80915 Montana Park,Richmond,United States,23285,No,R-M-1,Robust,Medium,5,1,9.95,0.995,0.597,49.75
+ITA-87418-783,22-05-2020,39396-12890-PE,Terence Vanyutin,331 Bunting Hill,Migrate,United States,41905,No,R-D-2.5,Robust,Dark,2,2.5,20.585,0.8234,1.2351,41.17
+GNZ-46006-527,05-04-2022,95875-73336-RG,Patrice Trobe,827 Declaration Plaza,Saint Louis,United States,63131,Yes,L-D-0.2,Liberica,Dark,3,0.2,3.885,1.9425,0.50505,11.655
+FYQ-78248-319,07-06-2022,25473-43727-BY,Llywellyn Oscroft,022 Roth Place,Philadelphia,United States,19172,No,R-M-2.5,Robust,Medium,5,2.5,22.885,0.9154,1.3731,114.425
+VAU-44387-624,20-03-2019,99643-51048-IQ,Minni Alabaster,3 Charing Cross Trail,Portland,United States,97271,No,A-M-0.2,Arabica,Medium,6,0.2,3.375,1.6875,0.30375,20.25
+RDW-33155-159,19-10-2019,62173-15287-CU,Rhianon Broxup,83517 Thierer Court,Houston,United States,77240,No,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+TDZ-59011-211,13-06-2019,57611-05522-ST,Pall Redford,7337 Hayes Junction,Caherconlish,Ireland,F45,Yes,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+IDU-25793-399,04-12-2020,76664-37050-DT,Aurea Corradino,698 Canary Terrace,New York City,United States,10060,Yes,A-M-0.2,Arabica,Medium,5,0.2,3.375,1.6875,0.30375,16.875
+IDU-25793-399,04-12-2020,76664-37050-DT,Aurea Corradino,698 Canary Terrace,New York City,United States,10060,Yes,E-D-0.2,Excelsa,Dark,4,0.2,3.645,1.8225,0.40095,14.58
+NUO-20013-488,04-12-2020,03090-88267-BQ,Avrit Davidowsky,9 Warrior Junction,Grand Rapids,United States,49560,No,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+UQU-65630-479,22-01-2021,37651-47492-NC,Annabel Antuk,77965 Lawn Park,Punta Gorda,United States,33982,Yes,R-M-2.5,Robust,Medium,4,2.5,22.885,0.9154,1.3731,91.54
+FEO-11834-332,11-02-2022,95399-57205-HI,Iorgo Kleinert,1 Morningstar Lane,Vancouver,United States,98682,Yes,A-D-0.2,Arabica,Dark,4,0.2,2.985,1.4925,0.26865,11.94
+TKY-71558-096,15-09-2021,24010-66714-HW,Chrisy Blofeld,013 Talisman Terrace,Englewood,United States,80150,No,A-M-1,Arabica,Medium,1,1,11.25,1.125,1.0125,11.25
+OXY-65322-253,24-10-2020,07591-92789-UA,Culley Farris,4 Mitchell Drive,Punta Gorda,United States,33982,Yes,E-M-0.2,Excelsa,Medium,3,0.2,4.125,2.0625,0.45375,12.375
+EVP-43500-491,20-02-2019,49231-44455-IC,Selene Shales,74 Bultman Plaza,Petaluma,United States,94975,Yes,A-M-0.5,Arabica,Medium,4,0.5,6.75,1.35,0.6075,27
+WAG-26945-689,08-10-2019,50124-88608-EO,Vivie Danneil,5626 Darwin Avenue,Tralee,Ireland,V92,No,A-M-0.2,Arabica,Medium,5,0.2,3.375,1.6875,0.30375,16.875
+CHE-78995-767,02-08-2022,00888-74814-UZ,Theresita Newbury,79526 Bultman Lane,Clonskeagh,Ireland,D04,No,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+RYZ-14633-602,20-02-2019,14158-30713-OB,Mozelle Calcutt,4389 Russell Way,Rathwire,Ireland,Y25,Yes,A-D-1,Arabica,Dark,4,1,9.95,0.995,0.8955,39.8
+WOQ-36015-429,25-09-2021,51427-89175-QJ,Adrian Swaine,95 Straubel Hill,Aurora,United States,80044,No,L-M-0.2,Liberica,Medium,5,0.2,4.365,2.1825,0.56745,21.825
+WOQ-36015-429,25-09-2021,51427-89175-QJ,Adrian Swaine,95 Straubel Hill,Aurora,United States,80044,No,A-D-0.5,Arabica,Dark,6,0.5,5.97,1.194,0.5373,35.82
+WOQ-36015-429,25-09-2021,51427-89175-QJ,Adrian Swaine,95 Straubel Hill,Aurora,United States,80044,No,L-M-0.5,Liberica,Medium,6,0.5,8.73,1.746,1.1349,52.38
+SCT-60553-454,17-07-2021,39123-12846-YJ,Gallard Gatheral,40 Clemons Place,Grand Forks,United States,58207,No,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+GFK-52063-244,29-06-2020,44981-99666-XB,Una Welberry,40915 Schlimgen Park,Upton,United Kingdom,DN21,Yes,L-L-0.5,Liberica,Light,6,0.5,9.51,1.902,1.2363,57.06
+AMM-79521-378,01-06-2021,24825-51803-CQ,Faber Eilhart,6966 Victoria Street,Charleston,United States,25362,No,A-D-0.5,Arabica,Dark,6,0.5,5.97,1.194,0.5373,35.82
+QUQ-90580-772,06-02-2021,77634-13918-GJ,Zorina Ponting,7118 Holmberg Court,Little Rock,United States,72204,No,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+LGD-24408-274,25-04-2019,13694-25001-LX,Silvio Strase,5 Forest Lane,Denver,United States,80291,No,L-L-0.5,Liberica,Light,3,0.5,9.51,1.902,1.2363,28.53
+HCT-95608-959,25-04-2020,08523-01791-TI,Dorie de la Tremoille,0817 Dennis Street,Minneapolis,United States,55458,No,R-M-2.5,Robust,Medium,5,2.5,22.885,0.9154,1.3731,114.425
+OFX-99147-470,24-11-2021,49860-68865-AB,Hy Zanetto,469 Paget Place,Tucson,United States,85715,Yes,R-M-1,Robust,Medium,6,1,9.95,0.995,0.597,59.7
+LUO-37559-016,19-04-2021,21240-83132-SP,Jessica McNess,664 Erie Place,New Orleans,United States,70116,No,L-M-1,Liberica,Medium,3,1,14.55,1.455,1.8915,43.65
+XWC-20610-167,07-07-2022,08350-81623-TF,Lorenzo Yeoland,8510 Merrick Road,Hartford,United States,6183,Yes,E-D-0.2,Excelsa,Dark,2,0.2,3.645,1.8225,0.40095,7.29
+GPU-79113-136,22-05-2019,73284-01385-SJ,Abigail Tolworthy,74 Shopko Way,Ogden,United States,84409,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+ULR-52653-960,04-10-2021,04152-34436-IE,Maurie Bartol,7625 Starling Court,Boston,United States,2216,No,L-L-2.5,Liberica,Light,2,2.5,36.455,1.4582,4.73915,72.91
+HPI-42308-142,11-04-2020,06631-86965-XP,Olag Baudassi,55 Dottie Court,Rochester,United States,14604,Yes,E-M-0.5,Excelsa,Medium,2,0.5,8.25,1.65,0.9075,16.5
+XHI-30227-581,31-01-2022,54619-08558-ZU,Petey Kingsbury,28 Loftsgordon Place,Bronx,United States,10469,No,L-D-2.5,Liberica,Dark,6,2.5,29.785,1.1914,3.87205,178.71
+DJH-05202-380,07-11-2019,85589-17020-CX,Donna Baskeyfied,7586 Logan Avenue,Birmingham,United States,35205,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+VMW-26889-781,28-06-2019,36078-91009-WU,Arda Curley,45098 Scott Drive,San Bernardino,United States,92415,Yes,A-L-0.2,Arabica,Light,2,0.2,3.885,1.9425,0.34965,7.77
+DBU-81099-586,11-09-2020,15770-27099-GX,Raynor McGilvary,496 Rockefeller Court,Norfolk,United States,23514,No,A-D-2.5,Arabica,Dark,4,2.5,22.885,0.9154,2.05965,91.54
+PQA-54820-810,17-08-2022,91460-04823-BX,Isis Pikett,5892 Hauk Drive,Washington,United States,20409,No,A-L-1,Arabica,Light,3,1,12.95,1.295,1.1655,38.85
+XKB-41924-202,19-08-2022,45089-52817-WN,Inger Bouldon,925 Barby Circle,Fort Lauderdale,United States,33355,No,L-D-0.5,Liberica,Dark,2,0.5,7.77,1.554,1.0101,15.54
+DWZ-69106-473,15-05-2019,76447-50326-IC,Karry Flanders,88 Blue Bill Park Avenue,Crumlin,Ireland,D6W,Yes,L-L-2.5,Liberica,Light,4,2.5,36.455,1.4582,4.73915,145.82
+YHV-68700-050,11-09-2019,26333-67911-OL,Hartley Mattioli,126 Valley Edge Street,Kinloch,United Kingdom,PH43,No,R-M-0.5,Robust,Medium,5,0.5,5.97,1.194,0.3582,29.85
+YHV-68700-050,11-09-2019,26333-67911-OL,Hartley Mattioli,126 Valley Edge Street,Kinloch,United Kingdom,PH43,No,L-L-2.5,Liberica,Light,2,2.5,36.455,1.4582,4.73915,72.91
+KRB-88066-642,16-03-2021,22107-86640-SB,Archambault Gillard,97490 Susan Avenue,Toledo,United States,43666,No,L-M-1,Liberica,Medium,5,1,14.55,1.455,1.8915,72.75
+LQU-08404-173,03-12-2020,09960-34242-LZ,Salomo Cushworth,44 Oneill Parkway,Trenton,United States,8650,No,L-L-1,Liberica,Light,3,1,15.85,1.585,2.0605,47.55
+CWK-60159-881,27-01-2020,04671-85591-RT,Theda Grizard,6 Knutson Pass,Tampa,United States,33686,Yes,E-D-0.2,Excelsa,Dark,3,0.2,3.645,1.8225,0.40095,10.935
+EEG-74197-843,17-07-2022,25729-68859-UA,Rozele Relton,2484 Reindahl Court,Pensacola,United States,32590,No,E-L-1,Excelsa,Light,4,1,14.85,1.485,1.6335,59.4
+UCZ-59708-525,04-03-2022,05501-86351-NX,Willa Rolling,3 Mockingbird Plaza,Zephyrhills,United States,33543,Yes,L-D-2.5,Liberica,Dark,3,2.5,29.785,1.1914,3.87205,89.355
+HUB-47311-849,07-12-2021,04521-04300-OK,Stanislaus Gilroy,9120 Harbort Terrace,Saint Paul,United States,55123,Yes,L-M-0.5,Liberica,Medium,3,0.5,8.73,1.746,1.1349,26.19
+WYM-17686-694,25-02-2021,58689-55264-VK,Correy Cottingham,394 Logan Road,Fort Wayne,United States,46862,No,A-D-2.5,Arabica,Dark,5,2.5,22.885,0.9154,2.05965,114.425
+ZYQ-15797-695,25-02-2019,79436-73011-MM,Pammi Endacott,5841 Atwood Lane,Wootton,United Kingdom,NN4,Yes,R-D-0.5,Robust,Dark,5,0.5,5.37,1.074,0.3222,26.85
+EEJ-16185-108,09-02-2019,65552-60476-KY,Nona Linklater,856 Bonner Parkway,Naples,United States,34114,Yes,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+RWR-77888-800,07-02-2020,69904-02729-YS,Annadiane Dykes,31 Northport Terrace,Chicago,United States,60681,No,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+LHN-75209-742,23-03-2020,01433-04270-AX,Felecia Dodgson,48053 8th Crossing,Newark,United States,7104,Yes,R-M-0.5,Robust,Medium,6,0.5,5.97,1.194,0.3582,35.82
+TIR-71396-998,06-03-2022,14204-14186-LA,Angelia Cockrem,1 Sherman Alley,Vienna,United States,22184,Yes,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+RXF-37618-213,15-04-2022,32948-34398-HC,Belvia Umpleby,710 Prairie Rose Terrace,Fort Worth,United States,76178,Yes,R-L-0.5,Robust,Light,1,0.5,7.17,1.434,0.4302,7.17
+ANM-16388-634,19-11-2021,77343-52608-FF,Nat Saleway,0780 Anthes Plaza,Burbank,United States,91505,No,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+WYL-29300-070,16-10-2019,42770-36274-QA,Hayward Goulter,2081 Mariners Cove Drive,Kingsport,United States,37665,No,R-M-0.2,Robust,Medium,1,0.2,2.985,1.4925,0.1791,2.985
+JHW-74554-805,26-11-2019,14103-58987-ZU,Gay Rizzello,21 Schmedeman Crossing,Liverpool,United Kingdom,L33,Yes,R-M-1,Robust,Medium,6,1,9.95,0.995,0.597,59.7
+KYS-27063-603,30-06-2019,69958-32065-SW,Shannon List,7123 Algoma Center,Columbus,United States,43231,No,E-L-2.5,Excelsa,Light,4,2.5,34.155,1.3662,3.75705,136.62
+GAZ-58626-277,04-01-2021,69533-84907-FA,Shirlene Edmondson,4752 International Point,Newmarket on Fergus,Ireland,P17,No,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+RPJ-37787-335,27-10-2020,76005-95461-CI,Aurlie McCarl,731 David Park,New Orleans,United States,70183,No,A-M-2.5,Arabica,Medium,3,2.5,25.875,1.035,2.32875,77.625
+LEF-83057-763,15-06-2021,15395-90855-VB,Alikee Carryer,247 Helena Drive,Charlotte,United States,28230,Yes,L-M-0.2,Liberica,Medium,5,0.2,4.365,2.1825,0.56745,21.825
+RPW-36123-215,19-07-2021,80640-45811-LB,Jennifer Rangall,0 Grasskamp Lane,Springfield,United States,1114,Yes,E-L-0.5,Excelsa,Light,2,0.5,8.91,1.782,0.9801,17.82
+WLL-59044-117,23-07-2021,28476-04082-GR,Kipper Boorn,9513 Meadow Ridge Parkway,Listowel,Ireland,V31,Yes,R-D-1,Robust,Dark,6,1,8.95,0.895,0.537,53.7
+AWT-22827-563,25-01-2020,12018-75670-EU,Melania Beadle,4418 Quincy Terrace,Moycullen,Ireland,A41,Yes,R-L-0.2,Robust,Light,1,0.2,3.585,1.7925,0.2151,3.585
+QLM-07145-668,09-05-2019,86437-17399-FK,Colene Elgey,45 Marcy Crossing,Midland,United States,79705,No,E-D-0.2,Excelsa,Dark,2,0.2,3.645,1.8225,0.40095,7.29
+HVQ-64398-930,30-03-2020,62979-53167-ML,Lothaire Mizzi,74 Atwood Lane,Dallas,United States,75323,Yes,A-M-0.5,Arabica,Medium,6,0.5,6.75,1.35,0.6075,40.5
+WRT-40778-247,13-03-2022,54810-81899-HL,Cletis Giacomazzo,817 Ridgeway Hill,Dulles,United States,20189,No,R-L-1,Robust,Light,4,1,11.95,1.195,0.717,47.8
+SUB-13006-125,17-04-2019,26103-41504-IB,Ami Arnow,12 Oakridge Court,Oakland,United States,94627,Yes,A-L-0.5,Arabica,Light,5,0.5,7.77,1.554,0.6993,38.85
+CQM-49696-263,25-10-2019,76534-45229-SG,Sheppard Yann,4 Farmco Place,Colorado Springs,United States,80930,Yes,L-L-2.5,Liberica,Light,3,2.5,36.455,1.4582,4.73915,109.365
+KXN-85094-246,13-09-2019,81744-27332-RR,Bunny Naulls,595 Melby Avenue,Adare,Ireland,H54,Yes,L-M-2.5,Liberica,Medium,3,2.5,33.465,1.3386,4.35045,100.395
+XOQ-12405-419,12-04-2020,91513-75657-PH,Hally Lorait,80 Jana Avenue,Buffalo,United States,14205,Yes,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+HYF-10254-369,14-11-2019,30373-66619-CB,Zaccaria Sherewood,1325 Jay Terrace,Fresno,United States,93715,No,L-L-0.5,Liberica,Light,1,0.5,9.51,1.902,1.2363,9.51
+XXJ-47000-307,18-07-2019,31582-23562-FM,Jeffrey Dufaire,8 Buell Junction,Fort Worth,United States,76121,No,A-L-2.5,Arabica,Light,3,2.5,29.785,1.1914,2.68065,89.355
+XXJ-47000-307,18-07-2019,31582-23562-FM,Jeffrey Dufaire,8 Buell Junction,Fort Worth,United States,76121,No,A-D-0.2,Arabica,Dark,4,0.2,2.985,1.4925,0.26865,11.94
+ZFS-30776-804,05-02-2021,58638-01029-CB,Blancha McAmish,5484 Stephen Court,Oklahoma City,United States,73179,Yes,A-L-0.5,Arabica,Light,5,0.5,7.77,1.554,0.6993,38.85
+ZDK-82166-357,03-04-2021,81431-12577-VD,Beitris Keaveney,67319 Redwing Parkway,Beaumont,United States,77705,No,A-M-1,Arabica,Medium,3,1,11.25,1.125,1.0125,33.75
+IHN-19982-362,29-03-2021,68894-91205-MP,Elna Grise,92 Becker Circle,Reno,United States,89519,No,R-L-1,Robust,Light,3,1,11.95,1.195,0.717,35.85
+VMT-10030-889,15-12-2021,87602-55754-VN,Torie Gottelier,426 Division Avenue,Kansas City,United States,64136,No,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+NHL-11063-100,20-05-2020,39181-35745-WH,Loydie Langlais,290 Ilene Street,Crumlin,Ireland,D6W,Yes,A-L-1,Arabica,Light,4,1,12.95,1.295,1.1655,51.8
+ROV-87448-086,02-11-2020,30381-64762-NG,Adham Greenhead,0062 Spenser Place,Corona,United States,92878,No,A-M-2.5,Arabica,Medium,4,2.5,25.875,1.035,2.32875,103.5
+DGY-35773-612,25-07-2020,17503-27693-ZH,Hamish MacSherry,7 Brentwood Plaza,Austin,United States,78759,Yes,E-L-1,Excelsa,Light,3,1,14.85,1.485,1.6335,44.55
+YWH-50638-556,14-03-2019,89442-35633-HJ,Else Langcaster,3658 Jenna Street,Normanton,United Kingdom,LE15,Yes,E-L-0.5,Excelsa,Light,4,0.5,8.91,1.782,0.9801,35.64
+ISL-11200-600,02-07-2020,13654-85265-IL,Rudy Farquharson,30178 Claremont Road,Charlesland,Ireland,A63,Yes,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+LBZ-75997-047,17-12-2019,40946-22090-FP,Norene Magauran,567 Artisan Place,Fresno,United States,93762,No,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+EUH-08089-954,06-12-2020,29050-93691-TS,Vicki Kirdsch,0263 Golf Street,Saint Louis,United States,63150,No,A-D-0.2,Arabica,Dark,2,0.2,2.985,1.4925,0.26865,5.97
+BLD-12227-251,04-03-2021,64395-74865-WF,Ilysa Whapple,41598 Everett Drive,Fresno,United States,93726,No,A-M-0.5,Arabica,Medium,2,0.5,6.75,1.35,0.6075,13.5
+OPY-30711-853,17-07-2021,81861-66046-SU,Ruy Cancellieri,251 Welch Parkway,Confey,Ireland,A86,No,A-D-0.2,Arabica,Dark,1,0.2,2.985,1.4925,0.26865,2.985
+DBC-44122-300,04-11-2020,13366-78506-KP,Aube Follett,8671 David Park,Columbus,United States,43210,Yes,L-M-0.2,Liberica,Medium,3,0.2,4.365,2.1825,0.56745,13.095
+FJQ-60035-234,05-04-2021,08847-29858-HN,Rudiger Di Bartolomeo,7700 Melby Park,Stockton,United States,95205,Yes,A-L-0.2,Arabica,Light,2,0.2,3.885,1.9425,0.34965,7.77
+HSF-66926-425,01-03-2020,00539-42510-RY,Nickey Youles,12461 Dryden Pass,Edgeworthstown,Ireland,E25,Yes,L-D-2.5,Liberica,Dark,5,2.5,29.785,1.1914,3.87205,148.925
+LQG-41416-375,19-10-2021,45190-08727-NV,Dyanna Aizikovitz,7 Northland Court,Leixlip,Ireland,A86,Yes,L-D-1,Liberica,Dark,3,1,12.95,1.295,1.6835,38.85
+VZO-97265-841,08-07-2022,87049-37901-FU,Bram Revel,6168 Westend Plaza,Rochester,United States,14652,No,R-M-0.2,Robust,Medium,4,0.2,2.985,1.4925,0.1791,11.94
+MOR-12987-399,17-08-2019,34015-31593-JC,Emiline Priddis,62 Amoth Terrace,Tuscaloosa,United States,35487,No,L-M-1,Liberica,Medium,6,1,14.55,1.455,1.8915,87.3
+UOA-23786-489,31-05-2020,90305-50099-SV,Queenie Veel,378 Shopko Center,Houston,United States,77260,Yes,A-M-0.5,Arabica,Medium,6,0.5,6.75,1.35,0.6075,40.5
+AJL-52941-018,05-05-2020,55871-61935-MF,Lind Conyers,778 Summer Ridge Junction,El Paso,United States,88514,No,E-D-1,Excelsa,Dark,2,1,12.15,1.215,1.3365,24.3
+XSZ-84273-421,14-04-2019,15405-60469-TM,Pen Wye,7 Dorton Terrace,Colorado Springs,United States,80935,Yes,R-M-0.5,Robust,Medium,3,0.5,5.97,1.194,0.3582,17.91
+NUN-48214-216,29-07-2020,06953-94794-FB,Isahella Hagland,07 Roxbury Street,Fort Wayne,United States,46862,No,A-M-0.5,Arabica,Medium,4,0.5,6.75,1.35,0.6075,27
+AKV-93064-769,12-12-2019,22305-40299-CY,Terry Sheryn,58147 Eagle Crest Court,Port Washington,United States,11054,Yes,L-D-0.5,Liberica,Dark,1,0.5,7.77,1.554,1.0101,7.77
+BRB-40903-533,15-06-2022,09020-56774-GU,Marie-jeanne Redgrave,61022 Helena Street,Springfield,United States,1105,Yes,E-L-0.2,Excelsa,Light,3,0.2,4.455,2.2275,0.49005,13.365
+GPR-19973-483,26-06-2019,92926-08470-YS,Betty Fominov,305 Tennyson Court,Pensacola,United States,32575,No,R-D-0.5,Robust,Dark,5,0.5,5.37,1.074,0.3222,26.85
+XIY-43041-882,12-10-2021,07250-63194-JO,Shawnee Critchlow,6886 Oxford Hill,Richmond,United States,23242,No,A-M-1,Arabica,Medium,1,1,11.25,1.125,1.0125,11.25
+YGY-98425-969,01-04-2019,63787-96257-TQ,Merrel Steptow,368 Ridgeview Trail,Cherryville,Ireland,P31,No,L-M-1,Liberica,Medium,1,1,14.55,1.455,1.8915,14.55
+MSB-08397-648,10-03-2021,49530-25460-RW,Carmina Hubbuck,39749 Bobwhite Plaza,Huntington,United States,25705,No,R-L-0.2,Robust,Light,4,0.2,3.585,1.7925,0.2151,14.34
+WDR-06028-345,16-08-2019,66508-21373-OQ,Ingeberg Mulliner,61 Oak Valley Trail,Birmingham,United Kingdom,B40,No,L-L-1,Liberica,Light,1,1,15.85,1.585,2.0605,15.85
+MXM-42948-061,11-08-2020,20203-03950-FY,Geneva Standley,4 Thompson Drive,Killorglin,Ireland,H14,Yes,L-L-0.2,Liberica,Light,4,0.2,4.755,2.3775,0.61815,19.02
+MGQ-98961-173,05-04-2022,83895-90735-XH,Brook Drage,3584 7th Parkway,Dayton,United States,45432,No,L-L-0.5,Liberica,Light,4,0.5,9.51,1.902,1.2363,38.04
+RFH-64349-897,22-10-2019,61954-61462-RJ,Muffin Yallop,1 Beilfuss Junction,Anchorage,United States,99507,Yes,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+TKL-20738-660,02-10-2021,47939-53158-LS,Cordi Switsur,57942 North Point,Nashville,United States,37215,No,E-M-0.2,Excelsa,Medium,1,0.2,4.125,2.0625,0.45375,4.125
+TKL-20738-660,02-10-2021,47939-53158-LS,Cordi Switsur,57942 North Point,Nashville,United States,37215,No,A-L-0.2,Arabica,Light,1,0.2,3.885,1.9425,0.34965,3.885
+TKL-20738-660,02-10-2021,47939-53158-LS,Cordi Switsur,57942 North Point,Nashville,United States,37215,No,E-M-1,Excelsa,Medium,5,1,13.75,1.375,1.5125,68.75
+GOW-03198-575,13-03-2021,61513-27752-FA,Mahala Ludwell,6 Bay Center,Denver,United States,80217,Yes,A-D-0.5,Arabica,Dark,4,0.5,5.97,1.194,0.5373,23.88
+QJB-90477-635,12-06-2022,89714-19856-WX,Doll Beauchamp,0967 Clemons Alley,Stamford,United States,6912,No,L-L-2.5,Liberica,Light,4,2.5,36.455,1.4582,4.73915,145.82
+MWP-46239-785,27-04-2019,87979-56781-YV,Stanford Rodliff,3 Lerdahl Parkway,Newport News,United States,23605,Yes,L-M-0.2,Liberica,Medium,5,0.2,4.365,2.1825,0.56745,21.825
+QDV-03406-248,23-05-2019,74126-88836-KA,Stevana Woodham,7 Rowland Plaza,Drumcondra,Ireland,D11,Yes,L-M-0.5,Liberica,Medium,3,0.5,8.73,1.746,1.1349,26.19
+GPH-40635-105,14-07-2020,37397-05992-VO,Hewet Synnot,9667 Lunder Court,Anchorage,United States,99599,No,A-M-1,Arabica,Medium,1,1,11.25,1.125,1.0125,11.25
+JOM-80930-071,10-11-2021,54904-18397-UD,Raleigh Lepere,27 Mosinee Court,Beaumont,Ireland,D17,No,L-D-1,Liberica,Dark,6,1,12.95,1.295,1.6835,77.7
+OIL-26493-755,31-08-2021,19017-95853-EK,Timofei Woofinden,1 Pennsylvania Center,Fargo,United States,58122,No,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+CYV-13426-645,06-07-2019,88593-59934-VU,Evelina Dacca,83150 Dixon Park,Evansville,United States,47737,Yes,E-D-1,Excelsa,Dark,1,1,12.15,1.215,1.3365,12.15
+WRP-39846-614,04-03-2022,47493-68564-YM,Bidget Tremellier,5 Sunfield Parkway,Cherryville,Ireland,P31,Yes,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+VDZ-76673-968,31-12-2020,82246-82543-DW,Bobinette Hindsberg,7 Brickson Park Road,Charlotte,United States,28210,Yes,E-D-0.5,Excelsa,Dark,2,0.5,7.29,1.458,0.8019,14.58
+VTV-03546-175,31-07-2020,03384-62101-IY,Osbert Robins,42557 Fallview Plaza,Huntsville,United States,35815,Yes,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+GHR-72274-715,24-05-2021,86881-41559-OR,Othello Syseland,957 Sachtjen Road,Santa Ana,United States,92725,No,L-D-1,Liberica,Dark,1,1,12.95,1.295,1.6835,12.95
+ZGK-97262-313,16-07-2022,02536-18494-AQ,Ewell Hanby,903 Oak Center,Washington,United States,20520,Yes,E-M-2.5,Excelsa,Medium,3,2.5,31.625,1.265,3.47875,94.875
+QUU-91729-492,29-07-2021,90312-11148-LA,Lowell Keenleyside,6 Hauk Junction,Saint Louis,United States,63131,No,A-D-0.2,Arabica,Dark,4,0.2,2.985,1.4925,0.26865,11.94
+PVI-72795-960,17-03-2022,68239-74809-TF,Elonore Joliffe,7077 School Crossing,Bailieborough,Ireland,C15,No,E-L-2.5,Excelsa,Light,3,2.5,34.155,1.3662,3.75705,102.465
+PPP-78935-365,11-02-2021,91074-60023-IP,Abraham Coleman,40 Packers Alley,Honolulu,United States,96805,No,E-D-1,Excelsa,Dark,4,1,12.15,1.215,1.3365,48.6
+JUO-34131-517,13-02-2019,07972-83748-JI,Rivy Farington,54400 Brickson Park Center,Corona,United States,92878,Yes,L-D-1,Liberica,Dark,6,1,12.95,1.295,1.6835,77.7
+ZJE-89333-489,13-05-2022,08694-57330-XR,Vallie Kundt,3 Porter Hill,Ballivor,Ireland,D17,Yes,L-D-2.5,Liberica,Dark,1,2.5,29.785,1.1914,3.87205,29.785
+LOO-35324-159,19-05-2020,68412-11126-YJ,Boyd Bett,353 Maple Wood Avenue,Washington,United States,20520,Yes,A-L-0.2,Arabica,Light,4,0.2,3.885,1.9425,0.34965,15.54
+JBQ-93412-846,27-04-2022,69037-66822-DW,Julio Armytage,782 Spaight Center,Portumna,Ireland,V31,Yes,E-L-2.5,Excelsa,Light,4,2.5,34.155,1.3662,3.75705,136.62
+EHX-66333-637,09-09-2020,01297-94364-XH,Deana Staite,39 Dunning Hill,Houston,United States,77281,No,L-M-0.5,Liberica,Medium,2,0.5,8.73,1.746,1.1349,17.46
+WXG-25759-236,10-03-2021,39919-06540-ZI,Winn Keyse,02688 Duke Park,Orange,United States,92668,Yes,E-L-2.5,Excelsa,Light,2,2.5,34.155,1.3662,3.75705,68.31
+QNA-31113-984,07-04-2019,60512-78550-WS,Osmund Clausen-Thue,2163 Dexter Hill,El Paso,United States,88553,No,L-M-0.2,Liberica,Medium,4,0.2,4.365,2.1825,0.56745,17.46
+ZWI-52029-159,12-07-2020,40172-12000-AU,Leonore Francisco,48757 Bay Parkway,Carson City,United States,89714,No,L-M-1,Liberica,Medium,3,1,14.55,1.455,1.8915,43.65
+ZWI-52029-159,12-07-2020,40172-12000-AU,Leonore Francisco,48757 Bay Parkway,Carson City,United States,89714,No,E-M-1,Excelsa,Medium,2,1,13.75,1.375,1.5125,27.5
+DFS-49954-707,21-12-2021,39019-13649-CL,Giacobo Skingle,61617 Roth Street,Provo,United States,84605,Yes,E-D-0.2,Excelsa,Dark,5,0.2,3.645,1.8225,0.40095,18.225
+VYP-89830-878,04-10-2020,12715-05198-QU,Gerard Pirdy,74 Becker Lane,Boca Raton,United States,33487,Yes,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+AMT-40418-362,08-08-2020,04513-76520-QO,Jacinthe Balsillie,2 Heffernan Center,Roanoke,United States,24040,Yes,L-D-1,Liberica,Dark,1,1,12.95,1.295,1.6835,12.95
+NFQ-23241-793,11-10-2020,88446-59251-SQ,Quinton Fouracres,53 New Castle Point,Des Moines,United States,50369,Yes,A-M-1,Arabica,Medium,3,1,11.25,1.125,1.0125,33.75
+JQK-64922-985,10-11-2021,23779-10274-KN,Bettina Leffek,0688 Burning Wood Point,Honolulu,United States,96805,Yes,R-M-2.5,Robust,Medium,3,2.5,22.885,0.9154,1.3731,68.655
+YET-17732-678,20-06-2021,57235-92842-DK,Hetti Penson,16 Dottie Point,Fort Lauderdale,United States,33345,No,R-D-0.2,Robust,Dark,1,0.2,2.685,1.3425,0.1611,2.685
+NKW-24945-846,04-10-2021,75977-30364-AY,Jocko Pray,7764 Thackeray Hill,Philadelphia,United States,19172,No,A-D-2.5,Arabica,Dark,5,2.5,22.885,0.9154,2.05965,114.425
+VKA-82720-513,24-06-2019,12299-30914-NG,Grete Holborn,124 Sycamore Point,Norwalk,United States,6854,Yes,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+THA-60599-417,26-10-2019,59971-35626-YJ,Fielding Keinrat,99382 Hagan Hill,Arlington,United States,76011,Yes,A-M-2.5,Arabica,Medium,3,2.5,25.875,1.035,2.32875,77.625
+MEK-39769-035,27-06-2021,15380-76513-PS,Paulo Yea,9760 Nelson Lane,Ashford,Ireland,H12,No,R-D-2.5,Robust,Dark,3,2.5,20.585,0.8234,1.2351,61.755
+JAF-18294-750,06-09-2019,73564-98204-EY,Say Risborough,57914 Brentwood Junction,Chattanooga,United States,37416,Yes,R-D-2.5,Robust,Dark,6,2.5,20.585,0.8234,1.2351,123.51
+TME-59627-221,30-04-2021,72282-40594-RX,Alexa Sizey,198 Lighthouse Bay Avenue,Portland,United States,97296,No,L-L-2.5,Liberica,Light,6,2.5,36.455,1.4582,4.73915,218.73
+UDG-65353-824,07-01-2020,17514-94165-RJ,Kari Swede,94 Pleasure Circle,Oklahoma City,United States,73135,No,E-M-0.5,Excelsa,Medium,4,0.5,8.25,1.65,0.9075,33
+ENQ-42923-176,11-01-2021,56248-75861-JX,Leontine Rubrow,352 Jana Center,Washington,United States,20520,No,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+CBT-55781-720,15-11-2021,97855-54761-IS,Dottie Tift,581 Forest Run Avenue,Greensboro,United States,27415,Yes,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+NEU-86533-016,03-06-2019,96544-91644-IT,Gerardo Schonfeld,60 Spohn Plaza,Alexandria,United States,22313,No,R-D-0.2,Robust,Dark,6,0.2,2.685,1.3425,0.1611,16.11
+BYU-58154-603,17-12-2020,51971-70393-QM,Claiborne Feye,601 Northridge Circle,Castlebridge,Ireland,R14,No,E-D-0.5,Excelsa,Dark,4,0.5,7.29,1.458,0.8019,29.16
+EHJ-05910-257,07-02-2021,06812-11924-IK,Mina Elstone,6 Manley Plaza,Racine,United States,53405,Yes,R-D-1,Robust,Dark,6,1,8.95,0.895,0.537,53.7
+EIL-44855-309,15-03-2021,59741-90220-OW,Sherman Mewrcik,44305 Scofield Park,Clearwater,United States,34629,Yes,R-D-0.5,Robust,Dark,5,0.5,5.37,1.074,0.3222,26.85
+HCA-87224-420,04-08-2022,62682-27930-PD,Tamarah Fero,6 Fisk Street,Racine,United States,53405,Yes,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+ABO-29054-365,19-01-2019,00256-19905-YG,Stanislaus Valsler,95 Southridge Alley,Castlebridge,Ireland,R14,No,A-M-0.5,Arabica,Medium,6,0.5,6.75,1.35,0.6075,40.5
+TKN-58485-031,23-03-2022,38890-22576-UI,Felita Dauney,22484 Tomscot Lane,Castlebellingham,Ireland,Y34,No,R-D-1,Robust,Dark,2,1,8.95,0.895,0.537,17.9
+RCK-04069-371,07-10-2021,94573-61802-PH,Serena Earley,66197 Onsgard Place,Craigavon,United Kingdom,BT66,No,E-L-2.5,Excelsa,Light,2,2.5,34.155,1.3662,3.75705,68.31
+IRJ-67095-738,20-03-2019,86447-02699-UT,Minny Chamberlayne,1 Ridgeview Place,Tampa,United States,33686,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+VEA-31961-977,15-12-2021,51432-27169-KN,Bartholemy Flaherty,045 Jana Place,Eadestown,Ireland,A86,No,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+BAF-42286-205,08-06-2022,43074-00987-PB,Oran Colbeck,8984 Moulton Hill,Montgomery,United States,36195,No,R-M-2.5,Robust,Medium,4,2.5,22.885,0.9154,1.3731,91.54
+WOR-52762-511,14-12-2019,04739-85772-QT,Elysee Sketch,2 Gina Drive,Sparks,United States,89436,Yes,E-L-2.5,Excelsa,Light,6,2.5,34.155,1.3662,3.75705,204.93
+ZWK-03995-815,10-04-2021,28279-78469-YW,Ethelda Hobbing,1 Debs Place,Macon,United States,31205,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+CKF-43291-846,10-03-2020,91829-99544-DS,Odille Thynne,26 Oakridge Way,Whittier,United States,90605,Yes,E-L-2.5,Excelsa,Light,1,2.5,34.155,1.3662,3.75705,34.155
+RMW-74160-339,16-10-2020,38978-59582-JP,Emlynne Heining,439 West Point,Johnson City,United States,37605,Yes,R-L-2.5,Robust,Light,4,2.5,27.485,1.0994,1.6491,109.94
+FMT-94584-786,08-10-2019,86504-96610-BH,Katerina Melloi,1930 Haas Way,Rochester,United States,14614,No,A-L-1,Arabica,Light,2,1,12.95,1.295,1.1655,25.9
+NWT-78222-575,31-12-2019,75986-98864-EZ,Tiffany Scardafield,69737 Hanover Center,Portarlington,Ireland,R21,No,A-D-0.2,Arabica,Dark,1,0.2,2.985,1.4925,0.26865,2.985
+EOI-02511-919,20-03-2020,66776-88682-RG,Abrahan Mussen,22974 Beilfuss Plaza,Brooklyn,United States,11254,No,E-L-0.2,Excelsa,Light,5,0.2,4.455,2.2275,0.49005,22.275
+EOI-02511-919,20-03-2020,66776-88682-RG,Abrahan Mussen,22974 Beilfuss Plaza,Brooklyn,United States,11254,No,A-D-0.5,Arabica,Dark,5,0.5,5.97,1.194,0.5373,29.85
+UCT-03935-589,29-03-2021,85851-78384-DM,Anny Mundford,5097 Mitchell Plaza,Charlottesville,United States,22908,No,R-D-0.5,Robust,Dark,6,0.5,5.37,1.074,0.3222,32.22
+SBI-60013-494,12-11-2021,55232-81621-BX,Tory Walas,2673 Everett Place,Garland,United States,75044,No,E-M-0.2,Excelsa,Medium,2,0.2,4.125,2.0625,0.45375,8.25
+QRA-73277-814,20-07-2021,80310-92912-JA,Isa Blazewicz,4646 Graceland Circle,Minneapolis,United States,55448,No,A-L-0.5,Arabica,Light,4,0.5,7.77,1.554,0.6993,31.08
+EQE-31648-909,18-01-2019,19821-05175-WZ,Angie Rizzetti,24 Mendota Junction,Lansing,United States,48919,Yes,E-D-0.5,Excelsa,Dark,5,0.5,7.29,1.458,0.8019,36.45
+QOO-24615-950,07-08-2019,01338-83217-GV,Mord Meriet,56000 Kedzie Alley,Grand Forks,United States,58207,No,R-M-2.5,Robust,Medium,3,2.5,22.885,0.9154,1.3731,68.655
+WDV-73864-037,13-03-2022,66044-25298-TA,Lawrence Pratt,57 Monterey Avenue,Anchorage,United States,99522,Yes,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+PKR-88575-066,17-05-2022,28728-47861-TZ,Astrix Kitchingham,716 Shoshone Point,Oklahoma City,United States,73129,Yes,E-L-0.2,Excelsa,Light,1,0.2,4.455,2.2275,0.49005,4.455
+BWR-85735-955,14-12-2019,32638-38620-AX,Burnard Bartholin,19600 Scofield Trail,Tulsa,United States,74103,Yes,L-M-1,Liberica,Medium,3,1,14.55,1.455,1.8915,43.65
+YFX-64795-136,15-01-2020,83163-65741-IH,Madelene Prinn,39 Dahle Road,Detroit,United States,48211,Yes,L-M-2.5,Liberica,Medium,1,2.5,33.465,1.3386,4.35045,33.465
+DDO-71442-967,12-04-2019,89422-58281-FD,Alisun Baudino,07 Charing Cross Circle,Washington,United States,20436,Yes,L-D-0.2,Liberica,Dark,5,0.2,3.885,1.9425,0.50505,19.425
+ILQ-11027-588,29-03-2020,76293-30918-DQ,Philipa Petrushanko,08 Laurel Trail,Nenagh,Ireland,E45,Yes,E-D-1,Excelsa,Dark,6,1,12.15,1.215,1.3365,72.9
+KRZ-13868-122,24-03-2022,86779-84838-EJ,Kimberli Mustchin,0043 Arkansas Court,Mesa,United States,85215,No,E-L-1,Excelsa,Light,3,1,14.85,1.485,1.6335,44.55
+VRM-93594-914,21-07-2021,66806-41795-MX,Emlynne Laird,43451 Doe Crossing Trail,Warren,United States,44485,No,E-D-0.5,Excelsa,Dark,5,0.5,7.29,1.458,0.8019,36.45
+HXL-22497-359,06-08-2019,64875-71224-UI,Marlena Howsden,0410 Autumn Leaf Drive,Memphis,United States,38150,No,A-L-1,Arabica,Light,3,1,12.95,1.295,1.1655,38.85
+NOP-21394-646,23-05-2021,16982-35708-BZ,Nealson Cuttler,1 Melvin Circle,Washington,United States,20535,No,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+NOP-21394-646,23-05-2021,16982-35708-BZ,Nealson Cuttler,1 Melvin Circle,Washington,United States,20535,No,L-D-2.5,Liberica,Dark,2,2.5,29.785,1.1914,3.87205,59.57
+NOP-21394-646,23-05-2021,16982-35708-BZ,Nealson Cuttler,1 Melvin Circle,Washington,United States,20535,No,L-D-2.5,Liberica,Dark,3,2.5,29.785,1.1914,3.87205,89.355
+NOP-21394-646,23-05-2021,16982-35708-BZ,Nealson Cuttler,1 Melvin Circle,Washington,United States,20535,No,L-L-0.5,Liberica,Light,4,0.5,9.51,1.902,1.2363,38.04
+NOP-21394-646,23-05-2021,16982-35708-BZ,Nealson Cuttler,1 Melvin Circle,Washington,United States,20535,No,E-M-1,Excelsa,Medium,3,1,13.75,1.375,1.5125,41.25
+FTV-77095-168,08-04-2021,66708-26678-QK,Adriana Lazarus,9429 Porter Circle,Ogden,United States,84409,No,L-L-0.5,Liberica,Light,6,0.5,9.51,1.902,1.2363,57.06
+BOR-02906-411,17-10-2021,08743-09057-OO,Tallie felip,9 Roth Point,Albany,United States,12205,Yes,L-D-2.5,Liberica,Dark,6,2.5,29.785,1.1914,3.87205,178.71
+WMP-68847-770,16-02-2022,37490-01572-JW,Vanna Le - Count,69128 Ronald Regan Road,Spartanburg,United States,29305,No,L-L-0.2,Liberica,Light,1,0.2,4.755,2.3775,0.61815,4.755
+TMO-22785-872,15-07-2020,01811-60350-CU,Sarette Ducarel,04922 Colorado Street,Staten Island,United States,10310,No,E-M-1,Excelsa,Medium,6,1,13.75,1.375,1.5125,82.5
+TJG-73587-353,22-02-2020,24766-58139-GT,Kendra Glison,1 Kipling Lane,Washington,United States,20337,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+OOU-61343-455,15-01-2021,90123-70970-NY,Nertie Poolman,356 Service Way,Charlotte,United States,28225,No,A-M-1,Arabica,Medium,2,1,11.25,1.125,1.0125,22.5
+RMA-08327-369,11-01-2021,93809-05424-MG,Orbadiah Duny,62772 Arkansas Pass,Lubbock,United States,79491,Yes,A-M-0.5,Arabica,Medium,6,0.5,6.75,1.35,0.6075,40.5
+SFB-97929-779,08-04-2022,85425-33494-HQ,Constance Halfhide,75275 Sunnyside Center,Fermoy,Ireland,P61,Yes,E-D-0.5,Excelsa,Dark,4,0.5,7.29,1.458,0.8019,29.16
+AUP-10128-606,01-10-2020,54387-64897-XC,Fransisco Malecky,11 Dakota Lane,Whitwell,United Kingdom,DL10,No,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+YTW-40242-005,28-10-2019,01035-70465-UO,Anselma Attwater,72 Maryland Terrace,Charlottesville,United States,22908,Yes,L-D-1,Liberica,Dark,4,1,12.95,1.295,1.6835,51.8
+QTR-19001-114,21-11-2019,01035-70465-UO,Anselma Attwater,72 Maryland Terrace,Charlottesville,United States,22908,Yes,A-D-1,Arabica,Dark,2,1,9.95,0.995,0.8955,19.9
+PRP-53390-819,28-03-2021,84260-39432-ML,Minette Whellans,3 High Crossing Way,New York City,United States,10105,No,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+GSJ-01065-125,31-03-2020,69779-40609-RS,Dael Camilletti,782 American Terrace,Roanoke,United States,24009,Yes,E-D-0.2,Excelsa,Dark,4,0.2,3.645,1.8225,0.40095,14.58
+YQU-65147-580,26-03-2022,80247-70000-HT,Emiline Galgey,6 Park Meadow Plaza,New York City,United States,10009,No,R-D-2.5,Robust,Dark,1,2.5,20.585,0.8234,1.2351,20.585
+QPM-95832-683,06-11-2019,35058-04550-VC,Murdock Hame,0 Burning Wood Drive,Balally,Ireland,D04,No,L-L-1,Liberica,Light,2,1,15.85,1.585,2.0605,31.7
+BNQ-88920-567,30-12-2019,27226-53717-SY,Ilka Gurnee,1 Troy Circle,Salt Lake City,United States,84120,No,L-D-0.2,Liberica,Dark,6,0.2,3.885,1.9425,0.50505,23.31
+PUX-47906-110,01-10-2021,02002-98725-CH,Alfy Snowding,1691 Comanche Lane,Toledo,United States,43635,Yes,L-M-1,Liberica,Medium,4,1,14.55,1.455,1.8915,58.2
+COL-72079-610,09-12-2020,38487-01549-MV,Godfry Poinsett,75026 Monica Parkway,Pasadena,United States,91131,No,E-L-0.5,Excelsa,Light,4,0.5,8.91,1.782,0.9801,35.64
+LBC-45686-819,01-05-2021,98573-41811-EQ,Rem Furman,91239 Ilene Hill,Kinsale,Ireland,P17,Yes,A-M-1,Arabica,Medium,5,1,11.25,1.125,1.0125,56.25
+BLQ-03709-265,04-08-2022,72463-75685-MV,Charis Crosier,54506 Arapahoe Center,Lees Summit,United States,64082,No,R-L-0.2,Robust,Light,3,0.2,3.585,1.7925,0.2151,10.755
+BLQ-03709-265,04-08-2022,72463-75685-MV,Charis Crosier,54506 Arapahoe Center,Lees Summit,United States,64082,No,R-M-0.2,Robust,Medium,5,0.2,2.985,1.4925,0.1791,14.925
+VFZ-91673-181,13-11-2021,10225-91535-AI,Lenka Rushmer,70379 Canary Plaza,Irvine,United States,92619,Yes,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+WKD-81956-870,16-09-2020,48090-06534-HI,Waneta Edinborough,1 Golden Leaf Hill,Hicksville,United States,11854,No,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+TNI-91067-006,05-10-2020,80444-58185-FX,Bobbe Piggott,812 Erie Court,Washington,United States,20546,Yes,E-L-1,Excelsa,Light,4,1,14.85,1.485,1.6335,59.4
+IZA-61469-812,06-01-2020,13561-92774-WP,Ketty Bromehead,69 Birchwood Place,New York City,United States,10060,Yes,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+PSS-22466-862,21-05-2021,11550-78378-GE,Elsbeth Westerman,7 Packers Court,Newmarket on Fergus,Ireland,P17,No,R-L-0.2,Robust,Light,4,0.2,3.585,1.7925,0.2151,14.34
+REH-56504-397,26-02-2020,90961-35603-RP,Anabelle Hutchens,8 Russell Plaza,Shawnee Mission,United States,66276,No,A-M-2.5,Arabica,Medium,5,2.5,25.875,1.035,2.32875,129.375
+ALA-62598-016,19-02-2020,57145-03803-ZL,Noak Wyvill,47 Declaration Alley,Edinburgh,United Kingdom,EH9,Yes,R-D-0.2,Robust,Dark,6,0.2,2.685,1.3425,0.1611,16.11
+EYE-70374-835,29-06-2021,89115-11966-VF,Beltran Mathon,6131 Huxley Pass,Sacramento,United States,94291,No,R-L-0.2,Robust,Light,5,0.2,3.585,1.7925,0.2151,17.925
+CCZ-19589-212,27-03-2021,05754-41702-FG,Kristos Streight,5 Anderson Court,Wilkes Barre,United States,18706,No,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+BPT-83989-157,27-10-2021,84269-49816-ML,Portie Cutchie,5 Esch Parkway,Greensboro,United States,27499,No,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+YFH-87456-208,12-06-2019,23600-98432-ME,Sinclare Edsell,226 Harper Place,Newark,United States,19725,Yes,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+JLN-14700-924,28-06-2020,79058-02767-CP,Conny Gheraldi,28998 Cottonwood Point,Kinloch,United Kingdom,PH43,No,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+JVW-22582-137,23-03-2021,89208-74646-UK,Beryle Kenwell,62 Dayton Drive,Honolulu,United States,96825,No,E-M-0.2,Excelsa,Medium,5,0.2,4.125,2.0625,0.45375,20.625
+LAA-41879-001,10-02-2022,11408-81032-UR,Tomas Sutty,736 Mosinee Court,New York City,United States,10150,No,L-L-2.5,Liberica,Light,1,2.5,36.455,1.4582,4.73915,36.455
+BRV-64870-915,16-04-2019,32070-55528-UG,Samuele Ales0,0023 Westport Terrace,Ballinroad,Ireland,D07,No,L-L-2.5,Liberica,Light,5,2.5,36.455,1.4582,4.73915,182.275
+RGJ-12544-083,12-02-2020,48873-84433-PN,Carlie Harce,8 Melrose Center,Dç…¤n Laoghaire,Ireland,A96,No,L-D-2.5,Liberica,Dark,3,2.5,29.785,1.1914,3.87205,89.355
+JJX-83339-346,02-01-2022,32928-18158-OW,Craggy Bril,955 Ridge Oak Street,Cincinnati,United States,45218,Yes,R-L-0.2,Robust,Light,1,0.2,3.585,1.7925,0.2151,3.585
+BIU-21970-705,07-12-2020,89711-56688-GG,Friederike Drysdale,0229 Hovde Hill,Midland,United States,48670,Yes,R-M-2.5,Robust,Medium,2,2.5,22.885,0.9154,1.3731,45.77
+ELJ-87741-745,20-02-2020,48389-71976-JB,Devon Magowan,42 Sloan Way,Cheyenne,United States,82007,No,E-L-1,Excelsa,Light,4,1,14.85,1.485,1.6335,59.4
+SGI-48226-857,11-06-2020,84033-80762-EQ,Codi Littrell,3 Colorado Lane,Atlanta,United States,31119,Yes,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+AHV-66988-037,08-09-2020,12743-00952-KO,Christel Speak,8 Crowley Place,Duluth,United States,30096,No,R-M-2.5,Robust,Medium,2,2.5,22.885,0.9154,1.3731,45.77
+ISK-42066-094,28-03-2020,41505-42181-EF,Sibella Rushbrooke,00901 Marquette Plaza,Sacramento,United States,94250,Yes,E-D-1,Excelsa,Dark,3,1,12.15,1.215,1.3365,36.45
+FTC-35822-530,10-10-2020,14307-87663-KB,Tammie Drynan,5776 Coleman Circle,Tampa,United States,33661,Yes,E-D-0.5,Excelsa,Dark,4,0.5,7.29,1.458,0.8019,29.16
+VSS-56247-688,21-05-2022,08360-19442-GB,Effie Yurkov,970 Northport Pass,Honolulu,United States,96805,No,L-M-2.5,Liberica,Medium,4,2.5,33.465,1.3386,4.35045,133.86
+HVW-25584-144,30-04-2020,93405-51204-UW,Lexie Mallan,43 Longview Center,Baton Rouge,United States,70820,Yes,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+MUY-15309-209,12-12-2021,97152-03355-IW,Georgena Bentjens,4738 Bashford Crossing,Newbiggin,United Kingdom,NE46,No,L-D-1,Liberica,Dark,3,1,12.95,1.295,1.6835,38.85
+VAJ-44572-469,27-10-2020,79216-73157-TE,Delmar Beasant,856 Colorado Way,Kilkenny,Ireland,R95,Yes,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+YJU-84377-606,07-07-2020,20259-47723-AC,Lyn Entwistle,54 Canary Terrace,Minneapolis,United States,55458,Yes,A-D-1,Arabica,Dark,1,1,9.95,0.995,0.8955,9.95
+OGB-91614-810,18-02-2020,08909-77713-CG,Mercedes Acott,37340 Lerdahl Avenue,Charlotte,United States,28225,Yes,R-M-0.2,Robust,Medium,1,0.2,2.985,1.4925,0.1791,2.985
+BQI-61647-496,13-06-2021,84340-73931-VV,Connor Heaviside,941 Graceland Terrace,Phoenix,United States,85099,Yes,E-M-1,Excelsa,Medium,5,1,13.75,1.375,1.5125,68.75
+IOM-51636-823,06-08-2022,04609-95151-XH,Devy Bulbrook,567 Farmco Hill,Jamaica,United States,11407,No,A-D-1,Arabica,Dark,3,1,9.95,0.995,0.8955,29.85
+GGD-38107-641,23-11-2021,99562-88650-YF,Leia Kernan,76 Briar Crest Avenue,Champaign,United States,61825,No,L-M-1,Liberica,Medium,4,1,14.55,1.455,1.8915,58.2
+LTO-95975-728,13-10-2021,46560-73885-PJ,Rosaline McLae,1065 Myrtle Center,Swindon,United Kingdom,SN1,No,R-L-0.5,Robust,Light,4,0.5,7.17,1.434,0.4302,28.68
+IGM-84664-265,31-08-2021,80179-44620-WN,Cleve Blowfelde,72657 Shelley Alley,Tucson,United States,85715,No,R-L-0.5,Robust,Light,3,0.5,7.17,1.434,0.4302,21.51
+VNC-93921-469,31-01-2020,04666-71569-RI,Zacharias Kiffe,32764 Buell Pass,Milwaukee,United States,53205,Yes,L-L-1,Liberica,Light,1,1,15.85,1.585,2.0605,15.85
+SKO-45740-621,16-01-2020,04666-71569-RI,Zacharias Kiffe,32764 Buell Pass,Milwaukee,United States,53205,Yes,L-M-0.5,Liberica,Medium,2,0.5,8.73,1.746,1.1349,17.46
+FOJ-02234-063,25-04-2022,59081-87231-VP,Denyse O'Calleran,6384 Darwin Avenue,Pompano Beach,United States,33064,Yes,E-D-2.5,Excelsa,Dark,1,2.5,27.945,1.1178,3.07395,27.945
+MSJ-11909-468,13-11-2021,07878-45872-CC,Cobby Cromwell,45604 Bunker Hill Court,Whittier,United States,90610,No,E-D-2.5,Excelsa,Dark,5,2.5,27.945,1.1178,3.07395,139.725
+DKB-78053-329,08-06-2021,12444-05174-OO,Irv Hay,667 Florence Drive,Sheffield,United Kingdom,S33,No,R-M-0.2,Robust,Medium,2,0.2,2.985,1.4925,0.1791,5.97
+DFZ-45083-941,21-11-2020,34665-62561-AU,Tani Taffarello,26 Linden Center,Saint Louis,United States,63180,Yes,R-L-2.5,Robust,Light,1,2.5,27.485,1.0994,1.6491,27.485
+OTA-40969-710,14-03-2019,77877-11993-QH,Monique Canty,21342 Schiller Parkway,Erie,United States,16522,Yes,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+GRH-45571-667,16-08-2019,32291-18308-YZ,Javier Kopke,04 Hanson Junction,Tacoma,United States,98464,No,E-M-1,Excelsa,Medium,3,1,13.75,1.375,1.5125,41.25
+NXV-05302-067,22-04-2019,25754-33191-ZI,Mar McIver,6 Carberry Pass,Richmond,United States,23277,No,L-M-2.5,Liberica,Medium,4,2.5,33.465,1.3386,4.35045,133.86
+VZH-86274-142,02-05-2022,53120-45532-KL,Arabella Fransewich,675 Ruskin Road,Kinsealy-Drinan,Ireland,D17,Yes,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+KIX-93248-135,11-02-2020,36605-83052-WB,Violette Hellmore,87597 Butternut Alley,Little Rock,United States,72204,Yes,A-D-0.5,Arabica,Dark,1,0.5,5.97,1.194,0.5373,5.97
+AXR-10962-010,28-03-2021,53683-35977-KI,Myles Seawright,5021 Summit Drive,Newton,United Kingdom,NG34,No,E-D-1,Excelsa,Dark,2,1,12.15,1.215,1.3365,24.3
+IHS-71573-008,08-05-2021,07972-83134-NM,Silvana Northeast,4306 Northfield Place,Sparks,United States,89436,Yes,E-D-0.2,Excelsa,Dark,6,0.2,3.645,1.8225,0.40095,21.87
+WBK-62297-910,17-05-2021,25514-23938-IQ,Monica Fearon,41524 Mandrake Center,Denton,United States,76210,No,A-D-0.2,Arabica,Dark,2,0.2,2.985,1.4925,0.26865,5.97
+OGY-19377-175,09-07-2019,49084-44492-OJ,Barney Chisnell,5915 Hallows Court,Tullamore,Ireland,R35,Yes,E-D-0.5,Excelsa,Dark,1,0.5,7.29,1.458,0.8019,7.29
+ESR-66651-814,20-05-2020,76624-72205-CK,Jasper Sisneros,38 Dryden Plaza,Raleigh,United States,27635,Yes,A-D-0.2,Arabica,Dark,4,0.2,2.985,1.4925,0.26865,11.94
+CPX-46916-770,27-08-2021,12729-50170-JE,Zachariah Carlson,4825 Bowman Crossing,Shankill,Ireland,A98,Yes,R-L-1,Robust,Light,6,1,11.95,1.195,0.717,71.7
+MDC-03318-645,30-04-2022,43974-44760-QI,Warner Maddox,6223 North Hill,New York City,United States,10105,No,A-L-0.2,Arabica,Light,2,0.2,3.885,1.9425,0.34965,7.77
+SFF-86059-407,03-06-2020,30585-48726-BK,Donnie Hedlestone,02670 Superior Way,Stamford,United States,6905,No,A-M-2.5,Arabica,Medium,1,2.5,25.875,1.035,2.32875,25.875
+SCL-94540-788,13-06-2022,16123-07017-TY,Teddi Crowthe,7 Eastlawn Alley,Toledo,United States,43666,No,E-L-2.5,Excelsa,Light,6,2.5,34.155,1.3662,3.75705,204.93
+HVU-21634-076,10-06-2020,27723-45097-MH,Dorelia Bury,305 Holy Cross Way,Castleblayney,Ireland,A75,Yes,R-L-2.5,Robust,Light,4,2.5,27.485,1.0994,1.6491,109.94
+XUS-73326-418,18-12-2020,37078-56703-AF,Gussy Broadbear,0 Manitowish Hill,Columbia,United States,65211,No,E-L-1,Excelsa,Light,6,1,14.85,1.485,1.6335,89.1
+XWD-18933-006,31-08-2019,79420-11075-MY,Emlynne Palfrey,2793 Vera Point,Fort Wayne,United States,46852,Yes,A-L-0.2,Arabica,Light,2,0.2,3.885,1.9425,0.34965,7.77
+HPD-65272-772,25-02-2019,57504-13456-UO,Parsifal Metrick,091 Old Gate Road,Saint Louis,United States,63143,Yes,L-M-2.5,Liberica,Medium,1,2.5,33.465,1.3386,4.35045,33.465
+JEG-93140-224,07-02-2021,53751-57560-CN,Christopher Grieveson,91 Old Gate Road,Portland,United States,97211,Yes,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+NNH-62058-950,14-01-2021,96112-42558-EA,Karlan Karby,4 Linden Park,Boulder,United States,80305,Yes,E-L-1,Excelsa,Light,4,1,14.85,1.485,1.6335,59.4
+LTD-71429-845,24-02-2019,03157-23165-UB,Flory Crumpe,1 Hanover Terrace,Norton,United Kingdom,NN11,No,A-L-0.5,Arabica,Light,1,0.5,7.77,1.554,0.6993,7.77
+MPV-26985-215,23-06-2019,51466-52850-AG,Amity Chatto,2 Morrow Hill,Sheffield,United Kingdom,S33,Yes,R-D-0.5,Robust,Dark,1,0.5,5.37,1.074,0.3222,5.37
+IYO-10245-081,09-05-2020,57145-31023-FK,Nanine McCarthy,27 Pine View Crossing,Louisville,United States,40298,No,E-M-2.5,Excelsa,Medium,3,2.5,31.625,1.265,3.47875,94.875
+BYZ-39669-954,18-07-2020,66408-53777-VE,Lyndsey Megany,7536 Homewood Place,Buffalo,United States,14276,No,L-L-2.5,Liberica,Light,1,2.5,36.455,1.4582,4.73915,36.455
+EFB-72860-209,17-10-2019,53035-99701-WG,Byram Mergue,801 Sloan Plaza,Canton,United States,44710,Yes,A-M-0.2,Arabica,Medium,4,0.2,3.375,1.6875,0.30375,13.5
+GMM-72397-378,16-05-2022,45899-92796-EI,Kerr Patise,2469 Hayes Lane,Boston,United States,2114,No,R-L-0.2,Robust,Light,4,0.2,3.585,1.7925,0.2151,14.34
+LYP-52345-883,24-03-2021,17649-28133-PY,Mathew Goulter,3 Sunfield Terrace,Kinlough,Ireland,F94,Yes,E-M-0.5,Excelsa,Medium,1,0.5,8.25,1.65,0.9075,8.25
+DFK-35846-692,03-11-2019,49612-33852-CN,Marris Grcic,758 Acker Point,Lynchburg,United States,24515,Yes,R-D-0.2,Robust,Dark,5,0.2,2.685,1.3425,0.1611,13.425
+XAH-93337-609,28-10-2021,66976-43829-YG,Domeniga Duke,472 Mosinee Crossing,Los Angeles,United States,90071,No,A-D-1,Arabica,Dark,5,1,9.95,0.995,0.8955,49.75
+QKA-72582-644,16-12-2020,64852-04619-XZ,Violante Skouling,9366 Bunting Center,Drumcondra,Ireland,D11,No,E-M-0.5,Excelsa,Medium,2,0.5,8.25,1.65,0.9075,16.5
+ZDK-84567-102,29-11-2021,58690-31815-VY,Isidore Hussey,641 Birchwood Place,Birmingham,United States,35236,No,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+WAV-38301-984,20-03-2021,62863-81239-DT,Cassie Pinkerton,5205 Graceland Point,Alexandria,United States,22309,No,A-D-0.5,Arabica,Dark,5,0.5,5.97,1.194,0.5373,29.85
+KZR-33023-209,08-04-2022,21177-40725-CF,Micki Fero,9 Burrows Way,Danbury,United States,6816,No,E-L-1,Excelsa,Light,3,1,14.85,1.485,1.6335,44.55
+ULM-49433-003,14-08-2020,99421-80253-UI,Cybill Graddell,8 Reindahl Alley,Albany,United States,12205,No,E-M-1,Excelsa,Medium,2,1,13.75,1.375,1.5125,27.5
+SIB-83254-136,12-05-2019,45315-50206-DK,Dorian Vizor,6023 Novick Parkway,Naples,United States,34108,Yes,R-M-0.5,Robust,Medium,6,0.5,5.97,1.194,0.3582,35.82
+NOK-50349-551,03-03-2021,09595-95726-OV,Eddi Sedgebeer,9715 Shopko Hill,Miami Beach,United States,33141,Yes,R-D-0.5,Robust,Dark,3,0.5,5.37,1.074,0.3222,16.11
+YIS-96268-844,11-02-2020,60221-67036-TD,Ken Lestrange,1961 Sage Way,Atlanta,United States,30358,Yes,E-L-0.2,Excelsa,Light,6,0.2,4.455,2.2275,0.49005,26.73
+CXI-04933-855,27-04-2019,62923-29397-KX,Lacee Tanti,29668 Bashford Trail,Corpus Christi,United States,78405,Yes,E-L-2.5,Excelsa,Light,6,2.5,34.155,1.3662,3.75705,204.93
+IZU-90429-382,26-03-2022,33011-52383-BA,Arel De Lasci,80254 Cherokee Alley,Honolulu,United States,96835,Yes,A-L-1,Arabica,Light,3,1,12.95,1.295,1.1655,38.85
+WIT-40912-783,28-09-2020,86768-91598-FA,Trescha Jedrachowicz,4019 Hagan Plaza,Austin,United States,78737,Yes,L-D-0.2,Liberica,Dark,4,0.2,3.885,1.9425,0.50505,15.54
+PSD-57291-590,24-10-2019,37191-12203-MX,Perkin Stonner,09771 Rigney Center,Baltimore,United States,21290,No,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+GOI-41472-677,04-08-2021,16545-76328-JY,Darrin Tingly,6094 Dawn Junction,Lexington,United States,40596,Yes,E-D-2.5,Excelsa,Dark,4,2.5,27.945,1.1178,3.07395,111.78
+RDM-99811-230,27-11-2019,22349-47389-GY,Benn Checci,88 West Avenue,Eaton,United Kingdom,DN22,No,L-M-0.2,Liberica,Medium,5,0.2,4.365,2.1825,0.56745,21.825
+JTU-55897-581,29-02-2020,70290-38099-GB,Janifer Bagot,8580 Autumn Leaf Trail,Lincoln,United States,68505,No,R-M-0.2,Robust,Medium,5,0.2,2.985,1.4925,0.1791,14.925
+CRK-07584-240,31-01-2021,18741-72071-PP,Ermin Beeble,14777 Leroy Avenue,Cincinnati,United States,45254,Yes,A-M-1,Arabica,Medium,3,1,11.25,1.125,1.0125,33.75
+MKE-75518-399,17-06-2022,62588-82624-II,Cos Fluin,88 Jenna Point,Sheffield,United Kingdom,S33,No,A-M-1,Arabica,Medium,3,1,11.25,1.125,1.0125,33.75
+AEL-51169-725,03-02-2020,37430-29579-HD,Eveleen Bletsor,9076 Manley Center,West Hartford,United States,6127,Yes,L-M-0.2,Liberica,Medium,6,0.2,4.365,2.1825,0.56745,26.19
+ZGM-83108-823,25-01-2022,84132-22322-QT,Paola Brydell,826 Judy Alley,Listowel,Ireland,V31,No,E-L-1,Excelsa,Light,1,1,14.85,1.485,1.6335,14.85
+KTX-17944-494,29-12-2019,74330-29286-RO,Claudetta Rushe,7 Corben Plaza,Charlotte,United States,28299,Yes,A-L-0.2,Arabica,Light,1,0.2,3.885,1.9425,0.34965,3.885
+JBP-78754-392,30-04-2020,74330-29286-RO,Claudetta Rushe,7 Corben Plaza,Charlotte,United States,28299,Yes,E-M-2.5,Excelsa,Medium,6,2.5,31.625,1.265,3.47875,189.75
+RNH-54912-747,01-05-2021,37445-17791-NQ,Natka Leethem,12 Stone Corner Avenue,Alexandria,United States,71307,Yes,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+JDS-33440-914,28-10-2021,58511-10548-ZU,Ailene Nesfield,59 Rieder Lane,Belfast,United Kingdom,BT2,Yes,R-M-1,Robust,Medium,3,1,9.95,0.995,0.597,29.85
+SYX-48878-182,29-08-2021,47725-34771-FJ,Stacy Pickworth,81014 Delladonna Terrace,Las Vegas,United States,89115,No,R-D-1,Robust,Dark,5,1,8.95,0.895,0.537,44.75
+ZGD-94763-868,27-12-2019,53086-67334-KT,Melli Brockway,0528 Thackeray Pass,Des Moines,United States,50369,Yes,E-L-2.5,Excelsa,Light,1,2.5,34.155,1.3662,3.75705,34.155
+CZY-70361-485,25-06-2019,83308-82257-UN,Nanny Lush,1 Annamark Drive,Ballivor,Ireland,D17,No,E-L-2.5,Excelsa,Light,6,2.5,34.155,1.3662,3.75705,204.93
+RJR-12175-899,02-03-2019,37274-08534-FM,Selma McMillian,6404 Heffernan Junction,Akron,United States,44315,No,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+OVI-27064-381,13-11-2019,37274-08534-FM,Selma McMillian,6404 Heffernan Junction,Akron,United States,44315,No,R-D-0.5,Robust,Dark,3,0.5,5.37,1.074,0.3222,16.11
+ELB-07929-407,02-01-2022,54004-04664-AA,Tess Bennison,00225 Fieldstone Center,West Palm Beach,United States,33405,Yes,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+UJQ-54441-340,30-07-2019,26822-19510-SD,Gabie Tweed,0 Fairview Lane,Fresno,United States,93715,Yes,E-M-0.2,Excelsa,Medium,2,0.2,4.125,2.0625,0.45375,8.25
+UJQ-54441-340,30-07-2019,26822-19510-SD,Gabie Tweed,0 Fairview Lane,Fresno,United States,93715,Yes,A-L-0.2,Arabica,Light,5,0.2,3.885,1.9425,0.34965,19.425
+OWY-43108-475,05-12-2020,06432-73165-ML,Gaile Goggin,654 Mandrake Plaza,Sandyford,Ireland,D04,Yes,A-M-0.2,Arabica,Medium,6,0.2,3.375,1.6875,0.30375,20.25
+GNO-91911-159,17-12-2020,96503-31833-CW,Skylar Jeyness,43 Fremont Point,Dublin,Ireland,D04,No,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+CNY-06284-066,26-06-2021,63985-64148-MG,Donica Bonhome,73509 Victoria Junction,Knoxville,United States,37924,Yes,E-D-0.2,Excelsa,Dark,5,0.2,3.645,1.8225,0.40095,18.225
+OQS-46321-904,20-07-2019,19597-91185-CM,Diena Peetermann,05926 Northfield Parkway,Shawnee Mission,United States,66276,No,E-M-1,Excelsa,Medium,1,1,13.75,1.375,1.5125,13.75
+IBW-87442-480,14-07-2022,79814-23626-JR,Trina Le Sarr,96 Rigney Trail,San Francisco,United States,94132,Yes,A-L-2.5,Arabica,Light,1,2.5,29.785,1.1914,2.68065,29.785
+DGZ-82537-477,14-08-2020,43439-94003-DW,Flynn Antony,5678 Doe Crossing Junction,Birmingham,United States,35244,No,R-D-1,Robust,Dark,5,1,8.95,0.895,0.537,44.75
+YPT-95383-088,03-10-2021,43439-94003-DW,Flynn Antony,5678 Doe Crossing Junction,Birmingham,United States,35244,No,E-D-2.5,Excelsa,Dark,2,2.5,27.945,1.1178,3.07395,55.89
+DKM-97676-850,02-06-2020,43439-94003-DW,Flynn Antony,5678 Doe Crossing Junction,Birmingham,United States,35244,No,E-D-0.5,Excelsa,Dark,5,0.5,7.29,1.458,0.8019,36.45
+WUG-76466-650,22-02-2021,43439-94003-DW,Flynn Antony,5678 Doe Crossing Junction,Birmingham,United States,35244,No,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+LPS-39089-432,24-04-2019,97655-45555-LI,Baudoin Alldridge,14 Oriole Hill,Brooklyn,United States,11215,Yes,R-D-1,Robust,Dark,5,1,8.95,0.895,0.537,44.75
+MQU-86100-929,04-06-2019,64418-01720-VW,Homer Dulany,1988 Autumn Leaf Crossing,El Paso,United States,79934,Yes,L-L-0.5,Liberica,Light,4,0.5,9.51,1.902,1.2363,38.04
+XUR-14132-391,08-08-2022,96836-09258-RI,Lisa Goodger,86634 Nova Plaza,Sacramento,United States,94250,Yes,R-D-0.5,Robust,Dark,4,0.5,5.37,1.074,0.3222,21.48
+SHP-17012-870,07-06-2020,69529-07533-CV,Corine Drewett,1881 Elgar Parkway,Boynton Beach,United States,33436,Yes,R-M-2.5,Robust,Medium,1,2.5,22.885,0.9154,1.3731,22.885
+FDY-03414-903,12-08-2019,94840-49457-UD,Quinn Parsons,47 Farwell Park,Los Angeles,United States,90094,Yes,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+WXT-85291-143,04-09-2019,81414-81273-DK,Vivyan Ceely,080 Stoughton Hill,Baltimore,United States,21275,Yes,R-M-0.5,Robust,Medium,4,0.5,5.97,1.194,0.3582,23.88
+QNP-18893-547,04-10-2019,76930-61689-CH,Elonore Goodings,7 Grim Point,Salt Lake City,United States,84125,No,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+DOH-92927-530,24-02-2020,12839-56537-TQ,Clement Vasiliev,49 Eliot Alley,Garland,United States,75049,Yes,L-L-0.2,Liberica,Light,6,0.2,4.755,2.3775,0.61815,28.53
+HGJ-82768-173,26-08-2021,62741-01322-HU,Terencio O'Moylan,19 Kings Pass,Church End,United Kingdom,CB4,No,A-M-1,Arabica,Medium,4,1,11.25,1.125,1.0125,45
+OYH-16533-767,13-06-2020,44932-34838-RM,Wyatan Fetherston,74 Morning Avenue,New York City,United States,10184,No,E-L-1,Excelsa,Light,4,1,14.85,1.485,1.6335,59.4
+DWW-28642-549,01-03-2021,91181-19412-RQ,Emmaline Rasmus,045 Jackson Junction,Boston,United States,2216,Yes,E-D-0.2,Excelsa,Dark,2,0.2,3.645,1.8225,0.40095,7.29
+CGO-79583-871,04-03-2019,37182-54930-XC,Wesley Giorgioni,45 Trailsway Avenue,San Francisco,United States,94132,Yes,E-D-0.5,Excelsa,Dark,1,0.5,7.29,1.458,0.8019,7.29
+TFY-52090-386,13-10-2019,08613-17327-XT,Lucienne Scargle,62 Pepper Wood Plaza,Indianapolis,United States,46295,No,E-L-0.5,Excelsa,Light,2,0.5,8.91,1.782,0.9801,17.82
+TFY-52090-386,13-10-2019,08613-17327-XT,Lucienne Scargle,62 Pepper Wood Plaza,Indianapolis,United States,46295,No,L-D-0.5,Liberica,Dark,5,0.5,7.77,1.554,1.0101,38.85
+NYY-73968-094,15-08-2019,70451-38048-AH,Noam Climance,34 Orin Crossing,Seattle,United States,98148,No,R-D-0.5,Robust,Dark,6,0.5,5.37,1.074,0.3222,32.22
+QEY-71761-460,29-11-2021,35442-75769-PL,Catarina Donn,74 Logan Avenue,Dunmanway,Ireland,P47,Yes,R-M-1,Robust,Medium,2,1,9.95,0.995,0.597,19.9
+GKQ-82603-910,19-01-2020,83737-56117-JE,Ameline Snazle,246 Katie Terrace,Montgomery,United States,36109,No,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+IOB-32673-745,28-05-2021,07095-81281-NJ,Rebeka Worg,8753 Texas Court,Dallas,United States,75372,Yes,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+YAU-98893-150,15-01-2022,77043-48851-HG,Lewes Danes,37 Graedel Court,Topeka,United States,66622,No,L-M-1,Liberica,Medium,3,1,14.55,1.455,1.8915,43.65
+XNM-14163-951,04-12-2019,78224-60622-KH,Shelli Keynd,9 Iowa Court,Tyler,United States,75799,No,E-L-2.5,Excelsa,Light,6,2.5,34.155,1.3662,3.75705,204.93
+JPB-45297-000,01-07-2022,83105-86631-IU,Dell Daveridge,09652 Crowley Lane,Los Angeles,United States,90065,No,R-L-0.2,Robust,Light,4,0.2,3.585,1.7925,0.2151,14.34
+MOU-74341-266,07-05-2019,99358-65399-TC,Joshuah Awdry,7961 Blackbird Road,Shreveport,United States,71137,No,A-D-0.5,Arabica,Dark,4,0.5,5.97,1.194,0.5373,23.88
+DHJ-87461-571,23-08-2020,94525-76037-JP,Ethel Ryles,8 Schurz Place,Boise,United States,83722,No,A-M-1,Arabica,Medium,2,1,11.25,1.125,1.0125,22.5
+UEB-09112-118,30-01-2020,82718-93677-XO,Maitilde Boxill,65 Cardinal Plaza,Montgomery,United States,36177,Yes,A-M-0.5,Arabica,Medium,4,0.5,6.75,1.35,0.6075,27
+ORZ-67699-748,15-02-2020,44708-78241-DF,Jodee Caldicott,2690 Oak Way,Fort Pierce,United States,34981,No,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+JXP-28398-485,11-06-2021,23039-93032-FN,Marianna Vedmore,368 Waubesa Way,Greensboro,United States,27415,Yes,A-D-2.5,Arabica,Dark,5,2.5,22.885,0.9154,2.05965,114.425
+WWH-92259-198,11-03-2022,35256-12529-FT,Willey Romao,013 Vernon Way,Sacramento,United States,94237,Yes,L-D-1,Liberica,Dark,4,1,12.95,1.295,1.6835,51.8
+FLR-82914-153,09-09-2021,86100-33488-WP,Enriqueta Ixor,068 Meadow Ridge Lane,Round Rock,United States,78682,No,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+AMB-93600-000,14-05-2019,64435-53100-WM,Tomasina Cotmore,2146 Helena Court,Reston,United States,22096,No,A-L-2.5,Arabica,Light,1,2.5,29.785,1.1914,2.68065,29.785
+FEP-36895-658,08-04-2019,44699-43836-UH,Yuma Skipsey,321 Killdeer Center,Charlton,United Kingdom,OX12,No,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+RXW-91413-276,15-08-2020,29588-35679-RG,Nicko Corps,119 Iowa Plaza,Columbia,United States,29220,No,R-D-2.5,Robust,Dark,2,2.5,20.585,0.8234,1.2351,41.17
+RXW-91413-276,15-08-2020,29588-35679-RG,Nicko Corps,119 Iowa Plaza,Columbia,United States,29220,No,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+SDB-77492-188,05-05-2022,64815-54078-HH,Feliks Babber,18 Helena Trail,Phoenix,United States,85025,Yes,E-L-1,Excelsa,Light,5,1,14.85,1.485,1.6335,74.25
+RZN-65182-395,27-03-2021,59572-41990-XY,Kaja Loxton,8477 East Trail,Miami,United States,33233,No,L-M-1,Liberica,Medium,6,1,14.55,1.455,1.8915,87.3
+HDQ-86094-507,27-04-2019,32481-61533-ZJ,Parker Tofful,97465 Almo Alley,Fresno,United States,93762,Yes,E-D-1,Excelsa,Dark,6,1,12.15,1.215,1.3365,72.9
+YXO-79631-417,25-09-2021,31587-92570-HL,Casi Gwinnett,0 Elgar Parkway,Anaheim,United States,92825,No,L-D-0.5,Liberica,Dark,1,0.5,7.77,1.554,1.0101,7.77
+SNF-57032-096,13-02-2020,93832-04799-ID,Saree Ellesworth,715 Oxford Lane,Newport News,United States,23605,No,E-D-0.5,Excelsa,Dark,6,0.5,7.29,1.458,0.8019,43.74
+DGL-29648-995,16-07-2021,59367-30821-ZQ,Silvio Iorizzi,5 Dwight Plaza,Spartanburg,United States,29305,Yes,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+GPU-65651-504,11-05-2022,83947-45528-ET,Leesa Flaonier,25 Saint Paul Drive,Staten Island,United States,10305,No,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+OJU-34452-896,04-02-2019,60799-92593-CX,Abba Pummell,3 Service Pass,Las Vegas,United States,89115,Yes,E-L-0.5,Excelsa,Light,1,0.5,8.91,1.782,0.9801,8.91
+GZS-50547-887,05-02-2019,61600-55136-UM,Corinna Catcheside,8 Kim Street,Salt Lake City,United States,84105,Yes,E-D-1,Excelsa,Dark,2,1,12.15,1.215,1.3365,24.3
+ESR-54041-053,24-05-2022,59771-90302-OF,Cortney Gibbonson,861 David Crossing,Seattle,United States,98109,Yes,A-L-0.5,Arabica,Light,6,0.5,7.77,1.554,0.6993,46.62
+OGD-10781-526,04-10-2020,16880-78077-FB,Terri Farra,06448 Burrows Terrace,Odessa,United States,79764,No,R-L-0.5,Robust,Light,6,0.5,7.17,1.434,0.4302,43.02
+WNR-71736-993,05-02-2020,16880-78077-FB,Terri Farra,06448 Burrows Terrace,Odessa,United States,79764,No,L-D-0.5,Liberica,Dark,4,0.5,7.77,1.554,1.0101,31.08
+WNR-71736-993,05-02-2020,16880-78077-FB,Terri Farra,06448 Burrows Terrace,Odessa,United States,79764,No,A-D-2.5,Arabica,Dark,6,2.5,22.885,0.9154,2.05965,137.31
+JLJ-81802-619,20-06-2021,16880-78077-FB,Terri Farra,06448 Burrows Terrace,Odessa,United States,79764,No,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+FVH-29271-315,30-06-2022,74415-50873-FC,Corney Curme,0535 Michigan Plaza,Castleknock,Ireland,K78,Yes,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+BNZ-20544-633,21-10-2020,31798-95707-NR,Gothart Bamfield,41203 Vernon Street,Irving,United States,75037,Yes,L-L-0.5,Liberica,Light,4,0.5,9.51,1.902,1.2363,38.04
+FUX-85791-078,16-10-2020,59122-08794-WT,Waylin Hollingdale,3 Heath Trail,Dayton,United States,45426,Yes,A-M-0.2,Arabica,Medium,2,0.2,3.375,1.6875,0.30375,6.75
+YXP-20078-116,23-09-2020,37238-52421-JJ,Judd De Leek,90 Saint Paul Plaza,Grand Rapids,United States,49560,Yes,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+VQV-59984-866,08-03-2019,48854-01899-FN,Vanya Skullet,4 Grim Road,Balally,Ireland,D04,No,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+JEH-37276-048,30-06-2021,80896-38819-DW,Jany Rudeforth,614 Commercial Center,Tullyallen,Ireland,E25,Yes,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+VYD-28555-589,13-08-2019,29814-01459-RC,Ashbey Tomaszewski,7685 Oxford Crossing,Sutton,United Kingdom,CT15,Yes,R-L-0.5,Robust,Light,6,0.5,7.17,1.434,0.4302,43.02
+RJV-08261-583,26-03-2022,48497-29281-FE,Pren Bess,36559 Sommers Parkway,Los Angeles,United States,90010,Yes,A-D-0.2,Arabica,Dark,5,0.2,2.985,1.4925,0.26865,14.925
+PMR-56062-609,10-01-2020,43605-12616-YH,Elka Windress,78 Anderson Alley,Baltimore,United States,21239,No,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+XLD-12920-505,01-05-2019,21907-75962-VB,Marty Kidstoun,4 Sundown Circle,Harrisburg,United States,17126,Yes,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+UBW-50312-037,09-02-2020,69503-12127-YD,Nickey Dimbleby,525 Warner Hill,Dallas,United States,75216,No,A-L-2.5,Arabica,Light,4,2.5,29.785,1.1914,2.68065,119.14
+QAW-05889-019,29-12-2021,68810-07329-EU,Virgil Baumadier,89508 Atwood Way,Kansas City,United States,64125,Yes,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+EPT-12715-397,09-09-2020,08478-75251-OG,Lenore Messenbird,7881 Dahle Center,Springfield,United States,62723,Yes,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+DHT-93810-053,16-09-2021,17005-82030-EA,Shirleen Welds,002 Summer Ridge Terrace,New Haven,United States,6510,Yes,E-L-1,Excelsa,Light,5,1,14.85,1.485,1.6335,74.25
+DMY-96037-963,26-10-2020,42179-95059-DO,Maisie Sarvar,83 Saint Paul Drive,Lawrenceville,United States,30045,Yes,L-D-0.2,Liberica,Dark,3,0.2,3.885,1.9425,0.50505,11.655
+MBM-55936-917,12-03-2019,55989-39849-WO,Andrej Havick,720 Pennsylvania Pass,Asheville,United States,28805,Yes,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+TPA-93614-840,18-02-2021,28932-49296-TM,Sloan Diviny,3904 Birchwood Terrace,Saint Paul,United States,55123,Yes,E-D-0.5,Excelsa,Dark,2,0.5,7.29,1.458,0.8019,14.58
+WDM-77521-710,29-10-2020,86144-10144-CB,Itch Norquoy,1 Welch Court,Minneapolis,United States,55458,No,A-M-0.5,Arabica,Medium,2,0.5,6.75,1.35,0.6075,13.5
+EIP-19142-462,06-09-2021,60973-72562-DQ,Anson Iddison,8 Steensland Junction,Santa Ana,United States,92725,No,E-L-1,Excelsa,Light,6,1,14.85,1.485,1.6335,89.1
+EIP-19142-462,06-09-2021,60973-72562-DQ,Anson Iddison,8 Steensland Junction,Santa Ana,United States,92725,No,A-L-0.2,Arabica,Light,1,0.2,3.885,1.9425,0.34965,3.885
+ZZL-76364-387,09-09-2020,11263-86515-VU,Randal Longfield,513 Commercial Avenue,Minneapolis,United States,55458,No,R-L-2.5,Robust,Light,4,2.5,27.485,1.0994,1.6491,109.94
+GMF-18638-786,26-09-2021,60004-62976-NI,Gregorius Kislingbury,4 Jenifer Street,Washington,United States,20420,Yes,L-D-0.5,Liberica,Dark,6,0.5,7.77,1.554,1.0101,46.62
+TDJ-20844-787,05-11-2020,77876-28498-HI,Xenos Gibbons,002 7th Junction,San Bernardino,United States,92415,No,A-L-0.5,Arabica,Light,5,0.5,7.77,1.554,0.6993,38.85
+BWK-39400-446,12-09-2019,61302-06948-EH,Fleur Parres,641 Steensland Pass,Rochester,United States,14609,Yes,L-D-0.5,Liberica,Dark,4,0.5,7.77,1.554,1.0101,31.08
+LCB-02099-995,31-07-2019,06757-96251-UH,Gran Sibray,5018 Iowa Pass,Vancouver,United States,98664,Yes,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+UBA-43678-174,15-03-2019,44530-75983-OD,Ingelbert Hotchkin,322 Basil Pass,Preston,United Kingdom,PR1,No,E-D-2.5,Excelsa,Dark,6,2.5,27.945,1.1178,3.07395,167.67
+UDH-24280-432,16-05-2021,44865-58249-RY,Neely Broadberrie,8571 Buena Vista Junction,Washington,United States,20057,No,L-L-1,Liberica,Light,4,1,15.85,1.585,2.0605,63.4
+IDQ-20193-502,06-05-2019,36021-61205-DF,Rutger Pithcock,2425 Corben Street,Knoxville,United States,37924,Yes,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+DJG-14442-608,06-02-2019,75716-12782-SS,Gale Croysdale,1657 Delladonna Hill,Charleston,United States,25336,Yes,R-D-1,Robust,Dark,3,1,8.95,0.895,0.537,26.85
+DWB-61381-370,09-04-2021,11812-00461-KH,Benedetto Gozzett,0389 Hintze Pass,Dallas,United States,75372,No,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+FRD-17347-990,20-05-2020,46681-78850-ZW,Tania Craggs,0 Eagan Parkway,Whitegate,Ireland,D15,No,A-D-1,Arabica,Dark,4,1,9.95,0.995,0.8955,39.8
+YPP-27450-525,02-12-2020,01932-87052-KO,Leonie Cullrford,71 Sycamore Crossing,Chico,United States,95973,Yes,E-M-0.5,Excelsa,Medium,3,0.5,8.25,1.65,0.9075,24.75
+EFC-39577-424,08-08-2021,16046-34805-ZF,Auguste Rizon,19 Merrick Pass,Little Rock,United States,72215,Yes,E-M-1,Excelsa,Medium,5,1,13.75,1.375,1.5125,68.75
+LAW-80062-016,03-02-2022,34546-70516-LR,Lorin Guerrazzi,8244 La Follette Street,Balrothery,Ireland,K32,No,E-M-0.5,Excelsa,Medium,6,0.5,8.25,1.65,0.9075,49.5
+WKL-27981-758,08-04-2022,73699-93557-FZ,Felice Miell,35 Hoepker Pass,New Brunswick,United States,8922,Yes,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+VRT-39834-265,07-01-2021,86686-37462-CK,Hamish Skeech,5662 Messerschmidt Lane,Valleymount,Ireland,A83,Yes,L-L-1,Liberica,Light,3,1,15.85,1.585,2.0605,47.55
+QTC-71005-730,02-09-2021,14298-02150-KH,Giordano Lorenzin,577 Roth Pass,San Francisco,United States,94132,No,A-L-0.2,Arabica,Light,4,0.2,3.885,1.9425,0.34965,15.54
+TNX-09857-717,04-11-2021,48675-07824-HJ,Harwilll Bishell,7960 Roth Center,Lafayette,United States,70505,Yes,L-M-1,Liberica,Medium,6,1,14.55,1.455,1.8915,87.3
+JZV-43874-185,02-08-2021,18551-80943-YQ,Freeland Missenden,1 Randy Place,San Diego,United States,92191,Yes,A-M-1,Arabica,Medium,5,1,11.25,1.125,1.0125,56.25
+ICF-17486-106,27-01-2020,19196-09748-DB,Waylan Springall,99 Schurz Pass,Alhambra,United States,91841,Yes,L-L-2.5,Liberica,Light,1,2.5,36.455,1.4582,4.73915,36.455
+BMK-49520-383,03-12-2019,72233-08665-IP,Kiri Avramow,2443 Bluejay Alley,Tyler,United States,75799,Yes,R-L-0.2,Robust,Light,3,0.2,3.585,1.7925,0.2151,10.755
+HTS-15020-632,06-08-2019,53817-13148-RK,Gregg Hawkyens,48 Vidon Street,Lafayette,United States,70593,No,R-M-0.2,Robust,Medium,3,0.2,2.985,1.4925,0.1791,8.955
+YLE-18247-749,11-03-2020,92227-49331-QR,Reggis Pracy,33211 Pleasure Circle,Dayton,United States,45426,Yes,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+KJJ-12573-591,18-09-2021,12997-41076-FQ,Paula Denis,74 Texas Road,Phoenix,United States,85072,Yes,A-L-2.5,Arabica,Light,1,2.5,29.785,1.1914,2.68065,29.785
+RGU-43561-950,07-11-2020,44220-00348-MB,Broderick McGilvra,880 Mockingbird Plaza,Sacramento,United States,94263,Yes,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+JSN-73975-443,27-06-2022,93047-98331-DD,Annabella Danzey,5692 Eastwood Hill,Lincoln,United States,68505,Yes,L-M-0.5,Liberica,Medium,1,0.5,8.73,1.746,1.1349,8.73
+HNI-91338-546,07-02-2020,67285-75317-XI,Nevins Glowacz,8103 Maywood Center,Madison,United States,53726,No,A-D-0.5,Arabica,Dark,5,0.5,5.97,1.194,0.5373,29.85
+CYH-53243-218,18-12-2020,88167-57964-PH,Adelice Isabell,93 Hintze Point,Charleston,United States,25336,No,R-M-0.5,Robust,Medium,3,0.5,5.97,1.194,0.3582,17.91
+SVD-75407-177,23-08-2021,16106-36039-QS,Yulma Dombrell,83 Sunbrook Lane,Little Rock,United States,72204,Yes,E-L-0.5,Excelsa,Light,3,0.5,8.91,1.782,0.9801,26.73
+NVN-66443-451,20-08-2021,98921-82417-GN,Alric Darth,86 Pawling Court,Anchorage,United States,99507,No,R-D-1,Robust,Dark,2,1,8.95,0.895,0.537,17.9
+JUA-13580-095,01-04-2019,55265-75151-AK,Manuel Darrigoe,744 Prairie Rose Court,Longwood,Ireland,D02,Yes,R-L-0.2,Robust,Light,4,0.2,3.585,1.7925,0.2151,14.34
+ACY-56225-839,28-01-2021,47386-50743-FG,Kynthia Berick,1678 Armistice Alley,San Francisco,United States,94110,Yes,A-M-2.5,Arabica,Medium,3,2.5,25.875,1.035,2.32875,77.625
+QBB-07903-622,21-10-2019,32622-54551-UC,Minetta Ackrill,4 Arizona Road,Warren,United States,44485,No,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+HFT-77191-168,04-11-2021,48419-02347-XP,Melosa Kippen,87 Brentwood Hill,Jackson,United States,39236,Yes,R-D-0.2,Robust,Dark,2,0.2,2.685,1.3425,0.1611,5.37
+SZR-35951-530,05-04-2021,14121-20527-OJ,Witty Ranson,012 Debra Center,Kildare,Ireland,R51,Yes,E-D-2.5,Excelsa,Dark,3,2.5,27.945,1.1178,3.07395,83.835
+IKL-95976-565,09-12-2019,53486-73919-BQ,Rod Gowdie,7 Hansons Trail,Milwaukee,United States,53277,No,A-M-1,Arabica,Medium,2,1,11.25,1.125,1.0125,22.5
+XEY-48929-474,02-01-2022,21889-94615-WT,Lemuel Rignold,15027 Mcbride Pass,Sacramento,United States,94250,Yes,L-M-2.5,Liberica,Medium,6,2.5,33.465,1.3386,4.35045,200.79
+SQT-07286-736,08-12-2019,87726-16941-QW,Nevsa Fields,09 Lotheville Place,Boston,United States,2298,No,A-M-1,Arabica,Medium,6,1,11.25,1.125,1.0125,67.5
+QDU-45390-361,28-11-2021,03677-09134-BC,Chance Rowthorn,320 Rockefeller Alley,Topeka,United States,66622,No,E-M-0.5,Excelsa,Medium,1,0.5,8.25,1.65,0.9075,8.25
+RUJ-30649-712,11-03-2022,93224-71517-WV,Orly Ryland,3513 Burning Wood Way,Fargo,United States,58122,Yes,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+WSV-49732-075,17-01-2021,76263-95145-GJ,Willabella Abramski,40 Jenifer Alley,Houston,United States,77095,No,L-D-2.5,Liberica,Dark,1,2.5,29.785,1.1914,3.87205,29.785
+CXD-74176-600,07-04-2019,70624-19112-AO,Chickie Ragless,98053 Elmside Drive,Caherconlish,Ireland,F45,No,E-L-0.5,Excelsa,Light,4,0.5,8.91,1.782,0.9801,35.64
+ADX-50674-975,03-02-2021,58916-61837-QH,Freda Hollows,353 Portage Center,Buffalo,United States,14205,Yes,A-M-2.5,Arabica,Medium,4,2.5,25.875,1.035,2.32875,103.5
+RRP-51647-420,18-04-2019,89292-52335-YZ,Livy Lathleiff,0671 Scoville Way,Shankill,Ireland,A98,Yes,E-D-1,Excelsa,Dark,3,1,12.15,1.215,1.3365,36.45
+PKJ-99134-523,07-07-2021,77284-34297-YY,Koralle Heads,2 Cherokee Hill,Bethlehem,United States,18018,No,R-L-0.5,Robust,Light,5,0.5,7.17,1.434,0.4302,35.85
+FZQ-29439-457,23-02-2021,50449-80974-BZ,Theo Bowne,79 Prairieview Point,Watergrasshill,Ireland,T56,Yes,E-L-0.2,Excelsa,Light,5,0.2,4.455,2.2275,0.49005,22.275
+USN-68115-161,10-08-2021,08120-16183-AW,Rasia Jacquemard,415 Fremont Junction,Monasterevin,Ireland,W34,No,E-M-0.2,Excelsa,Medium,6,0.2,4.125,2.0625,0.45375,24.75
+IXU-20263-532,15-11-2019,68044-89277-ML,Kizzie Warman,67365 Homewood Center,Sandyford,Ireland,D04,Yes,L-M-2.5,Liberica,Medium,2,2.5,33.465,1.3386,4.35045,66.93
+CBT-15092-420,17-12-2019,71364-35210-HS,Wain Cholomin,566 Arrowood Way,Birmingham,United Kingdom,B12,Yes,L-M-0.5,Liberica,Medium,1,0.5,8.73,1.746,1.1349,8.73
+PKQ-46841-696,18-03-2020,37177-68797-ON,Arleen Braidman,4 Golf View Hill,Phoenix,United States,85099,No,R-M-0.5,Robust,Medium,3,0.5,5.97,1.194,0.3582,17.91
+XDU-05471-219,06-06-2022,60308-06944-GS,Pru Durban,2 Forest Street,Longford,Ireland,N39,No,R-L-0.5,Robust,Light,1,0.5,7.17,1.434,0.4302,7.17
+NID-20149-329,20-05-2021,49888-39458-PF,Antone Harrold,90 Kensington Road,Toledo,United States,43610,No,R-D-0.2,Robust,Dark,2,0.2,2.685,1.3425,0.1611,5.37
+SVU-27222-213,11-01-2021,60748-46813-DZ,Sim Pamphilon,36194 Susan Street,Ballylinan,Ireland,P56,No,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+RWI-84131-848,22-02-2019,16385-11286-NX,Mohandis Spurden,55290 Manufacturers Lane,Charlotte,United States,28210,Yes,R-D-2.5,Robust,Dark,2,2.5,20.585,0.8234,1.2351,41.17
+VJF-46305-323,18-01-2019,68555-89840-GZ,Morgen Seson,92847 Schlimgen Road,Seattle,United States,98109,No,L-D-0.5,Liberica,Dark,2,0.5,7.77,1.554,1.0101,15.54
+GUU-40666-525,24-11-2021,68555-89840-GZ,Morgen Seson,92847 Schlimgen Road,Seattle,United States,98109,No,A-L-0.2,Arabica,Light,3,0.2,3.885,1.9425,0.34965,11.655
+SCN-51395-066,18-01-2022,72164-90254-EJ,Nalani Pirrone,1585 Bashford Center,Wilkes Barre,United States,18706,No,L-L-0.5,Liberica,Light,4,0.5,9.51,1.902,1.2363,38.04
+ULA-24644-321,13-08-2021,67010-92988-CT,Reube Cawley,54210 Eagan Avenue,Ballyboden,Ireland,D6W,Yes,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+EOL-92666-762,11-01-2020,15776-91507-GT,Stan Barribal,6743 Cascade Drive,Bagenalstown,Ireland,R21,Yes,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+AJV-18231-334,05-07-2020,23473-41001-CD,Agnes Adamides,6338 Arkansas Drive,Liverpool,United Kingdom,L74,No,R-D-2.5,Robust,Dark,2,2.5,20.585,0.8234,1.2351,41.17
+ZQI-47236-301,25-07-2019,23446-47798-ID,Carmelita Thowes,33398 Hallows Circle,Rochester,United States,14652,No,L-L-0.5,Liberica,Light,5,0.5,9.51,1.902,1.2363,47.55
+ZCR-15721-658,26-05-2022,28327-84469-ND,Rodolfo Willoway,58 Schlimgen Parkway,Tucson,United States,85754,No,A-M-1,Arabica,Medium,4,1,11.25,1.125,1.0125,45
+QEW-47945-682,10-01-2020,42466-87067-DT,Alvis Elwin,26 Everett Hill,Minneapolis,United States,55480,No,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+PSY-45485-542,17-05-2019,62246-99443-HF,Araldo Bilbrook,4 Raven Alley,Ashbourne,Ireland,A84,Yes,R-D-0.5,Robust,Dark,3,0.5,5.37,1.074,0.3222,16.11
+BAQ-74241-156,24-07-2020,99869-55718-UU,Ransell McKall,451 Nevada Terrace,Bristol,United Kingdom,BS41,Yes,R-D-0.2,Robust,Dark,4,0.2,2.685,1.3425,0.1611,10.74
+BVU-77367-451,20-10-2020,77421-46059-RY,Borg Daile,385 Corben Parkway,Atlanta,United States,31119,Yes,A-D-1,Arabica,Dark,5,1,9.95,0.995,0.8955,49.75
+TJE-91516-344,22-09-2019,49894-06550-OQ,Adolphe Treherne,66 Sundown Place,Farranacoush,Ireland,P81,No,E-M-1,Excelsa,Medium,2,1,13.75,1.375,1.5125,27.5
+LIS-96202-702,07-06-2020,72028-63343-SU,Annetta Brentnall,00 Ludington Pass,East End,United Kingdom,BH21,No,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+VIO-27668-766,15-12-2019,10074-20104-NN,Dick Drinkall,82460 Grover Parkway,Knoxville,United States,37939,Yes,R-D-2.5,Robust,Dark,1,2.5,20.585,0.8234,1.2351,20.585
+ZVG-20473-043,06-12-2020,71769-10219-IM,Dagny Kornel,60360 Killdeer Alley,Saginaw,United States,48604,Yes,A-D-0.2,Arabica,Dark,3,0.2,2.985,1.4925,0.26865,8.955
+KGZ-56395-231,06-12-2021,22221-71106-JD,Rhona Lequeux,093 Mayfield Place,Saint Augustine,United States,32092,No,A-D-0.5,Arabica,Dark,1,0.5,5.97,1.194,0.5373,5.97
+CUU-92244-729,11-07-2020,99735-44927-OL,Julius Mccaull,89 Gulseth Circle,San Rafael,United States,94913,Yes,E-M-1,Excelsa,Medium,3,1,13.75,1.375,1.5125,41.25
+RTL-16205-161,05-04-2022,90440-62727-HI,Alberto Hutchinson,327 Erie Way,Lawrenceville,United States,30045,Yes,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+GTS-22482-014,24-03-2022,36769-16558-SX,Lamond Gheeraert,02354 Melvin Parkway,Topeka,United States,66622,Yes,L-M-2.5,Liberica,Medium,4,2.5,33.465,1.3386,4.35045,133.86
+DYG-25473-881,08-02-2020,10138-31681-SD,Roxine Drivers,842 Cardinal Court,Shawnee Mission,United States,66276,No,A-D-0.2,Arabica,Dark,2,0.2,2.985,1.4925,0.26865,5.97
+HTR-21838-286,11-02-2022,24669-76297-SF,Heloise Zeal,0420 Schurz Parkway,Seattle,United States,98148,No,A-L-1,Arabica,Light,2,1,12.95,1.295,1.1655,25.9
+KYG-28296-920,02-07-2020,78050-20355-DI,Granger Smallcombe,8448 Oxford Trail,Kilkenny,Ireland,R95,Yes,E-M-2.5,Excelsa,Medium,1,2.5,31.625,1.265,3.47875,31.625
+NNB-20459-430,25-07-2022,79825-17822-UH,Daryn Dibley,5676 Southridge Street,Kissimmee,United States,34745,No,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+FEK-14025-351,19-03-2021,03990-21586-MQ,Gardy Dimitriou,0 Gale Pass,Rochester,United States,14683,Yes,E-L-0.2,Excelsa,Light,6,0.2,4.455,2.2275,0.49005,26.73
+AWH-16980-469,11-05-2020,27493-46921-TZ,Fanny Flanagan,268 Northport Drive,Tyler,United States,75799,No,L-M-0.2,Liberica,Medium,6,0.2,4.365,2.1825,0.56745,26.19
+EHE-94714-312,28-06-2021,27132-68907-RC,Ailey Brash,64700 Eagan Crossing,Flushing,United States,11388,Yes,E-L-0.2,Excelsa,Light,5,0.2,4.455,2.2275,0.49005,22.275
+ZPW-31329-741,08-06-2019,27132-68907-RC,Ailey Brash,64700 Eagan Crossing,Flushing,United States,11388,Yes,R-D-1,Robust,Dark,6,1,8.95,0.895,0.537,53.7
+ZPW-31329-741,08-06-2019,27132-68907-RC,Ailey Brash,64700 Eagan Crossing,Flushing,United States,11388,Yes,E-M-2.5,Excelsa,Medium,4,2.5,31.625,1.265,3.47875,126.5
+ZPW-31329-741,08-06-2019,27132-68907-RC,Ailey Brash,64700 Eagan Crossing,Flushing,United States,11388,Yes,E-M-0.2,Excelsa,Medium,1,0.2,4.125,2.0625,0.45375,4.125
+UBI-83843-396,09-10-2019,58816-74064-TF,Nanny Izhakov,013 Tennyson Terrace,Seaton,United Kingdom,LE15,No,R-L-1,Robust,Light,2,1,11.95,1.195,0.717,23.9
+VID-40587-569,20-02-2021,09818-59895-EH,Stanly Keets,2500 Crest Line Plaza,Alexandria,United States,22309,Yes,E-D-2.5,Excelsa,Dark,5,2.5,27.945,1.1178,3.07395,139.725
+KBB-52530-416,21-11-2019,06488-46303-IZ,Orion Dyott,26 Londonderry Court,Salt Lake City,United States,84115,Yes,L-D-2.5,Liberica,Dark,2,2.5,29.785,1.1914,3.87205,59.57
+ISJ-48676-420,10-10-2021,93046-67561-AY,Keefer Cake,1 Crowley Crossing,San Jose,United States,95108,No,L-L-0.5,Liberica,Light,6,0.5,9.51,1.902,1.2363,57.06
+MIF-17920-768,05-08-2021,68946-40750-LK,Morna Hansed,1 Dwight Point,Trè°© Mhè´¸r,Ireland,R93,Yes,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+CPX-19312-088,31-07-2020,38387-64959-WW,Franny Kienlein,1 Manitowish Pass,Coolock,Ireland,D17,Yes,L-M-0.5,Liberica,Medium,6,0.5,8.73,1.746,1.1349,52.38
+RXI-67978-260,19-09-2020,48418-60841-CC,Klarika Egglestone,2765 Sunfield Terrace,Coolock,Ireland,D17,No,E-D-1,Excelsa,Dark,6,1,12.15,1.215,1.3365,72.9
+LKE-14821-285,03-05-2020,13736-92418-JS,Becky Semkins,7219 Clemons Place,Kinnegad,Ireland,R32,Yes,R-M-0.2,Robust,Medium,5,0.2,2.985,1.4925,0.1791,14.925
+LRK-97117-150,08-07-2019,33000-22405-LO,Sean Lorenzetti,1104 Paget Lane,El Paso,United States,79945,No,L-L-1,Liberica,Light,6,1,15.85,1.585,2.0605,95.1
+IGK-51227-573,26-10-2019,46959-60474-LT,Bob Giannazzi,57 Division Plaza,Fort Lauderdale,United States,33355,No,L-D-0.5,Liberica,Dark,2,0.5,7.77,1.554,1.0101,15.54
+ZAY-43009-775,27-09-2020,73431-39823-UP,Kendra Backshell,47101 Northfield Lane,Indianapolis,United States,46295,No,L-D-0.2,Liberica,Dark,6,0.2,3.885,1.9425,0.50505,23.31
+EMA-63190-618,28-02-2022,90993-98984-JK,Uriah Lethbrig,38 Carioca Center,Milwaukee,United States,53234,Yes,E-M-0.2,Excelsa,Medium,1,0.2,4.125,2.0625,0.45375,4.125
+FBI-35855-418,16-09-2020,06552-04430-AG,Sky Farnish,170 Prentice Center,Eaton,United Kingdom,DN22,No,R-M-0.5,Robust,Medium,6,0.5,5.97,1.194,0.3582,35.82
+TXB-80533-417,28-10-2020,54597-57004-QM,Felicia Jecock,403 Vahlen Junction,Baton Rouge,United States,70836,No,L-L-1,Liberica,Light,2,1,15.85,1.585,2.0605,31.7
+MBM-00112-248,02-09-2019,50238-24377-ZS,Currey MacAllister,07300 Walton Point,Danbury,United States,6816,Yes,L-L-1,Liberica,Light,5,1,15.85,1.585,2.0605,79.25
+EUO-69145-988,30-08-2021,60370-41934-IF,Hamlen Pallister,19513 Golf Course Junction,Pensacola,United States,32590,No,E-D-0.2,Excelsa,Dark,3,0.2,3.645,1.8225,0.40095,10.935
+GYA-80327-368,04-06-2021,06899-54551-EH,Chantal Mersh,52843 Longview Street,Milltown,Ireland,D04,No,A-D-1,Arabica,Dark,4,1,9.95,0.995,0.8955,39.8
+ALR-62963-723,21-06-2020,80463-43913-WZ,Malynda Purbrick,9233 3rd Avenue,Balally,Ireland,D04,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+JIG-27636-870,13-07-2020,67204-04870-LG,Alf Housaman,8581 Mcguire Road,Grand Rapids,United States,49518,No,R-L-1,Robust,Light,4,1,11.95,1.195,0.717,47.8
+CTE-31437-326,02-01-2019,22721-63196-UJ,Gladi Ducker,5069 Boyd Parkway,Belfast,United Kingdom,BT2,No,R-M-0.2,Robust,Medium,4,0.2,2.985,1.4925,0.1791,11.94
+CTE-31437-326,02-01-2019,22721-63196-UJ,Gladi Ducker,5069 Boyd Parkway,Belfast,United Kingdom,BT2,No,E-M-0.2,Excelsa,Medium,4,0.2,4.125,2.0625,0.45375,16.5
+CTE-31437-326,02-01-2019,22721-63196-UJ,Gladi Ducker,5069 Boyd Parkway,Belfast,United Kingdom,BT2,No,L-D-1,Liberica,Dark,4,1,12.95,1.295,1.6835,51.8
+CTE-31437-326,02-01-2019,22721-63196-UJ,Gladi Ducker,5069 Boyd Parkway,Belfast,United Kingdom,BT2,No,L-L-0.2,Liberica,Light,3,0.2,4.755,2.3775,0.61815,14.265
+SLD-63003-334,17-02-2022,55515-37571-RS,Wain Stearley,7 La Follette Road,High Point,United States,27264,No,L-M-0.2,Liberica,Medium,6,0.2,4.365,2.1825,0.56745,26.19
+BXN-64230-789,19-12-2020,25598-77476-CB,Diane-marie Wincer,04 Stuart Way,El Paso,United States,88546,Yes,A-L-1,Arabica,Light,2,1,12.95,1.295,1.1655,25.9
+XEE-37895-169,20-02-2019,14888-85625-TM,Perry Lyfield,1263 Thackeray Parkway,Cleveland,United States,44185,Yes,A-L-2.5,Arabica,Light,3,2.5,29.785,1.1914,2.68065,89.355
+ZTX-80764-911,14-01-2021,92793-68332-NR,Heall Perris,043 Bashford Point,Ballymahon,Ireland,F52,No,L-D-0.5,Liberica,Dark,6,0.5,7.77,1.554,1.0101,46.62
+TNW-41601-420,24-11-2020,66458-91190-YC,Marja Urion,2 Sycamore Avenue,Virginia,Ireland,D18,Yes,R-M-1,Robust,Medium,5,1,9.95,0.995,0.597,49.75
+WVT-88135-549,16-11-2019,66458-91190-YC,Marja Urion,2 Sycamore Avenue,Virginia,Ireland,D18,Yes,A-D-1,Arabica,Dark,3,1,9.95,0.995,0.8955,29.85
+ZIL-34948-499,14-07-2020,66458-91190-YC,Marja Urion,2 Sycamore Avenue,Virginia,Ireland,D18,Yes,A-D-0.5,Arabica,Dark,2,0.5,5.97,1.194,0.5373,11.94
+CPV-90280-133,20-03-2019,66458-91190-YC,Marja Urion,2 Sycamore Avenue,Virginia,Ireland,D18,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+XQJ-86887-506,06-11-2021,66458-91190-YC,Marja Urion,2 Sycamore Avenue,Virginia,Ireland,D18,Yes,E-L-1,Excelsa,Light,4,1,14.85,1.485,1.6335,59.4
+IPA-94170-889,04-12-2019,64439-27325-LG,Camellia Kid,37515 Wayridge Lane,Whitegate,Ireland,D15,Yes,R-L-0.2,Robust,Light,3,0.2,3.585,1.7925,0.2151,10.755
+YQL-63755-365,31-07-2020,78570-76770-LB,Carolann Beine,81 West Plaza,Birmingham,United States,35244,Yes,A-M-0.2,Arabica,Medium,4,0.2,3.375,1.6875,0.30375,13.5
+RKW-81145-984,11-03-2019,98661-69719-VI,Celia Bakeup,73 Bellgrove Circle,Saint Cloud,United States,56372,No,L-L-1,Liberica,Light,3,1,15.85,1.585,2.0605,47.55
+MBT-23379-866,10-05-2022,82990-92703-IX,Nataniel Helkin,9 Loftsgordon Pass,Philadelphia,United States,19191,No,L-L-1,Liberica,Light,5,1,15.85,1.585,2.0605,79.25
+GEJ-39834-935,25-12-2021,49412-86877-VY,Pippo Witherington,63 School Crossing,Detroit,United States,48211,Yes,L-M-0.2,Liberica,Medium,6,0.2,4.365,2.1825,0.56745,26.19
+KRW-91640-596,22-04-2022,70879-00984-FJ,Tildie Tilzey,2812 Westend Hill,Saint Louis,United States,63180,No,R-L-0.5,Robust,Light,3,0.5,7.17,1.434,0.4302,21.51
+AOT-70449-651,11-06-2022,53414-73391-CR,Cindra Burling,5461 Anniversary Crossing,Schenectady,United States,12305,Yes,R-D-2.5,Robust,Dark,5,2.5,20.585,0.8234,1.2351,102.925
+DGC-21813-731,27-04-2022,43606-83072-OA,Channa Belamy,14 American Ash Parkway,Lakeland,United States,33805,No,L-D-0.2,Liberica,Dark,2,0.2,3.885,1.9425,0.50505,7.77
+JBE-92943-643,29-12-2020,84466-22864-CE,Karl Imorts,250 Elmside Junction,Melbourne,United States,32941,No,E-D-2.5,Excelsa,Dark,5,2.5,27.945,1.1178,3.07395,139.725
+JSU-23781-256,07-09-2021,76499-89100-JQ,Mag Armistead,805 Kenwood Plaza,New Orleans,United States,70179,No,L-D-0.2,Liberica,Dark,1,0.2,3.885,1.9425,0.50505,3.885
+JSU-23781-256,07-09-2021,76499-89100-JQ,Mag Armistead,805 Kenwood Plaza,New Orleans,United States,70179,No,R-M-1,Robust,Medium,4,1,9.95,0.995,0.597,39.8
+VPX-44956-367,09-06-2019,39582-35773-ZJ,Vasili Upstone,7 Dunning Trail,Topeka,United States,66617,No,R-M-0.5,Robust,Medium,5,0.5,5.97,1.194,0.3582,29.85
+VTB-46451-959,25-10-2020,66240-46962-IO,Berty Beelby,844 Sachs Avenue,Lucan,Ireland,K78,No,L-D-2.5,Liberica,Dark,1,2.5,29.785,1.1914,3.87205,29.785
+DNZ-11665-950,28-02-2021,10637-45522-ID,Erny Stenyng,8 Pond Parkway,Springfield,United States,62723,No,L-L-2.5,Liberica,Light,2,2.5,36.455,1.4582,4.73915,72.91
+ITR-54735-364,26-07-2020,92599-58687-CS,Edin Yantsurev,208 Main Park,Camden,United States,8104,Yes,R-D-0.2,Robust,Dark,5,0.2,2.685,1.3425,0.1611,13.425
+YDS-02797-307,05-06-2022,06058-48844-PI,Webb Speechly,5 Helena Center,Seattle,United States,98185,Yes,E-M-2.5,Excelsa,Medium,4,2.5,31.625,1.265,3.47875,126.5
+BPG-68988-842,21-02-2019,53631-24432-SY,Irvine Phillpot,07208 Eastlawn Drive,Wootton,United Kingdom,NN4,No,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+XZG-51938-658,05-04-2020,18275-73980-KL,Lem Pennacci,23 Kinsman Way,Waco,United States,76711,No,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+KAR-24978-271,10-01-2019,23187-65750-HZ,Starr Arpin,12 Bobwhite Road,Richmond,United States,23242,No,R-M-1,Robust,Medium,6,1,9.95,0.995,0.597,59.7
+FQK-28730-361,12-04-2022,22725-79522-GP,Donny Fries,404 Granby Trail,Toledo,United States,43610,No,R-M-1,Robust,Medium,6,1,9.95,0.995,0.597,59.7
+BGB-67996-089,30-01-2022,06279-72603-JE,Rana Sharer,0 Granby Parkway,Huntington,United States,25705,No,R-D-1,Robust,Dark,5,1,8.95,0.895,0.537,44.75
+XMC-20620-809,14-05-2021,83543-79246-ON,Nannie Naseby,84666 Melvin Street,Winter Haven,United States,33884,Yes,E-M-0.5,Excelsa,Medium,2,0.5,8.25,1.65,0.9075,16.5
+ZSO-58292-191,12-06-2022,66794-66795-VW,Rea Offell,3356 Ruskin Way,Dallas,United States,75323,No,R-D-0.5,Robust,Dark,4,0.5,5.37,1.074,0.3222,21.48
+LWJ-06793-303,02-01-2022,95424-67020-AP,Kris O'Cullen,39 Chinook Crossing,Adare,Ireland,H54,Yes,R-M-2.5,Robust,Medium,2,2.5,22.885,0.9154,1.3731,45.77
+FLM-82229-989,24-01-2022,73017-69644-MS,Timoteo Glisane,2 Coolidge Crossing,Ballivor,Ireland,D17,No,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+OGW-60685-912,21-11-2020,67423-10113-LM,Hildegarde Brangan,5 Pleasure Junction,Evansville,United States,47747,Yes,E-D-2.5,Excelsa,Dark,4,2.5,27.945,1.1178,3.07395,111.78
+DEC-11160-362,13-10-2021,48582-05061-RY,Amii Gallyon,229 Spohn Center,Naperville,United States,60567,Yes,R-D-0.2,Robust,Dark,4,0.2,2.685,1.3425,0.1611,10.74
+WCT-07869-499,19-10-2021,32031-49093-KE,Birgit Domange,5 Sherman Drive,Charleston,United States,29424,No,R-D-0.5,Robust,Dark,5,0.5,5.37,1.074,0.3222,26.85
+FHD-89872-325,29-04-2019,31715-98714-OO,Killian Osler,81 Stuart Street,Lansing,United States,48930,Yes,L-L-1,Liberica,Light,4,1,15.85,1.585,2.0605,63.4
+AZF-45991-584,12-10-2019,73759-17258-KA,Lora Dukes,4 Lakewood Gardens Lane,Boyle,Ireland,F52,Yes,A-D-2.5,Arabica,Dark,1,2.5,22.885,0.9154,2.05965,22.885
+MDG-14481-513,19-05-2021,64897-79178-MH,Zack Pellett,0 Lukken Court,Shreveport,United States,71115,No,A-M-2.5,Arabica,Medium,4,2.5,25.875,1.035,2.32875,103.5
+OFN-49424-848,03-07-2021,73346-85564-JB,Ilaire Sprakes,1969 Lakeland Avenue,San Jose,United States,95194,No,R-L-2.5,Robust,Light,2,2.5,27.485,1.0994,1.6491,54.97
+NFA-03411-746,08-02-2020,07476-13102-NJ,Heda Fromant,3341 Cascade Park,Philadelphia,United States,19104,No,A-L-0.5,Arabica,Light,2,0.5,7.77,1.554,0.6993,15.54
+CYM-74988-450,16-10-2020,87223-37422-SK,Rufus Flear,30 Mayer Terrace,Sheffield,United Kingdom,S33,No,L-D-0.2,Liberica,Dark,4,0.2,3.885,1.9425,0.50505,15.54
+WTV-24996-658,23-10-2020,57837-15577-YK,Dom Milella,87 Cascade Crossing,Manorhamilton,Ireland,H16,No,E-D-2.5,Excelsa,Dark,3,2.5,27.945,1.1178,3.07395,83.835
+NBT-35757-542,07-07-2021,73647-66148-VM,Bette-ann Munden,465 Oxford Street,Oklahoma City,United States,73119,Yes,E-L-0.2,Excelsa,Light,3,0.2,4.455,2.2275,0.49005,13.365
+DSL-69915-544,10-03-2021,10142-55267-YO,Wilek Lightollers,8 Sunnyside Lane,New York City,United States,10060,Yes,R-L-0.2,Robust,Light,3,0.2,3.585,1.7925,0.2151,10.755
+OYU-25085-528,05-02-2021,10142-55267-YO,Wilek Lightollers,8 Sunnyside Lane,New York City,United States,10060,Yes,E-L-0.2,Excelsa,Light,4,0.2,4.455,2.2275,0.49005,17.82
+XCG-07109-195,11-12-2020,92976-19453-DT,Nick Brakespear,2 Jenna Hill,Newark,United States,7112,Yes,L-D-0.2,Liberica,Dark,6,0.2,3.885,1.9425,0.50505,23.31
+YZA-25234-630,13-05-2022,89757-51438-HX,Malynda Glawsop,682 Express Court,New Haven,United States,6510,No,E-D-0.2,Excelsa,Dark,2,0.2,3.645,1.8225,0.40095,7.29
+OKU-29966-417,23-10-2019,76192-13390-HZ,Granville Alberts,0 Pierstorff Center,Belfast,United Kingdom,BT2,Yes,E-L-0.2,Excelsa,Light,4,0.2,4.455,2.2275,0.49005,17.82
+MEX-29350-659,11-09-2020,02009-87294-SY,Vasily Polglase,63 Maryland Trail,Toledo,United States,43610,No,E-M-1,Excelsa,Medium,5,1,13.75,1.375,1.5125,68.75
+NOY-99738-977,29-09-2019,82872-34456-LJ,Madelaine Sharples,0 Mayfield Avenue,Newton,United Kingdom,IV1,Yes,R-L-2.5,Robust,Light,2,2.5,27.485,1.0994,1.6491,54.97
+TCR-01064-030,03-03-2021,13181-04387-LI,Sigfrid Busch,6666 Express Pass,Bantry,Ireland,P75,No,E-M-1,Excelsa,Medium,6,1,13.75,1.375,1.5125,82.5
+YUL-42750-776,23-11-2021,24845-36117-TI,Cissiee Raisbeck,8026 Nobel Parkway,Shreveport,United States,71161,Yes,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+CUN-90044-279,29-01-2021,86646-65810-TD,Kenton Wetherick,6976 Knutson Lane,Lexington,United States,40515,Yes,L-D-0.2,Liberica,Dark,4,0.2,3.885,1.9425,0.50505,15.54
+ICC-73030-502,16-04-2022,59480-02795-IU,Reamonn Aynold,0380 Orin Road,Milwaukee,United States,53263,Yes,A-L-1,Arabica,Light,3,1,12.95,1.295,1.1655,38.85
+ADP-04506-084,24-07-2021,61809-87758-LJ,Hatty Dovydenas,227 Huxley Hill,Amarillo,United States,79176,Yes,E-M-2.5,Excelsa,Medium,6,2.5,31.625,1.265,3.47875,189.75
+PNU-22150-408,11-08-2019,77408-43873-RS,Nathaniel Bloxland,04385 Tony Alley,Daingean,Ireland,E91,Yes,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+VSQ-07182-513,23-07-2019,18366-65239-WF,Brendan Grece,5 Butterfield Plaza,Halton,United Kingdom,LS9,No,L-L-0.2,Liberica,Light,6,0.2,4.755,2.3775,0.61815,28.53
+NEX-63825-598,22-02-2020,72072-33025-SD,Abbe Thys,847 Sloan Parkway,Knoxville,United States,37924,No,R-L-0.5,Robust,Light,2,0.5,7.17,1.434,0.4302,14.34
+XPG-66112-335,19-07-2020,58118-22461-GC,Jackquelin Chugg,973 Kings Hill,Shawnee Mission,United States,66225,No,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+NSQ-72210-345,20-09-2021,90940-63327-DJ,Audra Kelston,9522 Oak Valley Way,Fort Lauderdale,United States,33330,Yes,A-M-0.2,Arabica,Medium,6,0.2,3.375,1.6875,0.30375,20.25
+XRR-28376-277,02-05-2021,64481-42546-II,Elvina Angel,4 Hanson Parkway,Tralee,Ireland,V92,No,R-L-2.5,Robust,Light,6,2.5,27.485,1.0994,1.6491,164.91
+WHQ-25197-475,26-11-2021,27536-28463-NJ,Claiborne Mottram,5 Monument Point,Austin,United States,78715,Yes,L-L-0.2,Liberica,Light,4,0.2,4.755,2.3775,0.61815,19.02
+XTL-68000-371,07-04-2020,70140-82812-KD,Donalt Sangwin,47 Granby Junction,Hyattsville,United States,20784,No,A-M-0.5,Arabica,Medium,4,0.5,6.75,1.35,0.6075,27
+YES-51109-625,31-01-2022,91895-55605-LS,Elizabet Aizikowitz,7835 Namekagon Alley,Ashley,United Kingdom,SN13,No,E-L-0.5,Excelsa,Light,4,0.5,8.91,1.782,0.9801,35.64
+EAY-89850-211,19-02-2019,43155-71724-XP,Herbie Peppard,2 International Lane,Pasadena,United States,91103,Yes,A-D-0.2,Arabica,Dark,2,0.2,2.985,1.4925,0.26865,5.97
+IOQ-84840-827,12-11-2019,32038-81174-JF,Cornie Venour,90 Commercial Pass,Shreveport,United States,71161,No,A-M-1,Arabica,Medium,6,1,11.25,1.125,1.0125,67.5
+FBD-56220-430,16-05-2022,59205-20324-NB,Maggy Harby,69 Jackson Junction,Pensacola,United States,32590,Yes,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+COV-52659-202,12-02-2021,99899-54612-NX,Reggie Thickpenny,791 School Center,Los Angeles,United States,90035,No,L-M-2.5,Liberica,Medium,2,2.5,33.465,1.3386,4.35045,66.93
+YUO-76652-814,04-04-2021,26248-84194-FI,Phyllys Ormerod,04 Arrowood Court,Durham,United States,27705,No,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+SPF-31673-217,09-06-2020,19485-98072-PS,Don Flintiff,7 Helena Junction,London,United Kingdom,WC1B,No,E-M-1,Excelsa,Medium,6,1,13.75,1.375,1.5125,82.5
+HMB-30634-745,18-02-2020,19485-98072-PS,Don Flintiff,7 Helena Junction,London,United Kingdom,WC1B,No,A-D-2.5,Arabica,Dark,6,2.5,22.885,0.9154,2.05965,137.31
+PBT-36926-102,02-08-2021,19485-98072-PS,Don Flintiff,7 Helena Junction,London,United Kingdom,WC1B,No,L-M-1,Liberica,Medium,4,1,14.55,1.455,1.8915,58.2
+BLV-60087-454,08-06-2022,84493-71314-WX,Tymon Zanetti,561 Cherokee Trail,Loughrea,Ireland,H62,No,E-L-0.2,Excelsa,Light,3,0.2,4.455,2.2275,0.49005,13.365
+BLV-60087-454,08-06-2022,84493-71314-WX,Tymon Zanetti,561 Cherokee Trail,Loughrea,Ireland,H62,No,A-M-0.5,Arabica,Medium,5,0.5,6.75,1.35,0.6075,33.75
+QYC-63914-195,14-05-2020,39789-43945-IV,Reinaldos Kirtley,6356 Di Loreto Road,Whittier,United States,90605,Yes,E-L-1,Excelsa,Light,3,1,14.85,1.485,1.6335,44.55
+OIB-77163-890,25-12-2020,38972-89678-ZM,Carney Clemencet,09240 Arkansas Point,Birmingham,United Kingdom,B40,Yes,E-L-0.5,Excelsa,Light,5,0.5,8.91,1.782,0.9801,44.55
+SGS-87525-238,05-07-2021,91465-84526-IJ,Russell Donet,1 Petterle Terrace,Richmond,United States,23237,No,E-D-1,Excelsa,Dark,5,1,12.15,1.215,1.3365,60.75
+GQR-12490-152,14-03-2019,22832-98538-RB,Sidney Gawen,9231 Stang Drive,Sterling,United States,20167,Yes,R-L-0.2,Robust,Light,1,0.2,3.585,1.7925,0.2151,3.585
+UOJ-28238-299,07-03-2021,30844-91890-ZA,Rickey Readie,8 Everett Court,Carson City,United States,89706,No,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+UPF-60123-025,06-02-2020,88992-49081-AT,Zilvia Claisse,529 Judy Circle,Saint Paul,United States,55123,No,R-L-2.5,Robust,Light,3,2.5,27.485,1.0994,1.6491,82.455
+NQS-01613-687,12-03-2021,10204-31464-SA,Bar O' Mahony,478 Harper Junction,Huntsville,United States,35895,Yes,L-D-0.5,Liberica,Dark,1,0.5,7.77,1.554,1.0101,7.77
+MGH-36050-573,03-08-2020,75156-80911-YT,Valenka Stansbury,10283 Ramsey Hill,El Paso,United States,88553,Yes,R-M-0.5,Robust,Medium,2,0.5,5.97,1.194,0.3582,11.94
+UVF-59322-459,25-07-2019,53971-49906-PZ,Daniel Heinonen,715 Kropf Hill,Decatur,United States,30033,No,E-L-2.5,Excelsa,Light,6,2.5,34.155,1.3662,3.75705,204.93
+VET-41158-896,29-04-2020,10728-17633-ST,Jewelle Shenton,46367 Waubesa Hill,Orange,United States,92668,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+XYL-52196-459,02-05-2019,13549-65017-VE,Jennifer Wilkisson,26051 Golf Course Road,Huntington Beach,United States,92648,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+BPZ-51283-916,29-08-2021,87688-42420-TO,Kylie Mowat,06512 Shopko Court,Milwaukee,United States,53285,No,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+ETD-58130-674,05-11-2021,05325-97750-WP,Cody Verissimo,18 Bluestem Avenue,Upton,United Kingdom,DN21,Yes,E-M-0.5,Excelsa,Medium,2,0.5,8.25,1.65,0.9075,16.5
+VQW-91903-926,13-03-2020,05325-97750-WP,Cody Verissimo,18 Bluestem Avenue,Upton,United Kingdom,DN21,Yes,E-D-2.5,Excelsa,Dark,1,2.5,27.945,1.1178,3.07395,27.945
+UMM-28497-689,03-11-2020,05325-97750-WP,Cody Verissimo,18 Bluestem Avenue,Upton,United Kingdom,DN21,Yes,L-L-2.5,Liberica,Light,3,2.5,36.455,1.4582,4.73915,109.365
+OKA-93124-100,23-04-2020,05325-97750-WP,Cody Verissimo,18 Bluestem Avenue,Upton,United Kingdom,DN21,Yes,R-M-0.5,Robust,Medium,5,0.5,5.97,1.194,0.3582,29.85
+OLF-77983-457,16-02-2019,51901-35210-UI,Gabriel Starcks,5 Northland Alley,Chattanooga,United States,37416,No,A-L-2.5,Arabica,Light,2,2.5,29.785,1.1914,2.68065,59.57
+MVI-04946-827,27-11-2021,62483-50867-OM,Darby Dummer,6664 Huxley Place,Manchester,United Kingdom,M14,No,E-L-1,Excelsa,Light,1,1,14.85,1.485,1.6335,14.85
+UOG-94188-104,23-11-2021,92753-50029-SD,Kienan Scholard,47910 Longview Place,Columbus,United States,43268,No,A-M-0.5,Arabica,Medium,5,0.5,6.75,1.35,0.6075,33.75
+DSN-15872-519,02-12-2021,53809-98498-SN,Bo Kindley,2 Village Plaza,Pasadena,United States,91186,Yes,L-L-2.5,Liberica,Light,4,2.5,36.455,1.4582,4.73915,145.82
+OUQ-73954-002,06-01-2019,66308-13503-KD,Krissie Hammett,798 Grover Lane,San Francisco,United States,94159,Yes,R-M-0.2,Robust,Medium,4,0.2,2.985,1.4925,0.1791,11.94
+LGL-16843-667,05-05-2021,82458-87830-JE,Alisha Hulburt,7997 Artisan Crossing,Shreveport,United States,71137,Yes,A-D-0.2,Arabica,Dark,4,0.2,2.985,1.4925,0.26865,11.94
+TCC-89722-031,23-10-2021,41611-34336-WT,Peyter Lauritzen,833 Monument Circle,Philadelphia,United States,19141,No,L-D-0.5,Liberica,Dark,1,0.5,7.77,1.554,1.0101,7.77
+TRA-79507-007,16-12-2019,70089-27418-UJ,Aurelia Burgwin,0 Amoth Alley,Migrate,United States,41905,Yes,R-L-2.5,Robust,Light,4,2.5,27.485,1.0994,1.6491,109.94
+MZJ-77284-941,18-05-2019,99978-56910-BN,Emalee Rolin,2 Merry Center,Toledo,United States,43666,Yes,E-L-0.2,Excelsa,Light,5,0.2,4.455,2.2275,0.49005,22.275
+AXN-57779-891,14-07-2019,09668-23340-IC,Donavon Fowle,1 Mockingbird Trail,Colorado Springs,United States,80945,No,R-M-0.2,Robust,Medium,3,0.2,2.985,1.4925,0.1791,8.955
+PJB-15659-994,13-11-2020,39457-62611-YK,Jorge Bettison,3336 Lien Plaza,Longwood,Ireland,D02,No,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+LTS-03470-353,16-07-2020,90985-89807-RW,Wang Powlesland,2 Novick Junction,Pittsburgh,United States,15274,Yes,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+MJZ-93232-402,20-03-2022,17816-67941-ZS,Laurence Ellingham,4286 Kingsford Crossing,Shreveport,United States,71115,Yes,E-D-0.2,Excelsa,Dark,1,0.2,3.645,1.8225,0.40095,3.645
+UHW-74617-126,16-02-2022,90816-65619-LM,Billy Neiland,02971 Alpine Court,Cleveland,United States,44105,No,E-D-2.5,Excelsa,Dark,2,2.5,27.945,1.1178,3.07395,55.89
+RIK-61730-794,12-11-2020,69761-61146-KD,Ancell Fendt,6 Rutledge Trail,Milwaukee,United States,53234,Yes,L-M-0.2,Liberica,Medium,6,0.2,4.365,2.1825,0.56745,26.19
+IDJ-55379-750,05-10-2019,24040-20817-QB,Angelia Cleyburn,45127 Melvin Avenue,Fort Lauderdale,United States,33345,No,R-M-1,Robust,Medium,4,1,9.95,0.995,0.597,39.8
+OHX-11953-965,01-10-2019,19524-21432-XP,Temple Castiglione,0915 Novick Avenue,Shreveport,United States,71105,No,E-L-2.5,Excelsa,Light,2,2.5,34.155,1.3662,3.75705,68.31
+TVV-42245-088,06-03-2020,14398-43114-RV,Betti Lacasa,4 Lindbergh Trail,Beaumont,Ireland,D17,No,A-M-0.2,Arabica,Medium,4,0.2,3.375,1.6875,0.30375,13.5
+DYP-74337-787,23-10-2019,41486-52502-QQ,Gunilla Lynch,9945 Eagan Circle,Sacramento,United States,94207,No,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+IXW-20780-268,24-06-2020,20236-64364-QL,Shay Couronne,67 David Lane,Fargo,United States,58122,Yes,L-L-2.5,Liberica,Light,2,2.5,36.455,1.4582,4.73915,72.91
+NGG-24006-937,16-03-2021,29102-40100-TZ,Linus Flippelli,3657 International Terrace,Middleton,United Kingdom,LE16,No,E-M-2.5,Excelsa,Medium,4,2.5,31.625,1.265,3.47875,126.5
+JZC-31180-557,07-04-2020,09171-42203-EB,Rachelle Elizabeth,2668 Dixon Plaza,Tulsa,United States,74184,No,L-M-2.5,Liberica,Medium,1,2.5,33.465,1.3386,4.35045,33.465
+ZMU-63715-204,30-09-2021,29060-75856-UI,Innis Renhard,73184 Fieldstone Junction,New York City,United States,10045,Yes,E-D-1,Excelsa,Dark,6,1,12.15,1.215,1.3365,72.9
+GND-08192-056,01-05-2022,17088-16989-PL,Winne Roche,378 Scofield Place,Seminole,United States,34642,Yes,L-D-0.5,Liberica,Dark,2,0.5,7.77,1.554,1.0101,15.54
+CVA-64996-969,24-06-2020,13324-78688-MI,Cordy Odgaard,5 Florence Court,Portland,United States,97296,No,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+XTH-67276-442,03-03-2019,73799-04749-BM,Bertine Byrd,3482 Morning Circle,Las Vegas,United States,89115,No,L-M-2.5,Liberica,Medium,4,2.5,33.465,1.3386,4.35045,133.86
+PVU-02950-470,28-01-2021,01927-46702-YT,Nelie Garnson,821 Annamark Park,Merton,United Kingdom,SW19,No,E-D-1,Excelsa,Dark,1,1,12.15,1.215,1.3365,12.15
+XSN-26809-910,28-06-2020,80467-17137-TO,Dianne Chardin,6495 Warrior Point,Ballybofey,Ireland,V23,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+UDN-88321-005,05-07-2020,14640-87215-BK,Hailee Radbone,265 Maple Parkway,San Francisco,United States,94159,No,R-L-0.5,Robust,Light,5,0.5,7.17,1.434,0.4302,35.85
+EXP-21628-670,02-03-2019,94447-35885-HK,Wallis Bernth,5 Ramsey Plaza,Pittsburgh,United States,15274,No,A-M-2.5,Arabica,Medium,3,2.5,25.875,1.035,2.32875,77.625
+VGM-24161-361,01-05-2022,71034-49694-CS,Byron Acarson,0 Bay Center,Houston,United States,77281,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+PKN-19556-918,29-04-2022,00445-42781-KX,Faunie Brigham,7246 Green Pass,Castlerea,Ireland,F45,Yes,E-L-0.2,Excelsa,Light,6,0.2,4.455,2.2275,0.49005,26.73
+PKN-19556-918,29-04-2022,00445-42781-KX,Faunie Brigham,7246 Green Pass,Castlerea,Ireland,F45,Yes,L-D-0.5,Liberica,Dark,4,0.5,7.77,1.554,1.0101,31.08
+PKN-19556-918,29-04-2022,00445-42781-KX,Faunie Brigham,7246 Green Pass,Castlerea,Ireland,F45,Yes,A-D-0.2,Arabica,Dark,1,0.2,2.985,1.4925,0.26865,2.985
+PKN-19556-918,29-04-2022,00445-42781-KX,Faunie Brigham,7246 Green Pass,Castlerea,Ireland,F45,Yes,R-D-2.5,Robust,Dark,5,2.5,20.585,0.8234,1.2351,102.925
+RYY-38961-093,21-01-2021,14756-18321-CL,Linn Alaway,5602 Florence Avenue,Fort Lauderdale,United States,33345,No,A-M-0.2,Arabica,Medium,6,0.2,3.375,1.6875,0.30375,20.25
+DXQ-44537-297,06-08-2020,96116-24737-LV,Marjorie Yoxen,84 Oak Valley Drive,Los Angeles,United States,90005,No,E-L-0.5,Excelsa,Light,4,0.5,8.91,1.782,0.9801,35.64
+BPC-54727-307,21-12-2019,18684-73088-YL,Gaspar McGavin,573 Anhalt Park,Wilkes Barre,United States,18706,No,R-L-1,Robust,Light,4,1,11.95,1.195,0.717,47.8
+KSH-47717-456,19-04-2020,74671-55639-TU,Lindy Uttermare,77 Lake View Road,Denton,United States,76205,No,L-M-1,Liberica,Medium,3,1,14.55,1.455,1.8915,43.65
+ANK-59436-446,17-01-2022,17488-65879-XL,Eal D'Ambrogio,32 Darwin Court,Lees Summit,United States,64082,Yes,E-L-0.5,Excelsa,Light,4,0.5,8.91,1.782,0.9801,35.64
+AYY-83051-752,22-01-2019,46431-09298-OU,Carolee Winchcombe,687 Bluestem Point,Little Rock,United States,72209,Yes,L-L-1,Liberica,Light,6,1,15.85,1.585,2.0605,95.1
+CSW-59644-267,28-02-2020,60378-26473-FE,Benedikta Paumier,319 Carioca Alley,Ballisodare,Ireland,E45,Yes,E-M-2.5,Excelsa,Medium,1,2.5,31.625,1.265,3.47875,31.625
+ITY-92466-909,07-08-2019,34927-68586-ZV,Neville Piatto,118 Vermont Junction,Daingean,Ireland,E91,Yes,A-M-2.5,Arabica,Medium,3,2.5,25.875,1.035,2.32875,77.625
+IGW-04801-466,15-05-2021,29051-27555-GD,Jeno Capey,9 Evergreen Circle,Erie,United States,16534,Yes,L-D-0.2,Liberica,Dark,1,0.2,3.885,1.9425,0.50505,3.885
+BWZ-46364-547,09-09-2021,64918-67725-MN,Yardley Basill,10675 Loomis Place,Pittsburgh,United States,15255,Yes,R-L-1,Robust,Light,3,1,11.95,1.195,0.717,35.85
+SBC-95710-706,19-02-2020,85634-61759-ND,Maggy Baistow,9531 Dexter Drive,Ford,United Kingdom,GL54,Yes,E-M-0.2,Excelsa,Medium,2,0.2,4.125,2.0625,0.45375,8.25
+WRN-55114-031,29-06-2020,40180-22940-QB,Courtney Pallant,117 American Ash Crossing,Dallas,United States,75260,Yes,E-L-2.5,Excelsa,Light,3,2.5,34.155,1.3662,3.75705,102.465
+TZU-64255-831,13-05-2022,34666-76738-SQ,Marne Mingey,7 South Parkway,Miami,United States,33233,No,R-D-2.5,Robust,Dark,2,2.5,20.585,0.8234,1.2351,41.17
+JVF-91003-729,02-10-2020,98536-88616-FF,Denny O' Ronan,92 Kingsford Court,San Angelo,United States,76905,Yes,A-D-2.5,Arabica,Dark,3,2.5,22.885,0.9154,2.05965,68.655
+MVB-22135-665,02-12-2021,55621-06130-SA,Dottie Rallin,13617 Harbort Lane,Albany,United States,12205,Yes,A-D-1,Arabica,Dark,1,1,9.95,0.995,0.8955,9.95
+CKS-47815-571,02-11-2021,45666-86771-EH,Ardith Chill,677 Bartillon Avenue,Thorpe,United Kingdom,BD23,Yes,L-L-0.5,Liberica,Light,3,0.5,9.51,1.902,1.2363,28.53
+LJN-34281-921,17-12-2021,52143-35672-JF,Tuckie Mathonnet,407 Roth Circle,Columbus,United States,43240,No,R-L-2.5,Robust,Light,5,2.5,27.485,1.0994,1.6491,137.425
+OAW-17338-101,23-02-2020,52143-35672-JF,Tuckie Mathonnet,407 Roth Circle,Columbus,United States,43240,No,R-D-0.2,Robust,Dark,6,0.2,2.685,1.3425,0.1611,16.11
+ALP-37623-536,03-07-2020,24689-69376-XX,Charmane Denys,480 Shopko Street,Carlton,United Kingdom,DL8,No,L-L-1,Liberica,Light,6,1,15.85,1.585,2.0605,95.1
+WMU-87639-108,11-02-2019,71891-51101-VQ,Cecily Stebbings,6 Green Ridge Drive,Corona,United States,92883,Yes,R-D-0.5,Robust,Dark,1,0.5,5.37,1.074,0.3222,5.37
+USN-44968-231,10-09-2020,71749-05400-CN,Giana Tonnesen,041 Lighthouse Bay Center,Washington,United States,20436,No,R-L-1,Robust,Light,4,1,11.95,1.195,0.717,47.8
+YZG-20575-451,02-03-2020,64845-00270-NO,Rhetta Zywicki,18 Ruskin Plaza,Ballinteer,Ireland,D6W,No,L-L-1,Liberica,Light,4,1,15.85,1.585,2.0605,63.4
+HTH-52867-812,28-06-2021,29851-36402-UX,Almeria Burgett,50879 Reindahl Road,Toledo,United States,43610,No,A-M-2.5,Arabica,Medium,4,2.5,25.875,1.035,2.32875,103.5
+FWU-44971-444,11-01-2019,12190-25421-WM,Marvin Malloy,2 Ohio Drive,Washington,United States,20088,No,A-D-2.5,Arabica,Dark,3,2.5,22.885,0.9154,2.05965,68.655
+EQI-82205-066,20-09-2019,52316-30571-GD,Maxim McParland,17 Valley Edge Terrace,Cedar Rapids,United States,52405,Yes,R-M-2.5,Robust,Medium,2,2.5,22.885,0.9154,1.3731,45.77
+NAR-00747-074,16-10-2021,23243-92649-RY,Sylas Jennaroy,22 South Court,Aurora,United States,80045,No,L-D-1,Liberica,Dark,4,1,12.95,1.295,1.6835,51.8
+JYR-22052-185,01-01-2020,39528-19971-OR,Wren Place,9 Artisan Avenue,Sunnyvale,United States,94089,Yes,A-M-0.5,Arabica,Medium,2,0.5,6.75,1.35,0.6075,13.5
+HXA-72415-025,12-05-2022,93417-12322-YB,Dollie Gadsden,70 Ludington Terrace,Cluain Meala,Ireland,E91,Yes,A-D-2.5,Arabica,Dark,2,2.5,22.885,0.9154,2.05965,45.77
+MJF-20065-335,10-09-2020,56891-86662-UY,Val Wakelin,2003 Muir Lane,Lansing,United States,48930,No,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+GFI-83300-059,16-10-2021,40414-26467-VE,Annie Campsall,52003 Burning Wood Plaza,Houston,United States,77281,Yes,A-M-0.2,Arabica,Medium,6,0.2,3.375,1.6875,0.30375,20.25
+WJR-51493-682,17-06-2021,87858-83734-RK,Shermy Moseby,463 Mandrake Terrace,Murfreesboro,United States,37131,No,L-D-2.5,Liberica,Dark,5,2.5,29.785,1.1914,3.87205,148.925
+SHP-55648-472,30-03-2019,46818-20198-GB,Corrie Wass,9978 Monterey Crossing,Charleston,United States,25362,No,A-M-1,Arabica,Medium,6,1,11.25,1.125,1.0125,67.5
+HYR-03455-684,19-12-2021,29808-89098-XD,Ira Sjostrom,68502 Stoughton Court,Erie,United States,16534,No,E-D-1,Excelsa,Dark,6,1,12.15,1.215,1.3365,72.9
+HYR-03455-684,19-12-2021,29808-89098-XD,Ira Sjostrom,68502 Stoughton Court,Erie,United States,16534,No,L-D-0.2,Liberica,Dark,2,0.2,3.885,1.9425,0.50505,7.77
+HUG-52766-375,05-06-2020,78786-77449-RQ,Jermaine Branchett,55287 Atwood Alley,Lubbock,United States,79491,No,A-D-2.5,Arabica,Dark,4,2.5,22.885,0.9154,2.05965,91.54
+DAH-46595-917,12-09-2021,27878-42224-QF,Nissie Rudland,60371 Doe Crossing Place,Gorey,Ireland,Y25,No,A-D-1,Arabica,Dark,6,1,9.95,0.995,0.8955,59.7
+XKO-54097-932,10-03-2022,32743-78448-KT,Janella Millett,3 Novick Alley,Durham,United States,27717,Yes,E-M-0.5,Excelsa,Medium,3,0.5,8.25,1.65,0.9075,24.75
+VEM-79839-466,16-03-2022,32743-78448-KT,Janella Millett,3 Novick Alley,Durham,United States,27717,Yes,R-L-2.5,Robust,Light,5,2.5,27.485,1.0994,1.6491,137.425
+OWH-11126-533,21-12-2021,25331-13794-SB,Ferdie Tourry,9422 Forest Dale Circle,Florence,United States,29505,No,L-M-2.5,Liberica,Medium,2,2.5,33.465,1.3386,4.35045,66.93
+UMT-26130-151,21-05-2019,55864-37682-GQ,Cecil Weatherall,218 5th Plaza,Syracuse,United States,13205,Yes,L-M-0.2,Liberica,Medium,3,0.2,4.365,2.1825,0.56745,13.095
+JKA-27899-806,26-10-2021,97005-25609-CQ,Gale Heindrick,37 Schiller Place,Lawrenceville,United States,30245,No,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+ULU-07744-724,26-03-2020,94058-95794-IJ,Layne Imason,9 Village Green Parkway,Houston,United States,77070,Yes,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+NOM-56457-507,14-10-2020,40214-03678-GU,Hazel Saill,3186 Bay Lane,Kansas City,United States,66160,Yes,E-M-1,Excelsa,Medium,6,1,13.75,1.375,1.5125,82.5
+NZN-71683-705,13-12-2021,04921-85445-SL,Hermann Larvor,65129 Becker Drive,Bradenton,United States,34282,Yes,A-L-2.5,Arabica,Light,6,2.5,29.785,1.1914,2.68065,178.71
+WMA-34232-850,08-03-2021,53386-94266-LJ,Terri Lyford,00 Buell Avenue,Allentown,United States,18105,Yes,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+EZL-27919-704,21-01-2021,49480-85909-DG,Gabey Cogan,05001 Continental Crossing,Hampton,United States,23663,No,L-L-0.5,Liberica,Light,5,0.5,9.51,1.902,1.2363,47.55
+ZYU-11345-774,10-01-2021,18293-78136-MN,Charin Penwarden,1 Nobel Terrace,Whitegate,Ireland,D15,No,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+CPW-34587-459,26-03-2021,84641-67384-TD,Milty Middis,8 Schiller Point,Wichita,United States,67260,Yes,A-L-2.5,Arabica,Light,6,2.5,29.785,1.1914,2.68065,178.71
+NQZ-82067-394,25-03-2022,72320-29738-EB,Adrianne Vairow,73486 Cardinal Terrace,Thorpe,United Kingdom,BD23,No,R-L-2.5,Robust,Light,1,2.5,27.485,1.0994,1.6491,27.485
+JBW-95055-851,22-07-2021,47355-97488-XS,Anjanette Goldie,3729 Susan Drive,Danbury,United States,6816,No,A-M-1,Arabica,Medium,5,1,11.25,1.125,1.0125,56.25
+AHY-20324-088,06-09-2020,63499-24884-PP,Nicky Ayris,7 Reinke Circle,Kinloch,United Kingdom,PH43,Yes,L-L-0.2,Liberica,Light,2,0.2,4.755,2.3775,0.61815,9.51
+ZSL-66684-103,28-12-2019,39193-51770-FM,Laryssa Benediktovich,5 Prairieview Drive,Jacksonville,United States,32209,Yes,E-M-0.2,Excelsa,Medium,2,0.2,4.125,2.0625,0.45375,8.25
+WNE-73911-475,20-04-2020,61323-91967-GG,Theo Jacobovitz,21597 Bonner Pass,Houston,United States,77299,No,L-D-0.5,Liberica,Dark,6,0.5,7.77,1.554,1.0101,46.62
+EZB-68383-559,21-02-2019,90123-01967-KS,Becca Ableson,69493 Hanson Place,Portland,United States,97255,No,R-L-1,Robust,Light,6,1,11.95,1.195,0.717,71.7
+OVO-01283-090,17-03-2022,15958-25089-OS,Jeno Druitt,1726 1st Drive,Pasadena,United States,91186,Yes,L-L-2.5,Liberica,Light,2,2.5,36.455,1.4582,4.73915,72.91
+TXH-78646-919,14-05-2021,98430-37820-UV,Deonne Shortall,0 Kropf Lane,Santa Ana,United States,92725,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+CYZ-37122-164,06-01-2019,21798-04171-XC,Wilton Cottier,341 Oak Point,San Jose,United States,95160,No,E-M-0.5,Excelsa,Medium,2,0.5,8.25,1.65,0.9075,16.5
+AGQ-06534-750,24-04-2019,52798-46508-HP,Kevan Grinsted,3 Kennedy Plaza,Tallaght,Ireland,D24,No,A-L-1,Arabica,Light,5,1,12.95,1.295,1.1655,64.75
+QVL-32245-818,30-05-2021,46478-42970-EM,Dionne Skyner,39 Kings Junction,Colorado Springs,United States,80935,No,A-M-0.5,Arabica,Medium,5,0.5,6.75,1.35,0.6075,33.75
+LTD-96842-834,12-07-2022,00246-15080-LE,Francesco Dressel,1 Fulton Road,Toledo,United States,43605,No,L-D-2.5,Liberica,Dark,6,2.5,29.785,1.1914,3.87205,178.71
+MHM-44857-599,12-09-2019,26295-44907-DK,Ambrosio Weinmann,8 Waywood Alley,Cincinnati,United States,45999,No,L-D-1,Liberica,Dark,1,1,12.95,1.295,1.6835,12.95
+KGC-95046-911,30-06-2020,95351-96177-QV,Elden Andriessen,64390 Sommers Road,Saint Louis,United States,63121,Yes,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+RZC-75150-413,25-03-2020,92204-96636-BS,Roxie Deaconson,70166 Marcy Center,Yonkers,United States,10705,No,E-D-0.5,Excelsa,Dark,5,0.5,7.29,1.458,0.8019,36.45
+EYH-88288-452,14-04-2021,03010-30348-UA,Davida Caro,476 Hoepker Place,Baltimore,United States,21290,Yes,L-L-2.5,Liberica,Light,5,2.5,36.455,1.4582,4.73915,182.275
+NYQ-24237-772,16-08-2019,13441-34686-SW,Johna Bluck,8387 Del Sol Drive,Jacksonville,United States,32230,No,L-D-0.5,Liberica,Dark,4,0.5,7.77,1.554,1.0101,31.08
+WKB-21680-566,17-12-2021,96612-41722-VJ,Myrle Dearden,06 Scoville Alley,Bayside,Ireland,D13,No,A-M-0.5,Arabica,Medium,3,0.5,6.75,1.35,0.6075,20.25
+SEC-91807-425,31-01-2021,94091-86957-HX,Jimmy Dymoke,8424 Milwaukee Court,Beaumont,Ireland,D17,No,A-M-1,Arabica,Medium,2,1,11.25,1.125,1.0125,22.5
+THE-61147-027,31-12-2019,94091-86957-HX,Jimmy Dymoke,8424 Milwaukee Court,Beaumont,Ireland,D17,No,L-D-1,Liberica,Dark,2,1,12.95,1.295,1.6835,25.9
+LXK-00634-611,20-02-2022,94091-86957-HX,Jimmy Dymoke,8424 Milwaukee Court,Beaumont,Ireland,D17,No,R-L-1,Robust,Light,3,1,11.95,1.195,0.717,35.85
+TCX-76953-071,25-08-2021,94091-86957-HX,Jimmy Dymoke,8424 Milwaukee Court,Beaumont,Ireland,D17,No,E-D-0.2,Excelsa,Dark,5,0.2,3.645,1.8225,0.40095,18.225
+DCI-96254-548,14-06-2022,94091-86957-HX,Jimmy Dymoke,8424 Milwaukee Court,Beaumont,Ireland,D17,No,A-D-0.2,Arabica,Dark,6,0.2,2.985,1.4925,0.26865,17.91
+PTY-86420-119,12-04-2021,25504-41681-WA,Orland Tadman,94 John Wall Terrace,Miami,United States,33196,Yes,A-D-0.5,Arabica,Dark,4,0.5,5.97,1.194,0.5373,23.88
+QHL-27188-431,28-09-2019,75443-07820-DZ,Barrett Gudde,1 Buhler Trail,San Francisco,United States,94121,No,L-L-0.5,Liberica,Light,2,0.5,9.51,1.902,1.2363,19.02
+MIS-54381-047,15-06-2022,39276-95489-XV,Nathan Sictornes,26 Little Fleur Trail,Sandyford,Ireland,D04,Yes,A-D-0.5,Arabica,Dark,5,0.5,5.97,1.194,0.5373,29.85
+TBB-29780-459,15-07-2019,61437-83623-PZ,Vivyan Dunning,9681 Dapin Center,Punta Gorda,United States,33982,Yes,A-L-0.5,Arabica,Light,1,0.5,7.77,1.554,0.6993,7.77
+QLC-52637-305,10-02-2019,34317-87258-HQ,Doralin Baison,9 Dayton Park,Ballivor,Ireland,D17,Yes,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+CWT-27056-328,04-06-2022,18570-80998-ZS,Josefina Ferens,51 Bluejay Point,New York City,United States,10125,Yes,E-D-0.2,Excelsa,Dark,6,0.2,3.645,1.8225,0.40095,21.87
+ASS-05878-128,10-10-2020,66580-33745-OQ,Shelley Gehring,663 Westend Hill,Spartanburg,United States,29305,No,E-L-0.5,Excelsa,Light,2,0.5,8.91,1.782,0.9801,17.82
+EGK-03027-418,06-06-2021,19820-29285-FD,Barrie Fallowes,1768 Hoepker Place,Bakersfield,United States,93305,No,E-M-0.2,Excelsa,Medium,3,0.2,4.125,2.0625,0.45375,12.375
+KCY-61732-849,16-03-2019,11349-55147-SN,Nicolas Aiton,4 Colorado Center,Dungarvan,Ireland,T56,No,L-D-1,Liberica,Dark,2,1,12.95,1.295,1.6835,25.9
+BLI-21697-702,05-12-2019,21141-12455-VB,Shelli De Banke,290 Ridgeview Way,Saint Louis,United States,63169,Yes,A-M-0.5,Arabica,Medium,2,0.5,6.75,1.35,0.6075,13.5
+KFJ-46568-890,20-01-2019,71003-85639-HB,Lyell Murch,18 Darwin Park,Fort Wayne,United States,46896,Yes,E-L-0.5,Excelsa,Light,2,0.5,8.91,1.782,0.9801,17.82
+SOK-43535-680,04-04-2022,58443-95866-YO,Stearne Count,31 Holy Cross Lane,Young America,United States,55564,No,E-M-0.5,Excelsa,Medium,3,0.5,8.25,1.65,0.9075,24.75
+XUE-87260-201,08-02-2022,89646-21249-OH,Selia Ragles,214 Dwight Hill,Fort Smith,United States,72905,No,R-M-0.2,Robust,Medium,6,0.2,2.985,1.4925,0.1791,17.91
+CZF-40873-691,30-06-2019,64988-20636-XQ,Silas Deehan,77 Sycamore Pass,Charlton,United Kingdom,OX12,No,E-M-0.5,Excelsa,Medium,2,0.5,8.25,1.65,0.9075,16.5
+AIA-98989-755,09-05-2020,34704-83143-KS,Sacha Bruun,44 Northview Lane,Stockton,United States,95210,No,R-M-0.2,Robust,Medium,1,0.2,2.985,1.4925,0.1791,2.985
+ITZ-21793-986,11-06-2021,67388-17544-XX,Alon Pllu,043 American Circle,Navan,Ireland,D11,Yes,E-D-0.2,Excelsa,Dark,4,0.2,3.645,1.8225,0.40095,14.58
+YOK-93322-608,04-11-2021,69411-48470-ID,Gilberto Cornier,39353 Northview Avenue,Tampa,United States,33686,No,E-L-1,Excelsa,Light,6,1,14.85,1.485,1.6335,89.1
+CQW-37388-302,03-07-2019,97741-98924-KT,Willabella Harvison,0 Sachs Way,Philadelphia,United States,19104,No,A-D-2.5,Arabica,Dark,3,2.5,22.885,0.9154,2.05965,68.655
+SPA-79365-334,01-06-2021,79857-78167-KO,Darice Heaford,43 Grasskamp Junction,San Angelo,United States,76905,No,L-D-1,Liberica,Dark,3,1,12.95,1.295,1.6835,38.85
+VPX-08817-517,15-11-2020,46963-10322-ZA,Granger Fantham,46555 Graceland Court,Los Angeles,United States,90035,Yes,L-L-1,Liberica,Light,5,1,15.85,1.585,2.0605,79.25
+PBP-87115-410,19-01-2021,93812-74772-MV,Reynolds Crookshanks,52495 Pawling Place,Lansing,United States,48912,Yes,E-D-0.5,Excelsa,Dark,5,0.5,7.29,1.458,0.8019,36.45
+SFB-93752-440,10-10-2021,48203-23480-UB,Niels Leake,1138 Vermont Alley,Clearwater,United States,34615,Yes,R-M-0.2,Robust,Medium,3,0.2,2.985,1.4925,0.1791,8.955
+TBU-65158-068,28-02-2022,60357-65386-RD,Hetti Measures,3287 Corry Plaza,Whittier,United States,90605,No,E-D-1,Excelsa,Dark,2,1,12.15,1.215,1.3365,24.3
+TEH-08414-216,01-10-2021,35099-13971-JI,Gay Eilhersen,60707 Hallows Point,Fresno,United States,93773,No,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+MAY-77231-536,02-09-2020,01304-59807-OB,Nico Hubert,027 Village Avenue,New York City,United States,10155,Yes,A-M-0.2,Arabica,Medium,2,0.2,3.375,1.6875,0.30375,6.75
+ATY-28980-884,31-07-2020,50705-17295-NK,Cristina Aleixo,9 Lindbergh Center,Colorado Springs,United States,80935,No,A-L-0.2,Arabica,Light,6,0.2,3.885,1.9425,0.34965,23.31
+SWP-88281-918,10-01-2022,77657-61366-FY,Derrek Allpress,66 Lakeland Trail,Long Beach,United States,90831,No,L-L-2.5,Liberica,Light,4,2.5,36.455,1.4582,4.73915,145.82
+VCE-56531-986,09-03-2021,57192-13428-PL,Rikki Tomkowicz,76 Larry Junction,Lusk,Ireland,K45,Yes,R-M-0.5,Robust,Medium,5,0.5,5.97,1.194,0.3582,29.85
+FVV-75700-005,20-11-2020,24891-77957-LU,Rochette Huscroft,6111 Bobwhite Way,Reno,United States,89510,Yes,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+CFZ-53492-600,14-03-2022,64896-18468-BT,Selle Scurrer,99 Mariners Cove Trail,Upton,United Kingdom,DN21,No,L-M-0.2,Liberica,Medium,1,0.2,4.365,2.1825,0.56745,4.365
+LDK-71031-121,10-01-2019,84761-40784-SV,Andie Rudram,5600 Bultman Court,Las Vegas,United States,89155,No,L-L-2.5,Liberica,Light,1,2.5,36.455,1.4582,4.73915,36.455
+EBA-82404-343,26-01-2021,20236-42322-CM,Leta Clarricoates,12504 Westport Hill,Wilmington,United States,19805,Yes,L-D-0.2,Liberica,Dark,4,0.2,3.885,1.9425,0.50505,15.54
+USA-42811-560,26-04-2021,49671-11547-WG,Jacquelyn Maha,604 Hintze Place,Reno,United States,89550,No,E-L-0.2,Excelsa,Light,2,0.2,4.455,2.2275,0.49005,8.91
+SNL-83703-516,04-01-2022,57976-33535-WK,Glory Clemon,5 Pleasure Point,Tuscaloosa,United States,35487,Yes,L-M-2.5,Liberica,Medium,3,2.5,33.465,1.3386,4.35045,100.395
+SUZ-83036-175,20-08-2019,55915-19477-MK,Alica Kift,4214 Amoth Avenue,Garden Grove,United States,92645,No,R-D-0.2,Robust,Dark,5,0.2,2.685,1.3425,0.1611,13.425
+RGM-01187-513,15-07-2022,28121-11641-UA,Babb Pollins,76 Ilene Way,Shawnee Mission,United States,66225,No,E-D-0.2,Excelsa,Dark,6,0.2,3.645,1.8225,0.40095,21.87
+CZG-01299-952,12-02-2019,09540-70637-EV,Jarret Toye,89789 Sachtjen Hill,Ballivor,Ireland,D17,Yes,L-D-1,Liberica,Dark,2,1,12.95,1.295,1.6835,25.9
+KLD-88731-484,08-09-2021,17775-77072-PP,Carlie Linskill,05296 Debra Alley,Cincinnati,United States,45228,No,A-M-1,Arabica,Medium,5,1,11.25,1.125,1.0125,56.25
+BQK-38412-229,13-12-2019,90392-73338-BC,Natal Vigrass,1375 Parkside Junction,Whitwell,United Kingdom,DL10,No,R-L-0.2,Robust,Light,3,0.2,3.585,1.7925,0.2151,10.755
+LIN-88046-551,23-03-2022,10725-45724-CO,Kandace Cragell,772 Buhler Point,Dungarvan,Ireland,T56,No,R-L-0.5,Robust,Light,4,0.5,7.17,1.434,0.4302,28.68
+PMV-54491-220,11-04-2019,87242-18006-IR,Lyon Ibert,623 Paget Crossing,Sunnyvale,United States,94089,No,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+SKA-73676-005,29-10-2020,36572-91896-PP,Reese Lidgey,22 Northwestern Alley,Memphis,United States,38188,No,L-M-1,Liberica,Medium,4,1,14.55,1.455,1.8915,58.2
+TKH-62197-239,30-07-2020,25181-97933-UX,Tersina Castagne,403 Mifflin Pass,Orlando,United States,32868,No,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+YXF-57218-272,15-03-2019,55374-03175-IA,Samuele Klaaassen,52 2nd Road,Detroit,United States,48232,Yes,R-M-0.2,Robust,Medium,6,0.2,2.985,1.4925,0.1791,17.91
+PKJ-30083-501,27-12-2021,76948-43532-JS,Jordana Halden,70 Oriole Lane,Clones,Ireland,H23,No,E-D-0.5,Excelsa,Dark,2,0.5,7.29,1.458,0.8019,14.58
+WTT-91832-645,03-10-2019,24344-88599-PP,Hussein Olliff,251 Shoshone Terrace,Stradbally,Ireland,Y34,No,A-M-1,Arabica,Medium,3,1,11.25,1.125,1.0125,33.75
+TRZ-94735-865,05-02-2019,54462-58311-YF,Teddi Quadri,35 Meadow Vale Circle,Ballina,Ireland,F26,Yes,L-M-0.5,Liberica,Medium,4,0.5,8.73,1.746,1.1349,34.92
+UDB-09651-780,31-08-2020,90767-92589-LV,Felita Eshmade,08 Shopko Park,Richmond,United States,23203,No,E-D-0.5,Excelsa,Dark,2,0.5,7.29,1.458,0.8019,14.58
+EHJ-82097-549,13-01-2021,27517-43747-YD,Melodie OIlier,146 Waxwing Point,Glasnevin,Ireland,D11,Yes,R-D-0.2,Robust,Dark,2,0.2,2.685,1.3425,0.1611,5.37
+ZFR-79447-696,22-03-2021,77828-66867-KH,Hazel Iacopini,7594 Hollow Ridge Road,Fort Worth,United States,76178,Yes,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+NUU-03893-975,17-01-2020,41054-59693-XE,Vinny Shoebotham,93569 Hintze Way,Brooklyn,United States,11254,No,L-L-0.5,Liberica,Light,2,0.5,9.51,1.902,1.2363,19.02
+GVG-59542-307,02-07-2019,26314-66792-VP,Bran Sterke,0066 Hanover Avenue,Fort Worth,United States,76198,Yes,E-M-1,Excelsa,Medium,2,1,13.75,1.375,1.5125,27.5
+YLY-35287-172,23-05-2022,69410-04668-MA,Simone Capon,0616 Utah Parkway,Phoenix,United States,85053,No,A-D-0.5,Arabica,Dark,5,0.5,5.97,1.194,0.5373,29.85
+KHZ-26264-253,20-07-2021,24972-55878-KX,Foster Constance,2236 Mitchell Trail,Dallas,United States,75287,No,L-L-0.2,Liberica,Light,6,0.2,4.755,2.3775,0.61815,28.53
+UEA-72681-629,12-03-2021,24972-55878-KX,Foster Constance,2236 Mitchell Trail,Dallas,United States,75287,No,A-L-2.5,Arabica,Light,3,2.5,29.785,1.1914,2.68065,89.355
+CVE-15042-481,01-01-2022,24972-55878-KX,Foster Constance,2236 Mitchell Trail,Dallas,United States,75287,No,R-L-1,Robust,Light,2,1,11.95,1.195,0.717,23.9
+AAQ-13644-699,03-06-2022,46296-42617-OQ,Fernando Sulman,45 Village Terrace,Asheville,United States,28805,Yes,R-D-1,Robust,Dark,4,1,8.95,0.895,0.537,35.8
+LWL-68108-794,26-05-2020,44494-89923-UW,Dorotea Hollyman,46861 Esker Avenue,Billings,United States,59112,Yes,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+JQT-14347-517,26-07-2019,11621-09964-ID,Lorelei Nardoni,77724 Roxbury Road,Saint Louis,United States,63126,No,R-D-1,Robust,Dark,1,1,8.95,0.895,0.537,8.95
+BMM-86471-923,22-10-2020,76319-80715-II,Dallas Yarham,689 8th Hill,Independence,United States,64054,Yes,L-D-2.5,Liberica,Dark,1,2.5,29.785,1.1914,3.87205,29.785
+IXU-67272-326,24-12-2020,91654-79216-IC,Arlana Ferrea,5299 Springs Park,Greensboro,United States,27404,No,E-L-0.5,Excelsa,Light,5,0.5,8.91,1.782,0.9801,44.55
+ITE-28312-615,06-09-2019,56450-21890-HK,Chuck Kendrick,74028 Hansons Crossing,Monroe,United States,71213,Yes,E-L-1,Excelsa,Light,6,1,14.85,1.485,1.6335,89.1
+ZHQ-30471-635,08-04-2019,40600-58915-WZ,Sharona Danilchik,273 Nelson Parkway,Halton,United Kingdom,LS9,No,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+LTP-31133-134,26-01-2022,66527-94478-PB,Sarajane Potter,5 Hermina Drive,Fort Worth,United States,76129,No,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+ZVQ-26122-859,28-11-2019,77154-45038-IH,Bobby Folomkin,2676 Alpine Lane,Fargo,United States,58122,Yes,A-L-2.5,Arabica,Light,6,2.5,29.785,1.1914,2.68065,178.71
+MIU-01481-194,21-07-2019,08439-55669-AI,Rafferty Pursglove,4 Buena Vista Circle,Garland,United States,75044,Yes,R-M-1,Robust,Medium,6,1,9.95,0.995,0.597,59.7
+MIU-01481-194,21-07-2019,08439-55669-AI,Rafferty Pursglove,4 Buena Vista Circle,Garland,United States,75044,Yes,A-L-0.5,Arabica,Light,2,0.5,7.77,1.554,0.6993,15.54
+EJA-79176-833,22-03-2020,91509-62250-GN,Dalia Eburah,23 Summerview Place,Birmingham,United Kingdom,B12,No,R-M-2.5,Robust,Medium,6,2.5,22.885,0.9154,1.3731,137.31
+AHQ-40440-522,18-09-2020,83833-46106-ZC,Martie Brimilcombe,2260 Kinsman Junction,Springfield,United States,22156,No,A-D-1,Arabica,Dark,1,1,9.95,0.995,0.8955,9.95
+TID-21626-411,03-01-2019,19383-33606-PW,Suzanna Bollam,5 Buhler Center,Littleton,United States,80126,No,R-L-0.5,Robust,Light,3,0.5,7.17,1.434,0.4302,21.51
+RSR-96390-187,29-09-2021,67052-76184-CB,Mellisa Mebes,803 Crest Line Parkway,Baltimore,United States,21275,No,E-M-1,Excelsa,Medium,6,1,13.75,1.375,1.5125,82.5
+BZE-96093-118,19-10-2021,43452-18035-DH,Alva Filipczak,4847 Vera Crossing,Moycullen,Ireland,A41,No,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+LOU-41819-242,14-07-2022,88060-50676-MV,Dorette Hinemoor,121 Union Point,Fort Lauderdale,United States,33345,Yes,R-M-1,Robust,Medium,2,1,9.95,0.995,0.597,19.9
+FND-99527-640,19-07-2021,89574-96203-EP,Rhetta Elnaugh,48 Randy Street,San Diego,United States,92191,Yes,E-L-0.5,Excelsa,Light,2,0.5,8.91,1.782,0.9801,17.82
+ASG-27179-958,10-12-2021,12607-75113-UV,Jule Deehan,11217 Maywood Terrace,Dallas,United States,75216,No,A-M-0.5,Arabica,Medium,3,0.5,6.75,1.35,0.6075,20.25
+YKX-23510-272,17-03-2019,56991-05510-PR,Janella Eden,613 Merrick Way,Joliet,United States,60435,No,A-L-2.5,Arabica,Light,2,2.5,29.785,1.1914,2.68065,59.57
+ZUR-55774-294,03-06-2020,33269-10023-CO,Ugo Southerden,63 Holmberg Avenue,Clearwater,United States,34620,Yes,L-D-1,Liberica,Dark,6,1,12.95,1.295,1.6835,77.7
+FUO-99821-974,22-02-2020,31245-81098-PJ,Verne Dunkerley,5770 Crest Line Place,Minneapolis,United States,55441,No,E-M-1,Excelsa,Medium,3,1,13.75,1.375,1.5125,41.25
+YVH-19865-819,09-11-2019,08946-56610-IH,Lacee Burtenshaw,8 Prentice Way,Lawrenceville,United States,30045,No,L-L-2.5,Liberica,Light,4,2.5,36.455,1.4582,4.73915,145.82
+NNF-47422-501,07-03-2020,20260-32948-EB,Adorne Gregoratti,27208 Maple Avenue,Malahide,Ireland,K36,No,E-L-0.2,Excelsa,Light,6,0.2,4.455,2.2275,0.49005,26.73
+RJI-71409-490,26-04-2021,31613-41626-KX,Chris Croster,9 Brickson Park Street,Tampa,United States,33673,Yes,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+UZL-46108-213,11-11-2021,75961-20170-RD,Graeme Whitehead,39 Pawling Place,Nashville,United States,37240,No,L-L-1,Liberica,Light,2,1,15.85,1.585,2.0605,31.7
+AOX-44467-109,15-06-2021,72524-06410-KD,Haslett Jodrelle,9 Macpherson Avenue,Miami,United States,33175,No,A-D-2.5,Arabica,Dark,1,2.5,22.885,0.9154,2.05965,22.885
+FSA-98650-921,28-02-2020,01841-48191-NL,Cam Jewster,24010 Sunnyside Drive,Dayton,United States,45426,Yes,L-L-0.5,Liberica,Light,2,0.5,9.51,1.902,1.2363,19.02
+TZD-67261-174,27-02-2020,01841-48191-NL,Cam Jewster,24010 Sunnyside Drive,Dayton,United States,45426,Yes,E-D-2.5,Excelsa,Dark,1,2.5,27.945,1.1178,3.07395,27.945
+TBU-64277-625,19-04-2021,98918-34330-GY,Beryl Osborn,71 Donald Trail,Chicago,United States,60686,Yes,E-M-1,Excelsa,Medium,6,1,13.75,1.375,1.5125,82.5
+TYP-85767-944,29-07-2022,51497-50894-WU,Kaela Nottram,5 Moulton Court,Arklow,Ireland,Y14,Yes,R-M-2.5,Robust,Medium,2,2.5,22.885,0.9154,1.3731,45.77
+GTT-73214-334,20-01-2019,98636-90072-YE,Nobe Buney,7 Anzinger Parkway,Richmond,United States,94807,No,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+WAI-89905-069,21-02-2022,47011-57815-HJ,Silvan McShea,017 Loeprich Trail,Olympia,United States,98506,No,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+OJL-96844-459,03-05-2020,61253-98356-VD,Karylin Huddart,831 Meadow Valley Way,Arlington,United States,76011,Yes,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+VGI-33205-360,21-03-2019,96762-10814-DA,Jereme Gippes,47392 Spenser Trail,Twyford,United Kingdom,LE14,Yes,L-M-0.5,Liberica,Medium,6,0.5,8.73,1.746,1.1349,52.38
+PCA-14081-576,13-06-2019,63112-10870-LC,Lukas Whittlesee,720 Victoria Parkway,Roanoke,United States,24009,No,R-L-0.2,Robust,Light,5,0.2,3.585,1.7925,0.2151,17.925
+SCS-67069-962,05-06-2020,21403-49423-PD,Gregorius Trengrove,0862 Farwell Avenue,New Hyde Park,United States,11044,No,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+BDM-03174-485,16-03-2019,29581-13303-VB,Wright Caldero,5933 Graceland Way,Anaheim,United States,92825,No,R-L-0.5,Robust,Light,4,0.5,7.17,1.434,0.4302,28.68
+UJV-32333-364,03-12-2021,86110-83695-YS,Merell Zanazzi,4 Memorial Place,Lexington,United States,40596,No,L-L-0.5,Liberica,Light,1,0.5,9.51,1.902,1.2363,9.51
+FLI-11493-954,09-07-2022,80454-42225-FT,Jed Kennicott,2 Holy Cross Pass,Tampa,United States,33673,No,A-L-0.5,Arabica,Light,4,0.5,7.77,1.554,0.6993,31.08
+IWL-13117-537,29-04-2020,29129-60664-KO,Guenevere Ruggen,67 Mendota Hill,San Jose,United States,95138,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+OAM-76916-748,27-01-2022,63025-62939-AN,Gonzales Cicculi,63861 Bunting Road,Washington,United States,20470,Yes,E-D-1,Excelsa,Dark,3,1,12.15,1.215,1.3365,36.45
+UMB-11223-710,13-02-2021,49012-12987-QT,Man Fright,27242 Fordem Crossing,Daingean,Ireland,E91,No,R-D-0.2,Robust,Dark,6,0.2,2.685,1.3425,0.1611,16.11
+LXR-09892-726,13-07-2020,50924-94200-SQ,Boyce Tarte,084 Reindahl Park,Olympia,United States,98506,Yes,R-D-2.5,Robust,Dark,2,2.5,20.585,0.8234,1.2351,41.17
+QXX-89943-393,12-03-2020,15673-18812-IU,Caddric Krzysztofiak,6 Dayton Alley,Mesquite,United States,75185,No,R-D-0.2,Robust,Dark,4,0.2,2.685,1.3425,0.1611,10.74
+WVS-57822-366,04-05-2020,52151-75971-YY,Darn Penquet,19199 Mariners Cove Avenue,Sacramento,United States,94207,No,E-M-2.5,Excelsa,Medium,4,2.5,31.625,1.265,3.47875,126.5
+CLJ-23403-689,03-04-2021,19413-02045-CG,Jammie Cloke,844 Lawn Drive,Newton,United Kingdom,NG34,No,R-L-1,Robust,Light,2,1,11.95,1.195,0.717,23.9
+XNU-83276-288,01-06-2022,98185-92775-KT,Chester Clowton,15196 Pleasure Court,Monticello,United States,55590,No,R-M-0.5,Robust,Medium,1,0.5,5.97,1.194,0.3582,5.97
+YOG-94666-679,14-02-2021,86991-53901-AT,Kathleen Diable,81 Arapahoe Circle,Kinloch,United Kingdom,PH43,Yes,L-D-0.2,Liberica,Dark,2,0.2,3.885,1.9425,0.50505,7.77
+KHG-33953-115,13-12-2021,78226-97287-JI,Koren Ferretti,372 Northland Street,Balrothery,Ireland,K32,No,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+HBH-64794-080,08-02-2021,40560-18556-YE,Chaddie Bennie,935 Lawn Circle,El Paso,United States,79934,Yes,R-D-0.2,Robust,Dark,3,0.2,2.685,1.3425,0.1611,8.055
+CNJ-56058-223,11-08-2020,40780-22081-LX,Alberta Balsdone,3 Kings Plaza,Largo,United States,34643,No,L-L-0.5,Liberica,Light,3,0.5,9.51,1.902,1.2363,28.53
+KHO-27106-786,10-10-2020,01603-43789-TN,Brice Romera,2311 Eastlawn Plaza,Foxrock,Ireland,D04,Yes,A-M-1,Arabica,Medium,6,1,11.25,1.125,1.0125,67.5
+KHO-27106-786,10-10-2020,01603-43789-TN,Brice Romera,2311 Eastlawn Plaza,Foxrock,Ireland,D04,Yes,L-D-2.5,Liberica,Dark,6,2.5,29.785,1.1914,3.87205,178.71
+YAC-50329-982,08-12-2020,75419-92838-TI,Conchita Bryde,74 Crowley Plaza,Oklahoma City,United States,73179,Yes,E-M-2.5,Excelsa,Medium,1,2.5,31.625,1.265,3.47875,31.625
+VVL-95291-039,18-04-2019,96516-97464-MF,Silvanus Enefer,52 Carey Plaza,Washington,United States,20051,No,E-L-0.2,Excelsa,Light,2,0.2,4.455,2.2275,0.49005,8.91
+VUT-20974-364,04-01-2021,90285-56295-PO,Lenci Haggerstone,52441 Evergreen Lane,Atlanta,United States,30351,No,R-M-0.5,Robust,Medium,6,0.5,5.97,1.194,0.3582,35.82
+SFC-34054-213,10-03-2019,08100-71102-HQ,Marvin Gundry,4 Harper Avenue,Castlebridge,Ireland,R14,No,L-L-0.5,Liberica,Light,4,0.5,9.51,1.902,1.2363,38.04
+UDS-04807-593,29-11-2019,84074-28110-OV,Bayard Wellan,7203 Main Crossing,Buffalo,United States,14276,No,L-D-0.5,Liberica,Dark,2,0.5,7.77,1.554,1.0101,15.54
+MHD-95615-696,07-02-2020,27930-59250-JT,Allis Wilmore,94 Moulton Street,Houston,United States,77260,No,R-L-2.5,Robust,Light,5,2.5,27.485,1.0994,1.6491,137.425
+FWE-98471-488,19-07-2022,27930-59250-JT,Allis Wilmore,94 Moulton Street,Houston,United States,77260,No,L-L-1,Liberica,Light,5,1,15.85,1.585,2.0605,79.25
+UFZ-24348-219,07-09-2019,27930-59250-JT,Allis Wilmore,94 Moulton Street,Houston,United States,77260,No,L-M-2.5,Liberica,Medium,3,2.5,33.465,1.3386,4.35045,100.395
+RAU-17060-674,26-06-2020,12747-63766-EU,Caddric Atcheson,1 Hovde Pass,Washington,United States,20470,Yes,L-L-0.2,Liberica,Light,1,0.2,4.755,2.3775,0.61815,4.755
+AOL-13866-711,14-02-2019,83490-88357-LJ,Eustace Stenton,8472 Graedel Circle,Austin,United States,78764,Yes,E-M-1,Excelsa,Medium,4,1,13.75,1.375,1.5125,55
+NOA-79645-377,09-11-2020,53729-30320-XZ,Ericka Tripp,4 4th Pass,Mesa,United States,85205,No,R-D-0.5,Robust,Dark,5,0.5,5.37,1.074,0.3222,26.85
+KMS-49214-806,30-04-2019,50384-52703-LA,Lyndsey MacManus,9 Springs Crossing,Savannah,United States,31416,No,E-L-2.5,Excelsa,Light,4,2.5,34.155,1.3662,3.75705,136.62
+ABK-08091-531,30-10-2020,53864-36201-FG,Tess Benediktovich,1068 Sutherland Plaza,Albuquerque,United States,87140,Yes,L-L-1,Liberica,Light,3,1,15.85,1.585,2.0605,47.55
+GPT-67705-953,12-11-2019,70631-33225-MZ,Correy Bourner,6058 Lunder Junction,Charlotte,United States,28299,Yes,A-M-0.2,Arabica,Medium,5,0.2,3.375,1.6875,0.30375,16.875
+MPQ-23421-608,28-03-2021,08023-52962-ET,Kandy Heddan,6234 Heath Court,Pensacola,United States,32575,Yes,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+NLI-63891-565,10-12-2021,41899-00283-VK,Ibby Charters,9435 Troy Circle,Washington,United States,20470,No,E-M-0.2,Excelsa,Medium,5,0.2,4.125,2.0625,0.45375,20.625
+HHF-36647-854,05-11-2021,39011-18412-GR,Adora Roubert,27591 Michigan Place,Port Saint Lucie,United States,34985,Yes,A-D-2.5,Arabica,Dark,6,2.5,22.885,0.9154,2.05965,137.31
+SBN-16537-046,29-02-2020,60255-12579-PZ,Hillel Mairs,325 Forest Run Crossing,Huntington,United States,25705,No,A-D-0.2,Arabica,Dark,1,0.2,2.985,1.4925,0.26865,2.985
+XZD-44484-632,06-08-2021,80541-38332-BP,Helaina Rainforth,132 New Castle Drive,Philadelphia,United States,19172,No,E-M-1,Excelsa,Medium,2,1,13.75,1.375,1.5125,27.5
+XZD-44484-632,06-08-2021,80541-38332-BP,Helaina Rainforth,132 New Castle Drive,Philadelphia,United States,19172,No,A-D-0.2,Arabica,Dark,2,0.2,2.985,1.4925,0.26865,5.97
+JNA-21450-177,11-02-2022,54798-14109-HC,Odelia Skerme,4 Tony Circle,Oklahoma City,United States,73167,Yes,A-D-1,Arabica,Dark,3,1,9.95,0.995,0.8955,29.85
+DZI-35365-596,02-11-2021,54798-14109-HC,Odelia Skerme,4 Tony Circle,Oklahoma City,United States,73167,Yes,E-M-0.2,Excelsa,Medium,2,0.2,4.125,2.0625,0.45375,8.25
+SFD-00372-284,19-07-2020,54798-14109-HC,Odelia Skerme,4 Tony Circle,Oklahoma City,United States,73167,Yes,L-M-0.2,Liberica,Medium,2,0.2,4.365,2.1825,0.56745,8.73
+IKQ-39946-768,19-03-2021,72778-50968-UQ,Isac Jesper,810 Sage Court,Naples,United States,34114,No,R-M-1,Robust,Medium,6,1,9.95,0.995,0.597,59.7
+KMB-95211-174,16-04-2021,23941-30203-MO,Lenette Dwerryhouse,2 Wayridge Court,Fort Worth,United States,76105,Yes,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+QWY-99467-368,06-11-2020,96434-50068-DZ,Nadeen Broomer,51 Straubel Terrace,Omaha,United States,68117,No,A-D-2.5,Arabica,Dark,1,2.5,22.885,0.9154,2.05965,22.885
+SRG-76791-614,15-03-2021,11729-74102-XB,Konstantine Thoumasson,342 North Lane,Tucson,United States,85732,Yes,E-L-0.5,Excelsa,Light,1,0.5,8.91,1.782,0.9801,8.91
+VSN-94485-621,17-10-2021,88116-12604-TE,Frans Habbergham,76 Fallview Crossing,Sparks,United States,89436,No,A-D-0.2,Arabica,Dark,4,0.2,2.985,1.4925,0.26865,11.94
+UKS-93055-397,13-07-2022,13082-41034-PD,Romain Avrashin,88 Westerfield Point,Washington,United States,20067,No,A-D-2.5,Arabica,Dark,5,2.5,22.885,0.9154,2.05965,114.425
+AVH-56062-335,21-11-2021,18082-74419-QH,Miran Doidge,94 Del Mar Lane,Salinas,United States,93907,No,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+HGE-19842-613,13-01-2022,49401-45041-ZU,Janeva Edinboro,24 Bowman Point,Fort Lauderdale,United States,33345,Yes,R-L-0.5,Robust,Light,4,0.5,7.17,1.434,0.4302,28.68
+WBA-85905-175,13-07-2022,41252-45992-VS,Trumaine Tewelson,903 Scoville Court,El Paso,United States,88553,No,L-M-0.2,Liberica,Medium,1,0.2,4.365,2.1825,0.56745,4.365
+XIR-88982-743,10-07-2021,00852-54571-WP,De Drewitt,6 Tomscot Hill,Alexandria,United States,22313,Yes,E-M-0.2,Excelsa,Medium,2,0.2,4.125,2.0625,0.45375,8.25
+VUC-72395-865,07-10-2021,13321-57602-GK,Adelheid Gladhill,36 Atwood Plaza,Baltimore,United States,21290,Yes,A-D-0.5,Arabica,Dark,6,0.5,5.97,1.194,0.5373,35.82
+BQJ-44755-910,28-02-2020,75006-89922-VW,Murielle Lorinez,029 Bluejay Circle,Evansville,United States,47732,No,E-D-2.5,Excelsa,Dark,6,2.5,27.945,1.1178,3.07395,167.67
+JKC-64636-831,05-07-2022,52098-80103-FD,Edin Mathe,49261 Merry Crossing,Lawrenceville,United States,30045,Yes,A-M-2.5,Arabica,Medium,2,2.5,25.875,1.035,2.32875,51.75
+ZKI-78561-066,21-09-2021,60121-12432-VU,Mordy Van Der Vlies,297 Fulton Way,Mobile,United States,36670,Yes,A-D-0.2,Arabica,Dark,3,0.2,2.985,1.4925,0.26865,8.955
+IMP-12563-728,03-01-2019,68346-14810-UA,Spencer Wastell,80 Oak Alley,Midland,United States,79705,No,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+MZL-81126-390,08-03-2022,48464-99723-HK,Jemimah Ethelston,676 Mcbride Lane,Hollywood,United States,33023,Yes,A-L-0.2,Arabica,Light,6,0.2,3.885,1.9425,0.34965,23.31
+MZL-81126-390,08-03-2022,48464-99723-HK,Jemimah Ethelston,676 Mcbride Lane,Hollywood,United States,33023,Yes,A-M-0.2,Arabica,Medium,2,0.2,3.375,1.6875,0.30375,6.75
+TVF-57766-608,10-03-2020,88420-46464-XE,Perice Eberz,490 Elmside Court,Chico,United States,95973,Yes,L-D-0.5,Liberica,Dark,1,0.5,7.77,1.554,1.0101,7.77
+RUX-37995-892,27-11-2021,37762-09530-MP,Bear Gaish,0010 Dayton Crossing,Austin,United States,78737,Yes,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+AVK-76526-953,04-03-2021,47268-50127-XY,Lynnea Danton,111 Mosinee Alley,El Paso,United States,88546,No,A-D-1,Arabica,Dark,2,1,9.95,0.995,0.8955,19.9
+RIU-02231-623,16-11-2021,25544-84179-QC,Skipton Morrall,52731 Fair Oaks Way,Charleston,United States,25326,Yes,R-L-0.5,Robust,Light,5,0.5,7.17,1.434,0.4302,35.85
+WFK-99317-827,16-06-2019,32058-76765-ZL,Devan Crownshaw,25669 Spohn Plaza,Allentown,United States,18105,No,L-D-2.5,Liberica,Dark,3,2.5,29.785,1.1914,3.87205,89.355
+SXC-62166-515,28-02-2020,69171-65646-UC,Joceline Reddoch,79075 Helena Road,Largo,United States,34643,No,R-L-2.5,Robust,Light,5,2.5,27.485,1.0994,1.6491,137.425
+YIE-87008-621,22-06-2019,22503-52799-MI,Shelley Titley,8279 Old Gate Lane,Fargo,United States,58122,No,L-M-0.5,Liberica,Medium,4,0.5,8.73,1.746,1.1349,34.92
+HRM-94548-288,08-09-2019,08934-65581-ZI,Redd Simao,37 Ridgeway Street,Fort Smith,United States,72905,No,A-L-2.5,Arabica,Light,6,2.5,29.785,1.1914,2.68065,178.71
+UJG-34731-295,26-05-2022,15764-22559-ZT,Cece Inker,67 Annamark Street,Lakeland,United States,33811,No,A-M-2.5,Arabica,Medium,1,2.5,25.875,1.035,2.32875,25.875
+TWD-70988-853,03-12-2019,87519-68847-ZG,Noel Chisholm,85 Calypso Place,Knoxville,United States,37924,Yes,L-D-1,Liberica,Dark,6,1,12.95,1.295,1.6835,77.7
+CIX-22904-641,17-09-2019,78012-56878-UB,Grazia Oats,7552 Dottie Road,Los Angeles,United States,90030,Yes,R-M-1,Robust,Medium,1,1,9.95,0.995,0.597,9.95
+DLV-65840-759,31-05-2022,77192-72145-RG,Meade Birkin,218 Elka Trail,Miami,United States,33169,Yes,L-M-1,Liberica,Medium,2,1,14.55,1.455,1.8915,29.1
+RXN-55491-201,21-10-2019,86071-79238-CX,Ronda Pyson,850 Jenna Court,Clones,Ireland,H23,No,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+PJC-31401-893,13-01-2021,11212-69985-ZJ,Rafaela Treacher,16 Prentice Court,Greystones,Ireland,A63,No,A-D-0.5,Arabica,Dark,3,0.5,5.97,1.194,0.5373,17.91
+HHO-79903-185,19-08-2022,53893-01719-CL,Bee Fattorini,433 Caliangt Park,Monaghan,Ireland,H18,Yes,A-L-2.5,Arabica,Light,1,2.5,29.785,1.1914,2.68065,29.785
+YWM-07310-594,02-03-2019,66028-99867-WJ,Margie Palleske,30 Dixon Trail,Pompano Beach,United States,33064,Yes,E-M-0.5,Excelsa,Medium,5,0.5,8.25,1.65,0.9075,41.25
+FHD-94983-982,21-01-2020,62839-56723-CH,Alexina Randals,713 Hayes Junction,Sacramento,United States,94297,Yes,R-M-0.5,Robust,Medium,3,0.5,5.97,1.194,0.3582,17.91
+WQK-10857-119,21-09-2021,96849-52854-CR,Filip Antcliffe,05 Bobwhite Pass,Clonskeagh,Ireland,D04,Yes,E-D-0.5,Excelsa,Dark,1,0.5,7.29,1.458,0.8019,7.29
+DXA-50313-073,30-08-2019,19755-55847-VW,Peyter Matignon,3162 Arizona Way,Kirkton,United Kingdom,KW10,Yes,E-L-1,Excelsa,Light,2,1,14.85,1.485,1.6335,29.7
+ONW-00560-570,25-02-2019,32900-82606-BO,Claudie Weond,41 Coolidge Way,Asheville,United States,28805,No,A-M-1,Arabica,Medium,2,1,11.25,1.125,1.0125,22.5
+UHK-63283-868,24-04-2022,16809-16936-WF,Modesty MacConnechie,526 Onsgard Park,Charleston,United States,25362,Yes,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+BRJ-19414-277,17-09-2019,16809-16936-WF,Modesty MacConnechie,526 Onsgard Park,Charleston,United States,25362,Yes,R-M-0.2,Robust,Medium,4,0.2,2.985,1.4925,0.1791,11.94
+MIQ-16322-908,03-08-2019,20118-28138-QD,Jaquenette Skentelbery,90235 Holy Cross Parkway,Houston,United States,77281,No,A-L-1,Arabica,Light,2,1,12.95,1.295,1.1655,25.9
+MVO-39328-830,26-02-2021,84057-45461-AH,Orazio Comber,725 Autumn Leaf Place,Confey,Ireland,A86,No,L-M-0.5,Liberica,Medium,5,0.5,8.73,1.746,1.1349,43.65
+MVO-39328-830,26-02-2021,84057-45461-AH,Orazio Comber,725 Autumn Leaf Place,Confey,Ireland,A86,No,A-L-0.5,Arabica,Light,6,0.5,7.77,1.554,0.6993,46.62
+NTJ-88319-746,03-08-2021,90882-88130-KQ,Zachary Tramel,28834 Wayridge Lane,Newark,United States,7195,No,L-L-0.5,Liberica,Light,3,0.5,9.51,1.902,1.2363,28.53
+LCY-24377-948,07-05-2021,21617-79890-DD,Izaak Primak,55 Buhler Pass,Seattle,United States,98195,Yes,R-L-2.5,Robust,Light,1,2.5,27.485,1.0994,1.6491,27.485
+FWD-85967-769,14-06-2019,20256-54689-LO,Brittani Thoresbie,643 Logan Plaza,Englewood,United States,80150,No,E-D-0.2,Excelsa,Dark,3,0.2,3.645,1.8225,0.40095,10.935
+KTO-53793-109,21-11-2019,17572-27091-AA,Constanta Hatfull,2 Nelson Alley,Rockford,United States,61105,No,R-L-0.2,Robust,Light,2,0.2,3.585,1.7925,0.2151,7.17
+OCK-89033-348,31-03-2021,82300-88786-UE,Bobbe Castagneto,5 Moose Terrace,Billings,United States,59112,Yes,A-L-0.2,Arabica,Light,6,0.2,3.885,1.9425,0.34965,23.31
+BZP-33213-637,05-05-2020,77175-09826-SF,Lindon Agnolo,82499 Mallard Lane,Tulsa,United States,74108,Yes,A-M-2.5,Arabica,Medium,3,2.5,25.875,1.035,2.32875,77.625
+WFH-21507-708,20-04-2020,07237-32539-NB,Delainey Kiddy,66184 Melby Avenue,Fresno,United States,93704,Yes,R-D-0.5,Robust,Dark,1,0.5,5.37,1.074,0.3222,5.37
+HST-96923-073,18-07-2019,54722-76431-EX,Helli Petroulis,56 Hollow Ridge Circle,Mullagh,Ireland,V31,No,R-D-2.5,Robust,Dark,6,2.5,20.585,0.8234,1.2351,123.51
+ENN-79947-323,18-11-2021,67847-82662-TE,Marty Scholl,59992 Canary Crossing,San Francisco,United States,94154,No,L-M-0.5,Liberica,Medium,2,0.5,8.73,1.746,1.1349,17.46
+BHA-47429-889,20-06-2020,51114-51191-EW,Kienan Ferson,72997 Annamark Plaza,Mobile,United States,36689,No,E-L-0.2,Excelsa,Light,3,0.2,4.455,2.2275,0.49005,13.365
+SZY-63017-318,06-04-2021,91809-58808-TV,Blake Kelloway,7351 Sloan Pass,San Francisco,United States,94110,Yes,A-L-0.2,Arabica,Light,2,0.2,3.885,1.9425,0.34965,7.77
+LCU-93317-340,17-06-2019,84996-26826-DK,Scarlett Oliffe,1866 Ohio Point,Jamaica,United States,11470,Yes,R-D-0.2,Robust,Dark,1,0.2,2.685,1.3425,0.1611,2.685
+GPZ-36017-366,01-07-2019,65732-22589-OW,Kippie Marrison,84 Sutherland Alley,Denver,United States,80243,Yes,A-D-2.5,Arabica,Dark,5,2.5,22.885,0.9154,2.05965,114.425
+UOM-71431-481,26-03-2022,65732-22589-OW,Kippie Marrison,84 Sutherland Alley,Denver,United States,80243,Yes,R-D-2.5,Robust,Dark,1,2.5,20.585,0.8234,1.2351,20.585
+PJH-42618-877,30-09-2021,93676-95250-XJ,Celestia Dolohunty,836 Towne Court,San Diego,United States,92165,Yes,A-D-2.5,Arabica,Dark,5,2.5,22.885,0.9154,2.05965,114.425
+XED-90333-402,19-06-2019,28300-14355-GF,Patsy Vasilenko,56 Ridge Oak Point,Preston,United Kingdom,PR1,No,E-M-0.2,Excelsa,Medium,5,0.2,4.125,2.0625,0.45375,20.625
+IKK-62234-199,31-03-2022,91190-84826-IQ,Raphaela Schankelborg,528 Debs Terrace,Pittsburgh,United States,15250,Yes,L-L-0.5,Liberica,Light,6,0.5,9.51,1.902,1.2363,57.06
+KAW-95195-329,04-07-2020,34570-99384-AF,Sharity Wickens,5873 Lake View Parkway,Cavan,Ireland,H12,Yes,R-D-2.5,Robust,Dark,4,2.5,20.585,0.8234,1.2351,82.34
+QDO-57268-842,21-11-2021,57808-90533-UE,Derick Snow,813 La Follette Place,New York City,United States,10004,No,E-M-2.5,Excelsa,Medium,5,2.5,31.625,1.265,3.47875,158.125
+VKQ-39009-292,23-11-2021,57808-90533-UE,Derick Snow,813 La Follette Place,New York City,United States,10004,No,L-M-1,Liberica,Medium,5,1,14.55,1.455,1.8915,72.75
+UGK-07613-982,28-07-2022,57808-90533-UE,Derick Snow,813 La Follette Place,New York City,United States,10004,No,A-M-0.5,Arabica,Medium,3,0.5,6.75,1.35,0.6075,20.25
+IIZ-24416-212,31-05-2021,76060-30540-LB,Baxy Cargen,58 Carpenter Pass,Seattle,United States,98148,Yes,R-D-0.5,Robust,Dark,6,0.5,5.37,1.074,0.3222,32.22
+AWP-11469-510,11-04-2020,76730-63769-ND,Ryann Stickler,471 Sage Center,Birmingham,United Kingdom,B40,No,E-D-1,Excelsa,Dark,2,1,12.15,1.215,1.3365,24.3
+KXA-27983-918,15-09-2020,96042-27290-EQ,Daryn Cassius,19 Ridgeway Road,Battle Creek,United States,49018,No,R-L-0.5,Robust,Light,5,0.5,7.17,1.434,0.4302,35.85
+PDB-98743-282,23-01-2022,51940-02669-OR,Skelly Dolohunty,34010 Kensington Trail,Ballymun,Ireland,D11,No,L-L-1,Liberica,Light,3,1,15.85,1.585,2.0605,47.55
+SXW-34014-556,27-01-2021,99144-98314-GN,Drake Jevon,27430 Fairfield Parkway,Houston,United States,77070,Yes,R-L-0.2,Robust,Light,1,0.2,3.585,1.7925,0.2151,3.585
+QOJ-38788-727,24-06-2019,16358-63919-CE,Hall Ranner,51 Sunfield Crossing,Cincinnati,United States,45249,No,E-M-2.5,Excelsa,Medium,5,2.5,31.625,1.265,3.47875,158.125
+TGF-38649-658,15-03-2020,67743-54817-UT,Berkly Imrie,1815 Annamark Way,Fresno,United States,93704,No,L-M-0.5,Liberica,Medium,2,0.5,8.73,1.746,1.1349,17.46
+EAI-25194-209,24-09-2021,44601-51441-BH,Dorey Sopper,0244 Northfield Place,Saint Paul,United States,55123,No,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+IJK-34441-720,05-04-2019,97201-58870-WB,Darcy Lochran,7464 Nobel Way,El Paso,United States,88519,Yes,A-M-0.5,Arabica,Medium,6,0.5,6.75,1.35,0.6075,40.5
+ZMC-00336-619,27-01-2022,19849-12926-QF,Lauritz Ledgley,99138 Waywood Junction,Des Moines,United States,50981,Yes,A-M-0.5,Arabica,Medium,4,0.5,6.75,1.35,0.6075,27
+UPX-54529-618,10-09-2021,40535-56770-UM,Tawnya Menary,5546 Kensington Hill,Portland,United States,97240,No,L-D-1,Liberica,Dark,3,1,12.95,1.295,1.6835,38.85
+DLX-01059-899,06-01-2020,74940-09646-MU,Gustaf Ciccotti,94417 Boyd Trail,Houston,United States,77070,No,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+MEK-85120-243,15-03-2022,06623-54610-HC,Bobbe Renner,9 Westerfield Place,Durham,United States,27705,No,R-L-0.2,Robust,Light,3,0.2,3.585,1.7925,0.2151,10.755
+NFI-37188-246,08-09-2021,89490-75361-AF,Wilton Jallin,6511 Haas Road,Boston,United States,2298,No,A-D-2.5,Arabica,Dark,4,2.5,22.885,0.9154,2.05965,91.54
+BXH-62195-013,11-11-2021,94526-79230-GZ,Mindy Bogey,7791 Westend Point,Washington,United States,20226,Yes,A-M-1,Arabica,Medium,4,1,11.25,1.125,1.0125,45
+YLK-78851-470,18-09-2019,58559-08254-UY,Paulie Fonzone,596 Manufacturers Alley,Albany,United States,12205,Yes,R-M-2.5,Robust,Medium,6,2.5,22.885,0.9154,1.3731,137.31
+DXY-76225-633,29-07-2021,88574-37083-WX,Merrile Cobbledick,949 Nobel Plaza,Tucson,United States,85732,No,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+UHP-24614-199,20-03-2022,67953-79896-AC,Antonius Lewry,86 Pine View Pass,Montgomery,United States,36195,No,A-M-1,Arabica,Medium,4,1,11.25,1.125,1.0125,45
+HBY-35655-049,04-05-2020,69207-93422-CQ,Isis Hessel,2900 Pennsylvania Court,Fairbanks,United States,99709,Yes,E-D-2.5,Excelsa,Dark,3,2.5,27.945,1.1178,3.07395,83.835
+DCE-22886-861,05-04-2021,56060-17602-RG,Harland Trematick,1235 Shopko Point,Monasterevin,Ireland,W34,Yes,E-D-0.2,Excelsa,Dark,1,0.2,3.645,1.8225,0.40095,3.645
+QTG-93823-843,12-01-2022,46859-14212-FI,Chloris Sorrell,5 Scott Lane,Norton,United Kingdom,S8,No,A-M-0.5,Arabica,Medium,1,0.5,6.75,1.35,0.6075,6.75
+QTG-93823-843,12-01-2022,46859-14212-FI,Chloris Sorrell,5 Scott Lane,Norton,United Kingdom,S8,No,E-D-0.5,Excelsa,Dark,3,0.5,7.29,1.458,0.8019,21.87
+WFT-16178-396,16-12-2020,33555-01585-RP,Quintina Heavyside,7995 Macpherson Drive,Lexington,United States,40515,Yes,R-D-0.2,Robust,Dark,5,0.2,2.685,1.3425,0.1611,13.425
+ERC-54560-934,30-05-2022,11932-85629-CU,Hadley Reuven,227 Burning Wood Drive,Grand Rapids,United States,49560,No,R-D-2.5,Robust,Dark,6,2.5,20.585,0.8234,1.2351,123.51
+RUK-78200-416,09-11-2021,36192-07175-XC,Mitch Attwool,6229 Dawn Junction,Des Moines,United States,50369,No,L-D-0.2,Liberica,Dark,2,0.2,3.885,1.9425,0.50505,7.77
+KHK-13105-388,08-04-2022,46242-54946-ZW,Charin Maplethorp,35 Alpine Circle,Wilmington,United States,19810,Yes,A-M-1,Arabica,Medium,6,1,11.25,1.125,1.0125,67.5
+NJR-03699-189,08-10-2019,95152-82155-VQ,Goldie Wynes,5251 Everett Way,Austin,United States,78726,No,E-D-2.5,Excelsa,Dark,1,2.5,27.945,1.1178,3.07395,27.945
+PJV-20427-019,12-09-2021,13404-39127-WQ,Celie MacCourt,01678 4th Hill,Orlando,United States,32835,No,A-L-2.5,Arabica,Light,3,2.5,29.785,1.1914,2.68065,89.355
+OLA-68289-577,30-06-2020,40226-52317-IO,Evy Wilsone,13130 Heffernan Point,Washington,United States,20238,Yes,A-M-0.5,Arabica,Medium,5,0.5,6.75,1.35,0.6075,33.75
+TNR-84447-052,09-01-2019,34419-18068-AG,Dolores Duffie,3 Jenifer Circle,Portland,United States,97271,No,E-D-2.5,Excelsa,Dark,4,2.5,27.945,1.1178,3.07395,111.78
+FBZ-64200-586,12-07-2022,51738-61457-RS,Mathilda Matiasek,30867 Magdeline Way,New York City,United States,10004,Yes,E-M-2.5,Excelsa,Medium,2,2.5,31.625,1.265,3.47875,63.25
+OBN-66334-505,30-11-2020,86757-52367-ON,Jarred Camillo,48965 Mesta Lane,Washington,United States,20404,Yes,E-L-0.2,Excelsa,Light,2,0.2,4.455,2.2275,0.49005,8.91
+NXM-89323-646,22-03-2019,28158-93383-CK,Kameko Philbrick,987 Westridge Terrace,Washington,United States,20067,Yes,E-D-1,Excelsa,Dark,1,1,12.15,1.215,1.3365,12.15
+NHI-23264-055,15-02-2022,44799-09711-XW,Mallory Shrimpling,40 Declaration Point,Allentown,United States,18105,Yes,A-D-0.5,Arabica,Dark,4,0.5,5.97,1.194,0.5373,23.88
+EQH-53569-934,13-10-2020,53667-91553-LT,Barnett Sillis,53 Shasta Plaza,Miami,United States,33169,No,E-M-1,Excelsa,Medium,4,1,13.75,1.375,1.5125,55
+XKK-06692-189,27-12-2021,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,R-D-1,Robust,Dark,3,1,8.95,0.895,0.537,26.85
+PJS-30996-485,21-01-2022,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,A-L-0.2,Arabica,Light,1,0.2,3.885,1.9425,0.34965,3.885
+HEL-86709-449,10-06-2022,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,E-D-2.5,Excelsa,Dark,1,2.5,27.945,1.1178,3.07395,27.945
+NCH-55389-562,27-04-2019,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,E-L-2.5,Excelsa,Light,5,2.5,34.155,1.3662,3.75705,170.775
+NCH-55389-562,27-04-2019,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,R-L-2.5,Robust,Light,2,2.5,27.485,1.0994,1.6491,54.97
+NCH-55389-562,27-04-2019,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,E-L-1,Excelsa,Light,1,1,14.85,1.485,1.6335,14.85
+NCH-55389-562,27-04-2019,86579-92122-OC,Brenn Dundredge,5 Morrow Street,Oklahoma City,United States,73129,Yes,A-L-0.2,Arabica,Light,2,0.2,3.885,1.9425,0.34965,7.77
+BYP-16005-016,01-08-2021,01474-63436-TP,Read Cutts,820 Reinke Pass,Rockford,United States,61105,No,R-M-2.5,Robust,Medium,5,2.5,22.885,0.9154,1.3731,114.425
+LWS-13938-905,18-11-2020,90533-82440-EE,Michale Delves,670 Shoshone Circle,Montgomery,United States,36177,Yes,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+OLH-95722-362,24-10-2021,48553-69225-VX,Devland Gritton,095 Jenna Junction,Pasadena,United States,91117,Yes,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+OLH-95722-362,24-10-2021,48553-69225-VX,Devland Gritton,095 Jenna Junction,Pasadena,United States,91117,Yes,R-M-2.5,Robust,Medium,4,2.5,22.885,0.9154,1.3731,91.54
+KCW-50949-318,30-12-2019,52374-27313-IV,Dell Gut,30506 Bowman Avenue,Houston,United States,77293,Yes,E-L-1,Excelsa,Light,5,1,14.85,1.485,1.6335,74.25
+JGZ-16947-591,02-02-2021,14264-41252-SL,Willy Pummery,9795 Acker Plaza,Muskegon,United States,49444,No,L-L-0.2,Liberica,Light,6,0.2,4.755,2.3775,0.61815,28.53
+LXS-63326-144,16-05-2021,35367-50483-AR,Geoffrey Siuda,64284 Pearson Parkway,Washington,United States,20380,Yes,R-L-0.5,Robust,Light,2,0.5,7.17,1.434,0.4302,14.34
+CZG-86544-655,23-04-2022,69443-77665-QW,Henderson Crowne,706 Eagan Lane,Sallins,Ireland,W91,Yes,A-L-0.5,Arabica,Light,2,0.5,7.77,1.554,0.6993,15.54
+WFV-88138-247,25-09-2021,63411-51758-QC,Vernor Pawsey,883 Eagan Point,Macon,United States,31205,No,R-L-1,Robust,Light,3,1,11.95,1.195,0.717,35.85
+RFG-28227-288,07-06-2022,68605-21835-UF,Augustin Waterhouse,23530 Lake View Trail,Shreveport,United States,71105,No,A-L-0.5,Arabica,Light,6,0.5,7.77,1.554,0.6993,46.62
+QAK-77286-758,11-08-2020,34786-30419-XY,Fanchon Haughian,2017 Ronald Regan Trail,Tacoma,United States,98405,No,R-L-0.5,Robust,Light,5,0.5,7.17,1.434,0.4302,35.85
+CZD-56716-840,28-02-2019,15456-29250-RU,Jaimie Hatz,3 Atwood Avenue,El Paso,United States,79934,No,L-D-2.5,Liberica,Dark,4,2.5,29.785,1.1914,3.87205,119.14
+UBI-59229-277,11-09-2019,00886-35803-FG,Edeline Edney,43 Crest Line Road,Birmingham,United States,35263,No,L-D-0.5,Liberica,Dark,3,0.5,7.77,1.554,1.0101,23.31
+WJJ-37489-898,08-04-2021,31599-82152-AD,Rickie Faltin,2 Laurel Drive,Portumna,Ireland,V31,No,A-M-1,Arabica,Medium,1,1,11.25,1.125,1.0125,11.25
+ORX-57454-917,06-09-2021,76209-39601-ZR,Gnni Cheeke,934 Loomis Junction,London,United Kingdom,EC3M,Yes,E-D-2.5,Excelsa,Dark,3,2.5,27.945,1.1178,3.07395,83.835
+GRB-68838-629,10-09-2021,15064-65241-HB,Gwenni Ratt,55 Montana Road,Castlemartyr,Ireland,H71,No,R-L-2.5,Robust,Light,4,2.5,27.485,1.0994,1.6491,109.94
+SHT-04865-419,22-05-2022,69215-90789-DL,Johnath Fairebrother,05 Bluestem Street,Wilmington,United States,19810,Yes,R-L-0.2,Robust,Light,4,0.2,3.585,1.7925,0.2151,14.34
+UQI-28177-865,18-09-2020,04317-46176-TB,Ingamar Eberlein,8 Delaware Circle,Harrisburg,United States,17121,No,R-L-0.2,Robust,Light,6,0.2,3.585,1.7925,0.2151,21.51
+OIB-13664-879,31-08-2021,04713-57765-KR,Jilly Dreng,0 Cardinal Park,Sallins,Ireland,W91,Yes,A-M-1,Arabica,Medium,2,1,11.25,1.125,1.0125,22.5
+GUG-45603-775,06-02-2022,40959-32642-DN,Rhodie Strathern,63071 Warner Terrace,Little Rock,United States,72215,Yes,L-L-0.2,Liberica,Light,5,0.2,4.755,2.3775,0.61815,23.775
+KJB-98240-098,30-01-2022,77746-08153-PM,Chad Miguel,83 Sauthoff Junction,Hagerstown,United States,21747,Yes,L-L-1,Liberica,Light,5,1,15.85,1.585,2.0605,79.25
+JMS-48374-462,23-11-2020,49667-96708-JL,Florinda Matusovsky,2 Moland Court,Albany,United States,12205,Yes,A-D-2.5,Arabica,Dark,2,2.5,22.885,0.9154,2.05965,45.77
+YIT-15877-117,13-04-2022,24155-79322-EQ,Morly Rocks,21 Spenser Court,Crossmolina,Ireland,A98,Yes,R-D-1,Robust,Dark,1,1,8.95,0.895,0.537,8.95
+YVK-82679-655,07-01-2021,95342-88311-SF,Yuri Burrells,4 Brickson Park Court,Lexington,United States,40510,Yes,R-M-0.5,Robust,Medium,4,0.5,5.97,1.194,0.3582,23.88
+TYH-81940-054,04-02-2020,69374-08133-RI,Cleopatra Goodrum,94 Roxbury Road,San Diego,United States,92165,No,E-L-0.2,Excelsa,Light,5,0.2,4.455,2.2275,0.49005,22.275
+HTY-30660-254,16-09-2019,83844-95908-RX,Joey Jefferys,526 Helena Crossing,Los Angeles,United States,90040,Yes,R-M-1,Robust,Medium,3,1,9.95,0.995,0.597,29.85
+GPW-43956-761,26-01-2019,09667-09231-YM,Bearnard Wardell,57299 Tennessee Hill,Brooklyn,United States,11210,Yes,E-L-0.5,Excelsa,Light,6,0.5,8.91,1.782,0.9801,53.46
+DWY-56352-412,19-02-2021,55427-08059-DF,Zeke Walisiak,7 Birchwood Street,Booterstown,Ireland,D04,Yes,R-D-0.2,Robust,Dark,1,0.2,2.685,1.3425,0.1611,2.685
+PUH-55647-976,22-03-2022,06624-54037-BQ,Wiley Leopold,5 Elmside Terrace,Gainesville,United States,32627,No,R-M-0.2,Robust,Medium,2,0.2,2.985,1.4925,0.1791,5.97
+DTB-71371-705,03-07-2019,48544-90737-AZ,Chiarra Shalders,445 Heath Terrace,Clearwater,United States,34620,Yes,L-D-1,Liberica,Dark,1,1,12.95,1.295,1.6835,12.95
+ZDC-64769-740,21-09-2019,79463-01597-FQ,Sharl Southerill,39 Nelson Pass,Amarillo,United States,79165,No,E-M-0.5,Excelsa,Medium,1,0.5,8.25,1.65,0.9075,8.25
+TED-81959-419,26-08-2019,27702-50024-XC,Noni Furber,565 Sloan Avenue,Fort Worth,United States,76121,No,A-L-2.5,Arabica,Light,5,2.5,29.785,1.1914,2.68065,148.925
+FDO-25756-141,03-08-2021,57360-46846-NS,Dinah Crutcher,89147 Northport Trail,Lusk,Ireland,K45,Yes,A-L-2.5,Arabica,Light,3,2.5,29.785,1.1914,2.68065,89.355
+HKN-31467-517,24-10-2021,84045-66771-SL,Charlean Keave,08019 Fairfield Pass,Pensacola,United States,32575,No,L-M-1,Liberica,Medium,6,1,14.55,1.455,1.8915,87.3
+ALM-80762-974,23-03-2020,84045-66771-SL,Charlean Keave,08019 Fairfield Pass,Pensacola,United States,32575,No,A-L-0.5,Arabica,Light,3,0.5,7.77,1.554,0.6993,23.31
+POF-29666-012,01-04-2019,46885-00260-TL,Sada Roseborough,779 Memorial Avenue,Tacoma,United States,98405,Yes,R-D-0.5,Robust,Dark,1,0.5,5.37,1.074,0.3222,5.37
+IRX-59256-644,08-12-2021,96446-62142-EN,Clayton Kingwell,947 Burrows Park,Rathnew,Ireland,R35,Yes,A-D-0.2,Arabica,Dark,3,0.2,2.985,1.4925,0.26865,8.955
+LTN-89139-350,27-06-2019,07756-71018-GU,Kacy Canto,43 Doe Crossing Center,Fort Wayne,United States,46896,Yes,R-L-2.5,Robust,Light,5,2.5,27.485,1.0994,1.6491,137.425
+TXF-79780-017,14-07-2020,92048-47813-QB,Mab Blakemore,70 Crescent Oaks Junction,Amarillo,United States,79105,No,R-L-1,Robust,Light,5,1,11.95,1.195,0.717,59.75
+NXF-15738-707,26-01-2020,28699-16256-XV,Javier Causnett,511 Rowland Alley,Silver Spring,United States,20910,No,R-D-0.5,Robust,Dark,2,0.5,5.37,1.074,0.3222,10.74
+MVV-19034-198,31-05-2020,98476-63654-CG,Demetris Micheli,33123 Rigney Pass,Madison,United States,53726,Yes,E-D-2.5,Excelsa,Dark,6,2.5,27.945,1.1178,3.07395,167.67
+KUX-19632-830,20-07-2021,55409-07759-YG,Chloette Bernardot,6672 Cordelia Point,Conroe,United States,77305,Yes,E-D-0.2,Excelsa,Dark,6,0.2,3.645,1.8225,0.40095,21.87
+SNZ-44595-152,12-08-2022,06136-65250-PG,Kim Kemery,95 Delladonna Parkway,Denton,United States,76205,Yes,R-L-1,Robust,Light,2,1,11.95,1.195,0.717,23.9
+GQA-37241-629,01-01-2020,08405-33165-BS,Fanchette Parlot,7765 Westridge Lane,Columbus,United States,43231,Yes,A-M-0.2,Arabica,Medium,2,0.2,3.375,1.6875,0.30375,6.75
+WVV-79948-067,18-01-2021,66070-30559-WI,Ramon Cheak,23 Paget Point,Bundoran,Ireland,F94,Yes,E-M-2.5,Excelsa,Medium,1,2.5,31.625,1.265,3.47875,31.625
+LHX-81117-166,31-12-2021,01282-28364-RZ,Koressa O'Geneay,77 Rigney Hill,Aurora,United States,80045,No,R-L-1,Robust,Light,4,1,11.95,1.195,0.717,47.8
+GCD-75444-320,04-05-2020,51277-93873-RP,Claudell Ayre,5645 Lotheville Crossing,Daytona Beach,United States,32128,No,L-M-2.5,Liberica,Medium,1,2.5,33.465,1.3386,4.35045,33.465
+SGA-30059-217,20-02-2021,84405-83364-DG,Lorianne Kyneton,1926 3rd Center,Seaton,United Kingdom,LE15,Yes,A-D-0.5,Arabica,Dark,5,0.5,5.97,1.194,0.5373,29.85
+GNL-98714-885,07-03-2020,83731-53280-YC,Adele McFayden,28 Darwin Terrace,Wirral,United Kingdom,CH48,Yes,R-M-1,Robust,Medium,3,1,9.95,0.995,0.597,29.85
+OQA-93249-841,05-04-2019,03917-13632-KC,Herta Layne,5495 Talisman Plaza,Saint Louis,United States,63131,Yes,A-M-2.5,Arabica,Medium,6,2.5,25.875,1.035,2.32875,155.25
+KPO-24942-184,21-03-2021,70567-65133-CN,Desdemona Eye,191 Manitowish Crossing,Bagenalstown,Ireland,R21,No,L-L-2.5,Liberica,Light,3,2.5,36.455,1.4582,4.73915,109.365
+SRJ-79353-838,19-12-2021,77869-81373-AY,Margarette Sterland,5 Kenwood Pass,Philadelphia,United States,19125,No,A-L-1,Arabica,Light,6,1,12.95,1.295,1.1655,77.7
+XBV-40336-071,17-02-2021,38536-98293-JZ,Catharine Scoines,39192 Glendale Hill,Watergrasshill,Ireland,T56,No,A-D-0.2,Arabica,Dark,3,0.2,2.985,1.4925,0.26865,8.955
+RLM-96511-467,06-01-2020,43014-53743-XK,Jennica Tewelson,4040 Hoard Junction,Dallas,United States,75210,No,R-L-2.5,Robust,Light,1,2.5,27.485,1.0994,1.6491,27.485
+DUV-12075-132,06-06-2022,62494-09113-RP,Marguerite Graves,91413 Scott Way,Fort Smith,United States,72905,No,E-D-0.2,Excelsa,Dark,5,0.2,3.645,1.8225,0.40095,18.225
+DUV-12075-132,06-06-2022,62494-09113-RP,Marguerite Graves,91413 Scott Way,Fort Smith,United States,72905,No,L-D-0.5,Liberica,Dark,2,0.5,7.77,1.554,1.0101,15.54
+AEZ-13242-456,04-05-2022,62494-09113-RP,Marguerite Graves,91413 Scott Way,Fort Smith,United States,72905,No,R-M-0.5,Robust,Medium,5,0.5,5.97,1.194,0.3582,29.85
+UME-75640-698,11-10-2019,62494-09113-RP,Marguerite Graves,91413 Scott Way,Fort Smith,United States,72905,No,A-M-0.5,Arabica,Medium,4,0.5,6.75,1.35,0.6075,27
+GJC-66474-557,03-08-2021,64965-78386-MY,Nicolina Jenny,6099 American Ash Court,Whittier,United States,90610,No,A-D-1,Arabica,Dark,1,1,9.95,0.995,0.8955,9.95
+IRV-20769-219,15-10-2020,77131-58092-GE,Vidovic Antonelli,3242 Corscot Pass,London,United Kingdom,EC1V,Yes,E-M-0.2,Excelsa,Medium,3,0.2,4.125,2.0625,0.45375,12.375
