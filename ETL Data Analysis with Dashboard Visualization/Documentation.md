@@ -52,4 +52,8 @@ This project utilizes multiple synthetic tables that all represent aspects of sa
 - Columns with Other Inconsistencies: N/A<br><br>
 
 ### Summary
-The orders table is set to be the main table as it has 8 null columns which are filled in other tables that act as dimension tables to the orders table. Product ID and Customer ID are foreign keys in this table and can be used to join all three tables to create a main table for further analysis. The Sales column is to be computed as it does not exist in any other table. This can be done by multiplying Quantity and Unit Price. While the products table has clean data, the same cannot be said for the customers table as 
+The orders table is set to be the main table as it has 8 null columns which are filled in other tables that act as dimension tables to the orders table. Product ID and Customer ID are foreign keys in this table and can be used to join all three tables to create a main table for further analysis. The Sales column is to be computed as it does not exist in any other table. This can be done by multiplying Quantity and Unit Price.<br><br>
+While the products table has clean data, the same cannot be said for the customers table as the Email and Phone Number columns have a fair amount of null values. This can be explained through the assumption that certain customers may not enter either of this during registration. Another issue that was found in the customers table was inconsistencies within data types of the contents within the Postcode column of the customer table detected through Microsoft Excel.<br><br>
+
+## Execution of Steps
+-
