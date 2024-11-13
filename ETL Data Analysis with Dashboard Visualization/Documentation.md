@@ -58,4 +58,4 @@ While the products table has clean data, the same cannot be said for the custome
 ## Execution of Steps
 - Step 1: Extracted from Kaggle into a database with Microsoft SQL Server.
 - Step 2: Accesses the tables from the database using SELECT queries.
-- Step 3: Employed a COMMON TABLE EXPRESSION to incorporate an INNER JOIN between 
+- Step 3: Employed a COMMON TABLE EXPRESSION (CTE) to incorporate an INNER JOIN between customers and products, to obtain purely matching records and, to then employ LEFT JOIN on the CTE and 
