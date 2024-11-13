@@ -56,4 +56,6 @@ The orders table is set to be the main table as it has 8 null columns which are 
 While the products table has clean data, the same cannot be said for the customers table as the Email and Phone Number columns have a fair amount of null values. This can be explained through the assumption that certain customers may not enter either of this during registration. Another issue that was found in the customers table was inconsistencies within data types of the contents within the Postcode column of the customer table detected through Microsoft Excel.<br><br>
 
 ## Execution of Steps
--
+- Step 1: Extracted from Kaggle into a database with Microsoft SQL Server.
+- Step 2: Accesses the tables from the database using SELECT queries.
+- Step 3: Joins all three tables together with 
