@@ -58,4 +58,4 @@ While the products table has clean data, the same cannot be said for the custome
 ## Execution of Steps
 - Step 1: Extracted from Kaggle into a database with Microsoft SQL Server.
 - Step 2: Accesses the tables from the database using SELECT queries.
-- Step 3: Joins all three tables together with 
+- Step 3: Employed a COMMON TABLE EXPRESSION to incorporate an INNER JOIN between 
