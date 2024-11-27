@@ -1,17 +1,18 @@
 # Hospital Inpatient Discharge Analysis
 
-This project analyzes a dataset containing hospital inpatient discharge records. The primary objective is to clean and preprocess the data for further analysis, including handling missing values, converting variables, removing outliers, and conducting statistical tests.
+This project analyzes a dataset containing hospital inpatient discharge records. The primary objective is to clean and preprocess the data for further analysis, including handling missing values, converting variables, removing outliers, and conducting statistical tests. After which, a brief EDA process is focused on the dependent variable, Length of Stay (LoS) with relationships against the other independent variables explored, which in turn gives a small glimpse into the significant factors affecting LoS for both subgroups before the modelling phase.
 
 ## Project Overview
 
-The dataset contains information about hospital admissions, including details such as length of stay, diagnosis codes, procedures, and charges. This project focuses on data cleaning, normalization, and statistical analysis, with the final goal of splitting the data based on admission types (elective and emergency).
+The dataset contains information about hospital admissions, including details such as length of stay, diagnosis codes, procedures, and charges. This project focuses on data cleaning, normalization, statistical analysis, data visualizations, statistical modelling and explainable AI with the final goal centered around differences between importances of significant factors affecting LoS for elective and emergency admissions.
 
 ## Libraries Used
 
 - `pandas`: For data manipulation and cleaning
-- `matplotlib`: For visualizing missing data and outliers
+- `matplotlib`: For data visualizations and supplementing them with further applications.
 - `scipy.stats`: For performing statistical tests (e.g., T-test)
-- `sklearn`: For anomaly detection using the Isolation Forest algorithm
+- `sklearn`: For anomaly detection using the Isolation Forest algorithm and other ML models.
+- `seaborn`: For data visualizations.
 
 ## Steps
 
@@ -39,3 +40,24 @@ The dataset contains information about hospital admissions, including details su
 6. **Data Splitting**
    - The dataset is split into two subgroups: **Elective** and **Emergency** admissions.
    - These subgroups are saved into separate CSV files for further analysis.
+
+7. **Data Overview**
+   - The first 10 rows and the data types of both subgroups are displayed for initial inspection.
+
+8. **Categorical Columns Analysis**
+   - The unique number of categories for each categorical column in both subgroups are computed and printed.
+
+9. **Length of Stay (LoS) Distribution**
+   - The distribution of Length of Stay (LoS) for both elective and emergency admissions is visualized using kernel density estimates.
+   - Additionally, the percentages of days for LoS are computed and displayed.
+
+10. **Correlation Analysis Using Correlation Ratio**
+   - The correlation ratio (eta squared) is used to assess the relationship between categorical variables and LoS for both subgroups. The `correlation_ratio` function calculates this for each categorical column.
+   - The correlation results are displayed for both elective and emergency admissions.
+
+11. **Pearson's Correlation Matrix**
+   - A correlation matrix of numerical variables is created for both datasets, with a custom color map to indicate the strength of correlations leveraging `matplotlib.colors` and `LinearSegmentedColormap`.
+   - The `correlation_matrix` function generates and visualizes the correlation matrix for both elective and emergency admissions.
+
+12. **Data Overview**
+   - The first 10 rows and the data types of both subgroups are displayed for initial inspection.
